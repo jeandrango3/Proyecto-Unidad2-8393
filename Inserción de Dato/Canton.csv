@@ -1,0 +1,5000 @@
+CA01,Cuenca,Activo,PRO01
+CA02,Quito,Activo,PRO02
+CA03,Guayaquil,Activo,PRO03
+CA04,Loja,Activo,PRO04
+CA05,Esmeraldas, Inactivo,PRO05
+CA06,Cuenca, Inactivo,PRO06
+CA07,Esmeraldas, Inactivo,PRO07
+CA08,Esmeraldas,Activo,PRO08
+CA09,Chinchipe,Activo,PRO09
+CA10,Quito,Activo,PRO10
+CA11,Quito,Activo,PRO11
+CA12,Quito,Activo,PRO12
+CA13,Cuenca, Inactivo,PRO13
+CA14,Esmeraldas,Activo,PRO14
+CA15,Quito,Activo,PRO15
+CA16,Chinchipe, Inactivo,PRO16
+CA17,Cuenca, Inactivo,PRO17
+CA18,Quito,Activo,PRO18
+CA19,Guayaquil, Inactivo,PRO19
+CA20,Cuenca,Activo,PRO20
+CA21,Chinchipe,Activo,PRO21
+CA22,Chinchipe,Activo,PRO22
+CA23,Chinchipe,Activo,PRO23
+CA24,Loja,Activo,PRO24
+CA25,Chinchipe,Activo,PRO25
+CA26,Quito,Activo,PRO26
+CA27,Chinchipe, Inactivo,PRO27
+CA28,Quito, Inactivo,PRO28
+CA29,Loja,Activo,PRO29
+CA30,Guayaquil,Activo,PRO30
+CA31,Cuenca,Activo,PRO31
+CA32,Loja, Inactivo,PRO32
+CA33,Cuenca, Inactivo,PRO33
+CA34,Cuenca, Inactivo,PRO34
+CA35,Cuenca,Activo,PRO35
+CA36,Chinchipe,Activo,PRO36
+CA37,Quito, Inactivo,PRO37
+CA38,Esmeraldas,Activo,PRO38
+CA39,Guayaquil,Activo,PRO39
+CA40,Guayaquil, Inactivo,PRO40
+CA41,Chinchipe,Activo,PRO41
+CA42,Guayaquil, Inactivo,PRO42
+CA43,Guayaquil,Activo,PRO43
+CA44,Quito, Inactivo,PRO44
+CA45,Esmeraldas, Inactivo,PRO45
+CA46,Quito,Activo,PRO46
+CA47,Quito,Activo,PRO47
+CA48,Guayaquil, Inactivo,PRO48
+CA49,Guayaquil, Inactivo,PRO49
+CA50,Loja,Activo,PRO50
+CA51,Cuenca, Inactivo,PRO51
+CA52,Guayaquil,Activo,PRO52
+CA53,Loja,Activo,PRO53
+CA54,Loja,Activo,PRO54
+CA55,Chinchipe, Inactivo,PRO55
+CA56,Chinchipe, Inactivo,PRO56
+CA57,Guayaquil,Activo,PRO57
+CA58,Loja, Inactivo,PRO58
+CA59,Guayaquil,Activo,PRO59
+CA60,Quito, Inactivo,PRO60
+CA61,Cuenca,Activo,PRO61
+CA62,Chinchipe, Inactivo,PRO62
+CA63,Quito, Inactivo,PRO63
+CA64,Guayaquil, Inactivo,PRO64
+CA65,Quito,Activo,PRO65
+CA66,Guayaquil,Activo,PRO66
+CA67,Esmeraldas,Activo,PRO67
+CA68,Quito,Activo,PRO68
+CA69,Quito,Activo,PRO69
+CA70,Cuenca, Inactivo,PRO70
+CA71,Quito,Activo,PRO71
+CA72,Loja,Activo,PRO72
+CA73,Loja, Inactivo,PRO73
+CA74,Chinchipe,Activo,PRO74
+CA75,Cuenca, Inactivo,PRO75
+CA76,Guayaquil, Inactivo,PRO76
+CA77,Quito,Activo,PRO77
+CA78,Cuenca, Inactivo,PRO78
+CA79,Quito,Activo,PRO79
+CA80,Esmeraldas,Activo,PRO80
+CA81,Cuenca, Inactivo,PRO81
+CA82,Cuenca,Activo,PRO82
+CA83,Esmeraldas, Inactivo,PRO83
+CA84,Guayaquil, Inactivo,PRO84
+CA85,Chinchipe, Inactivo,PRO85
+CA86,Quito, Inactivo,PRO86
+CA87,Cuenca, Inactivo,PRO87
+CA88,Quito, Inactivo,PRO88
+CA89,Chinchipe,Activo,PRO89
+CA90,Guayaquil, Inactivo,PRO90
+CA91,Guayaquil, Inactivo,PRO91
+CA92,Cuenca,Activo,PRO92
+CA93,Quito,Activo,PRO93
+CA94,Chinchipe,Activo,PRO94
+CA95,Cuenca, Inactivo,PRO95
+CA96,Cuenca,Activo,PRO96
+CA97,Guayaquil, Inactivo,PRO97
+CA98,Guayaquil, Inactivo,PRO98
+CA99,Chinchipe, Inactivo,PRO99
+CA100,Guayaquil,Activo,PRO100
+CA101,Esmeraldas,Activo,PRO101
+CA102,Guayaquil, Inactivo,PRO102
+CA103,Quito,Activo,PRO103
+CA104,Quito,Activo,PRO104
+CA105,Guayaquil,Activo,PRO105
+CA106,Guayaquil, Inactivo,PRO106
+CA107,Quito,Activo,PRO107
+CA108,Loja,Activo,PRO108
+CA109,Loja,Activo,PRO109
+CA110,Esmeraldas, Inactivo,PRO110
+CA111,Cuenca,Activo,PRO111
+CA112,Guayaquil, Inactivo,PRO112
+CA113,Quito, Inactivo,PRO113
+CA114,Chinchipe, Inactivo,PRO114
+CA115,Chinchipe,Activo,PRO115
+CA116,Guayaquil,Activo,PRO116
+CA117,Chinchipe, Inactivo,PRO117
+CA118,Guayaquil,Activo,PRO118
+CA119,Chinchipe, Inactivo,PRO119
+CA120,Quito, Inactivo,PRO120
+CA121,Esmeraldas, Inactivo,PRO121
+CA122,Guayaquil, Inactivo,PRO122
+CA123,Guayaquil,Activo,PRO123
+CA124,Chinchipe, Inactivo,PRO124
+CA125,Quito, Inactivo,PRO125
+CA126,Guayaquil, Inactivo,PRO126
+CA127,Esmeraldas,Activo,PRO127
+CA128,Cuenca,Activo,PRO128
+CA129,Chinchipe, Inactivo,PRO129
+CA130,Chinchipe,Activo,PRO130
+CA131,Cuenca, Inactivo,PRO131
+CA132,Cuenca, Inactivo,PRO132
+CA133,Cuenca, Inactivo,PRO133
+CA134,Quito,Activo,PRO134
+CA135,Loja,Activo,PRO135
+CA136,Chinchipe,Activo,PRO136
+CA137,Loja,Activo,PRO137
+CA138,Guayaquil, Inactivo,PRO138
+CA139,Chinchipe,Activo,PRO139
+CA140,Quito, Inactivo,PRO140
+CA141,Quito, Inactivo,PRO141
+CA142,Loja,Activo,PRO142
+CA143,Quito,Activo,PRO143
+CA144,Cuenca,Activo,PRO144
+CA145,Quito,Activo,PRO145
+CA146,Chinchipe,Activo,PRO146
+CA147,Cuenca, Inactivo,PRO147
+CA148,Guayaquil,Activo,PRO148
+CA149,Chinchipe, Inactivo,PRO149
+CA150,Cuenca,Activo,PRO150
+CA151,Guayaquil,Activo,PRO151
+CA152,Cuenca,Activo,PRO152
+CA153,Cuenca,Activo,PRO153
+CA154,Guayaquil,Activo,PRO154
+CA155,Chinchipe,Activo,PRO155
+CA156,Loja, Inactivo,PRO156
+CA157,Guayaquil, Inactivo,PRO157
+CA158,Chinchipe,Activo,PRO158
+CA159,Guayaquil,Activo,PRO159
+CA160,Loja,Activo,PRO160
+CA161,Quito, Inactivo,PRO161
+CA162,Cuenca, Inactivo,PRO162
+CA163,Guayaquil, Inactivo,PRO163
+CA164,Chinchipe,Activo,PRO164
+CA165,Cuenca,Activo,PRO165
+CA166,Cuenca, Inactivo,PRO166
+CA167,Chinchipe, Inactivo,PRO167
+CA168,Esmeraldas,Activo,PRO168
+CA169,Chinchipe,Activo,PRO169
+CA170,Loja,Activo,PRO170
+CA171,Loja,Activo,PRO171
+CA172,Guayaquil, Inactivo,PRO172
+CA173,Guayaquil, Inactivo,PRO173
+CA174,Guayaquil,Activo,PRO174
+CA175,Quito, Inactivo,PRO175
+CA176,Cuenca,Activo,PRO176
+CA177,Esmeraldas,Activo,PRO177
+CA178,Quito,Activo,PRO178
+CA179,Guayaquil, Inactivo,PRO179
+CA180,Chinchipe, Inactivo,PRO180
+CA181,Chinchipe, Inactivo,PRO181
+CA182,Loja, Inactivo,PRO182
+CA183,Cuenca, Inactivo,PRO183
+CA184,Chinchipe, Inactivo,PRO184
+CA185,Chinchipe,Activo,PRO185
+CA186,Chinchipe,Activo,PRO186
+CA187,Quito, Inactivo,PRO187
+CA188,Quito, Inactivo,PRO188
+CA189,Esmeraldas,Activo,PRO189
+CA190,Quito, Inactivo,PRO190
+CA191,Esmeraldas,Activo,PRO191
+CA192,Quito,Activo,PRO192
+CA193,Chinchipe, Inactivo,PRO193
+CA194,Loja,Activo,PRO194
+CA195,Quito,Activo,PRO195
+CA196,Guayaquil, Inactivo,PRO196
+CA197,Cuenca,Activo,PRO197
+CA198,Guayaquil, Inactivo,PRO198
+CA199,Quito,Activo,PRO199
+CA200,Cuenca,Activo,PRO200
+CA201,Chinchipe,Activo,PRO201
+CA202,Guayaquil, Inactivo,PRO202
+CA203,Quito,Activo,PRO203
+CA204,Cuenca,Activo,PRO204
+CA205,Chinchipe, Inactivo,PRO205
+CA206,Quito, Inactivo,PRO206
+CA207,Guayaquil,Activo,PRO207
+CA208,Loja, Inactivo,PRO208
+CA209,Quito, Inactivo,PRO209
+CA210,Esmeraldas,Activo,PRO210
+CA211,Guayaquil, Inactivo,PRO211
+CA212,Guayaquil, Inactivo,PRO212
+CA213,Loja, Inactivo,PRO213
+CA214,Esmeraldas, Inactivo,PRO214
+CA215,Cuenca, Inactivo,PRO215
+CA216,Quito, Inactivo,PRO216
+CA217,Esmeraldas, Inactivo,PRO217
+CA218,Cuenca,Activo,PRO218
+CA219,Quito, Inactivo,PRO219
+CA220,Chinchipe,Activo,PRO220
+CA221,Guayaquil,Activo,PRO221
+CA222,Esmeraldas,Activo,PRO222
+CA223,Quito, Inactivo,PRO223
+CA224,Cuenca,Activo,PRO224
+CA225,Loja,Activo,PRO225
+CA226,Guayaquil,Activo,PRO226
+CA227,Guayaquil, Inactivo,PRO227
+CA228,Cuenca, Inactivo,PRO228
+CA229,Esmeraldas, Inactivo,PRO229
+CA230,Cuenca, Inactivo,PRO230
+CA231,Chinchipe,Activo,PRO231
+CA232,Loja,Activo,PRO232
+CA233,Cuenca, Inactivo,PRO233
+CA234,Chinchipe,Activo,PRO234
+CA235,Quito,Activo,PRO235
+CA236,Guayaquil, Inactivo,PRO236
+CA237,Quito,Activo,PRO237
+CA238,Loja, Inactivo,PRO238
+CA239,Cuenca, Inactivo,PRO239
+CA240,Chinchipe, Inactivo,PRO240
+CA241,Quito, Inactivo,PRO241
+CA242,Cuenca, Inactivo,PRO242
+CA243,Quito, Inactivo,PRO243
+CA244,Loja, Inactivo,PRO244
+CA245,Cuenca, Inactivo,PRO245
+CA246,Cuenca, Inactivo,PRO246
+CA247,Esmeraldas,Activo,PRO247
+CA248,Esmeraldas, Inactivo,PRO248
+CA249,Loja,Activo,PRO249
+CA250,Loja,Activo,PRO250
+CA251,Cuenca,Activo,PRO251
+CA252,Chinchipe,Activo,PRO252
+CA253,Cuenca, Inactivo,PRO253
+CA254,Guayaquil, Inactivo,PRO254
+CA255,Guayaquil,Activo,PRO255
+CA256,Esmeraldas,Activo,PRO256
+CA257,Chinchipe, Inactivo,PRO257
+CA258,Guayaquil,Activo,PRO258
+CA259,Quito,Activo,PRO259
+CA260,Chinchipe, Inactivo,PRO260
+CA261,Cuenca,Activo,PRO261
+CA262,Loja, Inactivo,PRO262
+CA263,Esmeraldas,Activo,PRO263
+CA264,Guayaquil, Inactivo,PRO264
+CA265,Esmeraldas,Activo,PRO265
+CA266,Chinchipe,Activo,PRO266
+CA267,Guayaquil,Activo,PRO267
+CA268,Quito, Inactivo,PRO268
+CA269,Chinchipe,Activo,PRO269
+CA270,Guayaquil,Activo,PRO270
+CA271,Chinchipe,Activo,PRO271
+CA272,Chinchipe,Activo,PRO272
+CA273,Chinchipe,Activo,PRO273
+CA274,Quito,Activo,PRO274
+CA275,Quito,Activo,PRO275
+CA276,Quito, Inactivo,PRO276
+CA277,Loja, Inactivo,PRO277
+CA278,Chinchipe,Activo,PRO278
+CA279,Esmeraldas,Activo,PRO279
+CA280,Cuenca,Activo,PRO280
+CA281,Quito,Activo,PRO281
+CA282,Quito,Activo,PRO282
+CA283,Esmeraldas, Inactivo,PRO283
+CA284,Quito, Inactivo,PRO284
+CA285,Esmeraldas,Activo,PRO285
+CA286,Loja,Activo,PRO286
+CA287,Chinchipe,Activo,PRO287
+CA288,Quito, Inactivo,PRO288
+CA289,Esmeraldas, Inactivo,PRO289
+CA290,Guayaquil,Activo,PRO290
+CA291,Cuenca, Inactivo,PRO291
+CA292,Cuenca,Activo,PRO292
+CA293,Loja,Activo,PRO293
+CA294,Esmeraldas, Inactivo,PRO294
+CA295,Guayaquil, Inactivo,PRO295
+CA296,Guayaquil, Inactivo,PRO296
+CA297,Cuenca, Inactivo,PRO297
+CA298,Cuenca,Activo,PRO298
+CA299,Loja, Inactivo,PRO299
+CA300,Guayaquil,Activo,PRO300
+CA301,Esmeraldas, Inactivo,PRO301
+CA302,Guayaquil, Inactivo,PRO302
+CA303,Quito,Activo,PRO303
+CA304,Cuenca,Activo,PRO304
+CA305,Chinchipe, Inactivo,PRO305
+CA306,Quito, Inactivo,PRO306
+CA307,Quito,Activo,PRO307
+CA308,Cuenca,Activo,PRO308
+CA309,Guayaquil,Activo,PRO309
+CA310,Chinchipe, Inactivo,PRO310
+CA311,Quito, Inactivo,PRO311
+CA312,Cuenca, Inactivo,PRO312
+CA313,Esmeraldas,Activo,PRO313
+CA314,Esmeraldas, Inactivo,PRO314
+CA315,Guayaquil, Inactivo,PRO315
+CA316,Esmeraldas, Inactivo,PRO316
+CA317,Cuenca, Inactivo,PRO317
+CA318,Quito, Inactivo,PRO318
+CA319,Cuenca, Inactivo,PRO319
+CA320,Guayaquil,Activo,PRO320
+CA321,Guayaquil, Inactivo,PRO321
+CA322,Cuenca,Activo,PRO322
+CA323,Quito, Inactivo,PRO323
+CA324,Chinchipe,Activo,PRO324
+CA325,Cuenca, Inactivo,PRO325
+CA326,Quito, Inactivo,PRO326
+CA327,Chinchipe,Activo,PRO327
+CA328,Cuenca, Inactivo,PRO328
+CA329,Chinchipe, Inactivo,PRO329
+CA330,Esmeraldas, Inactivo,PRO330
+CA331,Cuenca,Activo,PRO331
+CA332,Chinchipe, Inactivo,PRO332
+CA333,Quito, Inactivo,PRO333
+CA334,Cuenca, Inactivo,PRO334
+CA335,Esmeraldas, Inactivo,PRO335
+CA336,Guayaquil, Inactivo,PRO336
+CA337,Cuenca,Activo,PRO337
+CA338,Chinchipe, Inactivo,PRO338
+CA339,Loja,Activo,PRO339
+CA340,Chinchipe, Inactivo,PRO340
+CA341,Chinchipe, Inactivo,PRO341
+CA342,Quito,Activo,PRO342
+CA343,Quito,Activo,PRO343
+CA344,Quito, Inactivo,PRO344
+CA345,Guayaquil,Activo,PRO345
+CA346,Quito,Activo,PRO346
+CA347,Quito, Inactivo,PRO347
+CA348,Chinchipe, Inactivo,PRO348
+CA349,Esmeraldas,Activo,PRO349
+CA350,Quito,Activo,PRO350
+CA351,Cuenca, Inactivo,PRO351
+CA352,Cuenca,Activo,PRO352
+CA353,Quito,Activo,PRO353
+CA354,Loja, Inactivo,PRO354
+CA355,Quito,Activo,PRO355
+CA356,Loja,Activo,PRO356
+CA357,Guayaquil, Inactivo,PRO357
+CA358,Quito, Inactivo,PRO358
+CA359,Esmeraldas, Inactivo,PRO359
+CA360,Esmeraldas,Activo,PRO360
+CA361,Chinchipe,Activo,PRO361
+CA362,Chinchipe, Inactivo,PRO362
+CA363,Chinchipe,Activo,PRO363
+CA364,Cuenca, Inactivo,PRO364
+CA365,Guayaquil, Inactivo,PRO365
+CA366,Loja,Activo,PRO366
+CA367,Guayaquil,Activo,PRO367
+CA368,Guayaquil,Activo,PRO368
+CA369,Quito,Activo,PRO369
+CA370,Chinchipe, Inactivo,PRO370
+CA371,Cuenca, Inactivo,PRO371
+CA372,Guayaquil,Activo,PRO372
+CA373,Chinchipe, Inactivo,PRO373
+CA374,Quito,Activo,PRO374
+CA375,Chinchipe,Activo,PRO375
+CA376,Chinchipe,Activo,PRO376
+CA377,Chinchipe,Activo,PRO377
+CA378,Cuenca, Inactivo,PRO378
+CA379,Quito, Inactivo,PRO379
+CA380,Quito, Inactivo,PRO380
+CA381,Loja,Activo,PRO381
+CA382,Chinchipe,Activo,PRO382
+CA383,Cuenca, Inactivo,PRO383
+CA384,Esmeraldas, Inactivo,PRO384
+CA385,Quito,Activo,PRO385
+CA386,Quito, Inactivo,PRO386
+CA387,Cuenca,Activo,PRO387
+CA388,Esmeraldas, Inactivo,PRO388
+CA389,Quito,Activo,PRO389
+CA390,Cuenca, Inactivo,PRO390
+CA391,Loja,Activo,PRO391
+CA392,Guayaquil, Inactivo,PRO392
+CA393,Quito,Activo,PRO393
+CA394,Guayaquil, Inactivo,PRO394
+CA395,Cuenca,Activo,PRO395
+CA396,Chinchipe, Inactivo,PRO396
+CA397,Guayaquil,Activo,PRO397
+CA398,Esmeraldas,Activo,PRO398
+CA399,Esmeraldas,Activo,PRO399
+CA400,Cuenca, Inactivo,PRO400
+CA401,Esmeraldas,Activo,PRO401
+CA402,Cuenca,Activo,PRO402
+CA403,Chinchipe,Activo,PRO403
+CA404,Chinchipe,Activo,PRO404
+CA405,Chinchipe,Activo,PRO405
+CA406,Quito, Inactivo,PRO406
+CA407,Cuenca,Activo,PRO407
+CA408,Quito,Activo,PRO408
+CA409,Cuenca,Activo,PRO409
+CA410,Cuenca, Inactivo,PRO410
+CA411,Chinchipe, Inactivo,PRO411
+CA412,Guayaquil, Inactivo,PRO412
+CA413,Chinchipe, Inactivo,PRO413
+CA414,Quito, Inactivo,PRO414
+CA415,Cuenca, Inactivo,PRO415
+CA416,Chinchipe, Inactivo,PRO416
+CA417,Quito, Inactivo,PRO417
+CA418,Chinchipe,Activo,PRO418
+CA419,Loja,Activo,PRO419
+CA420,Guayaquil, Inactivo,PRO420
+CA421,Cuenca, Inactivo,PRO421
+CA422,Chinchipe,Activo,PRO422
+CA423,Chinchipe,Activo,PRO423
+CA424,Quito, Inactivo,PRO424
+CA425,Esmeraldas,Activo,PRO425
+CA426,Chinchipe,Activo,PRO426
+CA427,Chinchipe,Activo,PRO427
+CA428,Quito,Activo,PRO428
+CA429,Chinchipe,Activo,PRO429
+CA430,Chinchipe,Activo,PRO430
+CA431,Chinchipe, Inactivo,PRO431
+CA432,Esmeraldas, Inactivo,PRO432
+CA433,Esmeraldas,Activo,PRO433
+CA434,Loja,Activo,PRO434
+CA435,Guayaquil, Inactivo,PRO435
+CA436,Loja,Activo,PRO436
+CA437,Loja,Activo,PRO437
+CA438,Esmeraldas, Inactivo,PRO438
+CA439,Quito,Activo,PRO439
+CA440,Esmeraldas, Inactivo,PRO440
+CA441,Quito,Activo,PRO441
+CA442,Chinchipe, Inactivo,PRO442
+CA443,Esmeraldas, Inactivo,PRO443
+CA444,Loja,Activo,PRO444
+CA445,Cuenca, Inactivo,PRO445
+CA446,Quito, Inactivo,PRO446
+CA447,Loja, Inactivo,PRO447
+CA448,Chinchipe,Activo,PRO448
+CA449,Guayaquil, Inactivo,PRO449
+CA450,Guayaquil,Activo,PRO450
+CA451,Cuenca,Activo,PRO451
+CA452,Loja, Inactivo,PRO452
+CA453,Quito,Activo,PRO453
+CA454,Loja,Activo,PRO454
+CA455,Guayaquil,Activo,PRO455
+CA456,Esmeraldas,Activo,PRO456
+CA457,Loja,Activo,PRO457
+CA458,Quito, Inactivo,PRO458
+CA459,Chinchipe,Activo,PRO459
+CA460,Esmeraldas, Inactivo,PRO460
+CA461,Chinchipe,Activo,PRO461
+CA462,Guayaquil, Inactivo,PRO462
+CA463,Quito, Inactivo,PRO463
+CA464,Guayaquil, Inactivo,PRO464
+CA465,Quito, Inactivo,PRO465
+CA466,Chinchipe, Inactivo,PRO466
+CA467,Chinchipe,Activo,PRO467
+CA468,Chinchipe, Inactivo,PRO468
+CA469,Chinchipe,Activo,PRO469
+CA470,Quito, Inactivo,PRO470
+CA471,Cuenca,Activo,PRO471
+CA472,Cuenca, Inactivo,PRO472
+CA473,Chinchipe, Inactivo,PRO473
+CA474,Guayaquil,Activo,PRO474
+CA475,Guayaquil, Inactivo,PRO475
+CA476,Quito,Activo,PRO476
+CA477,Chinchipe, Inactivo,PRO477
+CA478,Guayaquil,Activo,PRO478
+CA479,Chinchipe, Inactivo,PRO479
+CA480,Chinchipe,Activo,PRO480
+CA481,Guayaquil,Activo,PRO481
+CA482,Chinchipe,Activo,PRO482
+CA483,Cuenca, Inactivo,PRO483
+CA484,Quito, Inactivo,PRO484
+CA485,Guayaquil,Activo,PRO485
+CA486,Guayaquil, Inactivo,PRO486
+CA487,Quito,Activo,PRO487
+CA488,Quito, Inactivo,PRO488
+CA489,Chinchipe,Activo,PRO489
+CA490,Quito, Inactivo,PRO490
+CA491,Chinchipe, Inactivo,PRO491
+CA492,Loja,Activo,PRO492
+CA493,Guayaquil, Inactivo,PRO493
+CA494,Esmeraldas, Inactivo,PRO494
+CA495,Loja, Inactivo,PRO495
+CA496,Esmeraldas,Activo,PRO496
+CA497,Quito, Inactivo,PRO497
+CA498,Cuenca,Activo,PRO498
+CA499,Esmeraldas, Inactivo,PRO499
+CA500,Cuenca, Inactivo,PRO500
+CA501,Cuenca, Inactivo,PRO501
+CA502,Guayaquil,Activo,PRO502
+CA503,Quito, Inactivo,PRO503
+CA504,Chinchipe,Activo,PRO504
+CA505,Loja, Inactivo,PRO505
+CA506,Cuenca,Activo,PRO506
+CA507,Esmeraldas, Inactivo,PRO507
+CA508,Quito, Inactivo,PRO508
+CA509,Quito, Inactivo,PRO509
+CA510,Guayaquil,Activo,PRO510
+CA511,Chinchipe, Inactivo,PRO511
+CA512,Cuenca,Activo,PRO512
+CA513,Chinchipe,Activo,PRO513
+CA514,Chinchipe,Activo,PRO514
+CA515,Guayaquil, Inactivo,PRO515
+CA516,Esmeraldas, Inactivo,PRO516
+CA517,Guayaquil,Activo,PRO517
+CA518,Chinchipe, Inactivo,PRO518
+CA519,Chinchipe,Activo,PRO519
+CA520,Cuenca, Inactivo,PRO520
+CA521,Quito, Inactivo,PRO521
+CA522,Chinchipe, Inactivo,PRO522
+CA523,Guayaquil,Activo,PRO523
+CA524,Loja, Inactivo,PRO524
+CA525,Esmeraldas, Inactivo,PRO525
+CA526,Chinchipe, Inactivo,PRO526
+CA527,Quito, Inactivo,PRO527
+CA528,Quito,Activo,PRO528
+CA529,Chinchipe, Inactivo,PRO529
+CA530,Cuenca, Inactivo,PRO530
+CA531,Cuenca, Inactivo,PRO531
+CA532,Guayaquil,Activo,PRO532
+CA533,Esmeraldas, Inactivo,PRO533
+CA534,Quito,Activo,PRO534
+CA535,Cuenca,Activo,PRO535
+CA536,Loja, Inactivo,PRO536
+CA537,Esmeraldas, Inactivo,PRO537
+CA538,Guayaquil, Inactivo,PRO538
+CA539,Cuenca,Activo,PRO539
+CA540,Chinchipe, Inactivo,PRO540
+CA541,Cuenca, Inactivo,PRO541
+CA542,Guayaquil, Inactivo,PRO542
+CA543,Cuenca,Activo,PRO543
+CA544,Chinchipe,Activo,PRO544
+CA545,Loja, Inactivo,PRO545
+CA546,Esmeraldas, Inactivo,PRO546
+CA547,Esmeraldas, Inactivo,PRO547
+CA548,Cuenca,Activo,PRO548
+CA549,Chinchipe, Inactivo,PRO549
+CA550,Loja, Inactivo,PRO550
+CA551,Chinchipe,Activo,PRO551
+CA552,Cuenca, Inactivo,PRO552
+CA553,Chinchipe,Activo,PRO553
+CA554,Chinchipe,Activo,PRO554
+CA555,Cuenca,Activo,PRO555
+CA556,Guayaquil, Inactivo,PRO556
+CA557,Loja, Inactivo,PRO557
+CA558,Quito, Inactivo,PRO558
+CA559,Esmeraldas, Inactivo,PRO559
+CA560,Esmeraldas, Inactivo,PRO560
+CA561,Cuenca, Inactivo,PRO561
+CA562,Chinchipe,Activo,PRO562
+CA563,Chinchipe,Activo,PRO563
+CA564,Cuenca, Inactivo,PRO564
+CA565,Cuenca, Inactivo,PRO565
+CA566,Chinchipe, Inactivo,PRO566
+CA567,Cuenca, Inactivo,PRO567
+CA568,Quito,Activo,PRO568
+CA569,Loja, Inactivo,PRO569
+CA570,Guayaquil, Inactivo,PRO570
+CA571,Loja, Inactivo,PRO571
+CA572,Quito, Inactivo,PRO572
+CA573,Chinchipe,Activo,PRO573
+CA574,Chinchipe, Inactivo,PRO574
+CA575,Chinchipe,Activo,PRO575
+CA576,Cuenca,Activo,PRO576
+CA577,Esmeraldas,Activo,PRO577
+CA578,Loja,Activo,PRO578
+CA579,Cuenca, Inactivo,PRO579
+CA580,Guayaquil,Activo,PRO580
+CA581,Guayaquil,Activo,PRO581
+CA582,Quito,Activo,PRO582
+CA583,Guayaquil,Activo,PRO583
+CA584,Loja, Inactivo,PRO584
+CA585,Chinchipe, Inactivo,PRO585
+CA586,Cuenca,Activo,PRO586
+CA587,Loja,Activo,PRO587
+CA588,Esmeraldas,Activo,PRO588
+CA589,Cuenca,Activo,PRO589
+CA590,Chinchipe, Inactivo,PRO590
+CA591,Cuenca, Inactivo,PRO591
+CA592,Cuenca, Inactivo,PRO592
+CA593,Quito,Activo,PRO593
+CA594,Quito, Inactivo,PRO594
+CA595,Chinchipe,Activo,PRO595
+CA596,Chinchipe, Inactivo,PRO596
+CA597,Cuenca,Activo,PRO597
+CA598,Guayaquil,Activo,PRO598
+CA599,Chinchipe, Inactivo,PRO599
+CA600,Loja,Activo,PRO600
+CA601,Cuenca,Activo,PRO601
+CA602,Chinchipe,Activo,PRO602
+CA603,Esmeraldas, Inactivo,PRO603
+CA604,Chinchipe,Activo,PRO604
+CA605,Loja, Inactivo,PRO605
+CA606,Chinchipe, Inactivo,PRO606
+CA607,Esmeraldas, Inactivo,PRO607
+CA608,Chinchipe, Inactivo,PRO608
+CA609,Guayaquil, Inactivo,PRO609
+CA610,Cuenca,Activo,PRO610
+CA611,Guayaquil, Inactivo,PRO611
+CA612,Cuenca, Inactivo,PRO612
+CA613,Cuenca,Activo,PRO613
+CA614,Esmeraldas, Inactivo,PRO614
+CA615,Loja,Activo,PRO615
+CA616,Cuenca, Inactivo,PRO616
+CA617,Chinchipe, Inactivo,PRO617
+CA618,Cuenca,Activo,PRO618
+CA619,Loja, Inactivo,PRO619
+CA620,Chinchipe, Inactivo,PRO620
+CA621,Guayaquil, Inactivo,PRO621
+CA622,Loja,Activo,PRO622
+CA623,Quito,Activo,PRO623
+CA624,Esmeraldas, Inactivo,PRO624
+CA625,Chinchipe,Activo,PRO625
+CA626,Guayaquil,Activo,PRO626
+CA627,Loja,Activo,PRO627
+CA628,Cuenca, Inactivo,PRO628
+CA629,Esmeraldas,Activo,PRO629
+CA630,Cuenca, Inactivo,PRO630
+CA631,Chinchipe,Activo,PRO631
+CA632,Chinchipe, Inactivo,PRO632
+CA633,Guayaquil,Activo,PRO633
+CA634,Guayaquil, Inactivo,PRO634
+CA635,Guayaquil, Inactivo,PRO635
+CA636,Quito, Inactivo,PRO636
+CA637,Chinchipe,Activo,PRO637
+CA638,Cuenca,Activo,PRO638
+CA639,Esmeraldas,Activo,PRO639
+CA640,Cuenca, Inactivo,PRO640
+CA641,Cuenca,Activo,PRO641
+CA642,Cuenca, Inactivo,PRO642
+CA643,Guayaquil,Activo,PRO643
+CA644,Loja, Inactivo,PRO644
+CA645,Guayaquil, Inactivo,PRO645
+CA646,Chinchipe, Inactivo,PRO646
+CA647,Cuenca,Activo,PRO647
+CA648,Quito, Inactivo,PRO648
+CA649,Esmeraldas,Activo,PRO649
+CA650,Cuenca,Activo,PRO650
+CA651,Guayaquil,Activo,PRO651
+CA652,Cuenca,Activo,PRO652
+CA653,Chinchipe, Inactivo,PRO653
+CA654,Guayaquil,Activo,PRO654
+CA655,Cuenca,Activo,PRO655
+CA656,Loja,Activo,PRO656
+CA657,Chinchipe,Activo,PRO657
+CA658,Chinchipe,Activo,PRO658
+CA659,Quito, Inactivo,PRO659
+CA660,Cuenca, Inactivo,PRO660
+CA661,Guayaquil,Activo,PRO661
+CA662,Loja, Inactivo,PRO662
+CA663,Chinchipe,Activo,PRO663
+CA664,Guayaquil,Activo,PRO664
+CA665,Chinchipe,Activo,PRO665
+CA666,Cuenca, Inactivo,PRO666
+CA667,Quito, Inactivo,PRO667
+CA668,Esmeraldas,Activo,PRO668
+CA669,Loja, Inactivo,PRO669
+CA670,Loja, Inactivo,PRO670
+CA671,Loja, Inactivo,PRO671
+CA672,Quito, Inactivo,PRO672
+CA673,Loja,Activo,PRO673
+CA674,Guayaquil,Activo,PRO674
+CA675,Cuenca, Inactivo,PRO675
+CA676,Quito, Inactivo,PRO676
+CA677,Guayaquil,Activo,PRO677
+CA678,Cuenca,Activo,PRO678
+CA679,Esmeraldas, Inactivo,PRO679
+CA680,Cuenca, Inactivo,PRO680
+CA681,Cuenca, Inactivo,PRO681
+CA682,Guayaquil,Activo,PRO682
+CA683,Quito,Activo,PRO683
+CA684,Guayaquil, Inactivo,PRO684
+CA685,Loja, Inactivo,PRO685
+CA686,Cuenca,Activo,PRO686
+CA687,Cuenca, Inactivo,PRO687
+CA688,Loja,Activo,PRO688
+CA689,Guayaquil, Inactivo,PRO689
+CA690,Cuenca, Inactivo,PRO690
+CA691,Esmeraldas, Inactivo,PRO691
+CA692,Quito, Inactivo,PRO692
+CA693,Guayaquil, Inactivo,PRO693
+CA694,Quito,Activo,PRO694
+CA695,Chinchipe,Activo,PRO695
+CA696,Chinchipe, Inactivo,PRO696
+CA697,Quito, Inactivo,PRO697
+CA698,Quito,Activo,PRO698
+CA699,Cuenca,Activo,PRO699
+CA700,Quito,Activo,PRO700
+CA701,Esmeraldas,Activo,PRO701
+CA702,Quito, Inactivo,PRO702
+CA703,Chinchipe, Inactivo,PRO703
+CA704,Chinchipe, Inactivo,PRO704
+CA705,Quito,Activo,PRO705
+CA706,Guayaquil,Activo,PRO706
+CA707,Chinchipe, Inactivo,PRO707
+CA708,Cuenca,Activo,PRO708
+CA709,Chinchipe,Activo,PRO709
+CA710,Cuenca, Inactivo,PRO710
+CA711,Chinchipe,Activo,PRO711
+CA712,Quito, Inactivo,PRO712
+CA713,Guayaquil, Inactivo,PRO713
+CA714,Cuenca,Activo,PRO714
+CA715,Chinchipe, Inactivo,PRO715
+CA716,Cuenca, Inactivo,PRO716
+CA717,Esmeraldas,Activo,PRO717
+CA718,Quito,Activo,PRO718
+CA719,Cuenca,Activo,PRO719
+CA720,Esmeraldas, Inactivo,PRO720
+CA721,Esmeraldas, Inactivo,PRO721
+CA722,Cuenca, Inactivo,PRO722
+CA723,Quito, Inactivo,PRO723
+CA724,Chinchipe,Activo,PRO724
+CA725,Chinchipe,Activo,PRO725
+CA726,Cuenca,Activo,PRO726
+CA727,Loja,Activo,PRO727
+CA728,Esmeraldas,Activo,PRO728
+CA729,Guayaquil,Activo,PRO729
+CA730,Esmeraldas, Inactivo,PRO730
+CA731,Cuenca, Inactivo,PRO731
+CA732,Loja,Activo,PRO732
+CA733,Chinchipe, Inactivo,PRO733
+CA734,Esmeraldas, Inactivo,PRO734
+CA735,Cuenca,Activo,PRO735
+CA736,Cuenca,Activo,PRO736
+CA737,Chinchipe,Activo,PRO737
+CA738,Cuenca, Inactivo,PRO738
+CA739,Quito, Inactivo,PRO739
+CA740,Guayaquil,Activo,PRO740
+CA741,Loja, Inactivo,PRO741
+CA742,Guayaquil, Inactivo,PRO742
+CA743,Quito,Activo,PRO743
+CA744,Esmeraldas,Activo,PRO744
+CA745,Loja,Activo,PRO745
+CA746,Loja,Activo,PRO746
+CA747,Loja,Activo,PRO747
+CA748,Quito, Inactivo,PRO748
+CA749,Guayaquil, Inactivo,PRO749
+CA750,Cuenca, Inactivo,PRO750
+CA751,Loja, Inactivo,PRO751
+CA752,Guayaquil,Activo,PRO752
+CA753,Esmeraldas, Inactivo,PRO753
+CA754,Chinchipe, Inactivo,PRO754
+CA755,Guayaquil,Activo,PRO755
+CA756,Quito, Inactivo,PRO756
+CA757,Guayaquil,Activo,PRO757
+CA758,Chinchipe, Inactivo,PRO758
+CA759,Quito,Activo,PRO759
+CA760,Chinchipe, Inactivo,PRO760
+CA761,Cuenca, Inactivo,PRO761
+CA762,Chinchipe, Inactivo,PRO762
+CA763,Esmeraldas,Activo,PRO763
+CA764,Quito, Inactivo,PRO764
+CA765,Loja, Inactivo,PRO765
+CA766,Esmeraldas, Inactivo,PRO766
+CA767,Cuenca,Activo,PRO767
+CA768,Guayaquil,Activo,PRO768
+CA769,Loja,Activo,PRO769
+CA770,Quito, Inactivo,PRO770
+CA771,Esmeraldas,Activo,PRO771
+CA772,Chinchipe,Activo,PRO772
+CA773,Loja,Activo,PRO773
+CA774,Loja, Inactivo,PRO774
+CA775,Cuenca,Activo,PRO775
+CA776,Cuenca,Activo,PRO776
+CA777,Chinchipe, Inactivo,PRO777
+CA778,Cuenca,Activo,PRO778
+CA779,Chinchipe,Activo,PRO779
+CA780,Guayaquil,Activo,PRO780
+CA781,Guayaquil, Inactivo,PRO781
+CA782,Chinchipe, Inactivo,PRO782
+CA783,Cuenca,Activo,PRO783
+CA784,Chinchipe, Inactivo,PRO784
+CA785,Guayaquil, Inactivo,PRO785
+CA786,Esmeraldas, Inactivo,PRO786
+CA787,Esmeraldas, Inactivo,PRO787
+CA788,Quito,Activo,PRO788
+CA789,Guayaquil, Inactivo,PRO789
+CA790,Quito,Activo,PRO790
+CA791,Chinchipe, Inactivo,PRO791
+CA792,Cuenca, Inactivo,PRO792
+CA793,Cuenca,Activo,PRO793
+CA794,Quito,Activo,PRO794
+CA795,Loja, Inactivo,PRO795
+CA796,Loja,Activo,PRO796
+CA797,Cuenca,Activo,PRO797
+CA798,Quito,Activo,PRO798
+CA799,Quito, Inactivo,PRO799
+CA800,Esmeraldas,Activo,PRO800
+CA801,Guayaquil,Activo,PRO801
+CA802,Chinchipe,Activo,PRO802
+CA803,Cuenca, Inactivo,PRO803
+CA804,Guayaquil, Inactivo,PRO804
+CA805,Chinchipe, Inactivo,PRO805
+CA806,Cuenca,Activo,PRO806
+CA807,Loja, Inactivo,PRO807
+CA808,Quito, Inactivo,PRO808
+CA809,Guayaquil,Activo,PRO809
+CA810,Quito,Activo,PRO810
+CA811,Guayaquil, Inactivo,PRO811
+CA812,Chinchipe, Inactivo,PRO812
+CA813,Chinchipe, Inactivo,PRO813
+CA814,Loja,Activo,PRO814
+CA815,Chinchipe, Inactivo,PRO815
+CA816,Loja, Inactivo,PRO816
+CA817,Loja,Activo,PRO817
+CA818,Quito,Activo,PRO818
+CA819,Cuenca, Inactivo,PRO819
+CA820,Guayaquil, Inactivo,PRO820
+CA821,Loja, Inactivo,PRO821
+CA822,Loja,Activo,PRO822
+CA823,Chinchipe, Inactivo,PRO823
+CA824,Chinchipe, Inactivo,PRO824
+CA825,Guayaquil,Activo,PRO825
+CA826,Cuenca, Inactivo,PRO826
+CA827,Chinchipe,Activo,PRO827
+CA828,Guayaquil, Inactivo,PRO828
+CA829,Esmeraldas,Activo,PRO829
+CA830,Guayaquil, Inactivo,PRO830
+CA831,Loja, Inactivo,PRO831
+CA832,Cuenca,Activo,PRO832
+CA833,Loja,Activo,PRO833
+CA834,Chinchipe, Inactivo,PRO834
+CA835,Guayaquil,Activo,PRO835
+CA836,Guayaquil, Inactivo,PRO836
+CA837,Loja,Activo,PRO837
+CA838,Quito, Inactivo,PRO838
+CA839,Esmeraldas, Inactivo,PRO839
+CA840,Quito, Inactivo,PRO840
+CA841,Guayaquil,Activo,PRO841
+CA842,Guayaquil,Activo,PRO842
+CA843,Guayaquil,Activo,PRO843
+CA844,Quito, Inactivo,PRO844
+CA845,Esmeraldas,Activo,PRO845
+CA846,Quito,Activo,PRO846
+CA847,Quito,Activo,PRO847
+CA848,Esmeraldas, Inactivo,PRO848
+CA849,Quito,Activo,PRO849
+CA850,Chinchipe, Inactivo,PRO850
+CA851,Loja, Inactivo,PRO851
+CA852,Loja,Activo,PRO852
+CA853,Quito,Activo,PRO853
+CA854,Cuenca,Activo,PRO854
+CA855,Esmeraldas, Inactivo,PRO855
+CA856,Chinchipe, Inactivo,PRO856
+CA857,Quito,Activo,PRO857
+CA858,Loja,Activo,PRO858
+CA859,Chinchipe,Activo,PRO859
+CA860,Chinchipe,Activo,PRO860
+CA861,Cuenca, Inactivo,PRO861
+CA862,Chinchipe,Activo,PRO862
+CA863,Quito,Activo,PRO863
+CA864,Guayaquil,Activo,PRO864
+CA865,Esmeraldas,Activo,PRO865
+CA866,Quito,Activo,PRO866
+CA867,Guayaquil, Inactivo,PRO867
+CA868,Esmeraldas,Activo,PRO868
+CA869,Guayaquil,Activo,PRO869
+CA870,Guayaquil,Activo,PRO870
+CA871,Chinchipe,Activo,PRO871
+CA872,Chinchipe, Inactivo,PRO872
+CA873,Esmeraldas, Inactivo,PRO873
+CA874,Cuenca, Inactivo,PRO874
+CA875,Chinchipe,Activo,PRO875
+CA876,Chinchipe, Inactivo,PRO876
+CA877,Chinchipe,Activo,PRO877
+CA878,Esmeraldas,Activo,PRO878
+CA879,Guayaquil,Activo,PRO879
+CA880,Quito,Activo,PRO880
+CA881,Chinchipe,Activo,PRO881
+CA882,Loja, Inactivo,PRO882
+CA883,Loja,Activo,PRO883
+CA884,Guayaquil, Inactivo,PRO884
+CA885,Guayaquil, Inactivo,PRO885
+CA886,Cuenca, Inactivo,PRO886
+CA887,Chinchipe, Inactivo,PRO887
+CA888,Quito,Activo,PRO888
+CA889,Chinchipe,Activo,PRO889
+CA890,Guayaquil,Activo,PRO890
+CA891,Loja, Inactivo,PRO891
+CA892,Guayaquil,Activo,PRO892
+CA893,Quito,Activo,PRO893
+CA894,Chinchipe, Inactivo,PRO894
+CA895,Guayaquil, Inactivo,PRO895
+CA896,Guayaquil, Inactivo,PRO896
+CA897,Loja,Activo,PRO897
+CA898,Esmeraldas,Activo,PRO898
+CA899,Quito, Inactivo,PRO899
+CA900,Cuenca, Inactivo,PRO900
+CA901,Chinchipe, Inactivo,PRO901
+CA902,Loja, Inactivo,PRO902
+CA903,Guayaquil,Activo,PRO903
+CA904,Chinchipe,Activo,PRO904
+CA905,Chinchipe,Activo,PRO905
+CA906,Quito,Activo,PRO906
+CA907,Guayaquil,Activo,PRO907
+CA908,Quito, Inactivo,PRO908
+CA909,Cuenca, Inactivo,PRO909
+CA910,Quito, Inactivo,PRO910
+CA911,Quito, Inactivo,PRO911
+CA912,Cuenca,Activo,PRO912
+CA913,Quito,Activo,PRO913
+CA914,Guayaquil, Inactivo,PRO914
+CA915,Guayaquil,Activo,PRO915
+CA916,Guayaquil, Inactivo,PRO916
+CA917,Guayaquil, Inactivo,PRO917
+CA918,Esmeraldas, Inactivo,PRO918
+CA919,Esmeraldas,Activo,PRO919
+CA920,Loja, Inactivo,PRO920
+CA921,Guayaquil, Inactivo,PRO921
+CA922,Esmeraldas,Activo,PRO922
+CA923,Quito,Activo,PRO923
+CA924,Loja, Inactivo,PRO924
+CA925,Guayaquil,Activo,PRO925
+CA926,Cuenca,Activo,PRO926
+CA927,Guayaquil,Activo,PRO927
+CA928,Guayaquil, Inactivo,PRO928
+CA929,Chinchipe,Activo,PRO929
+CA930,Esmeraldas,Activo,PRO930
+CA931,Quito, Inactivo,PRO931
+CA932,Chinchipe,Activo,PRO932
+CA933,Chinchipe,Activo,PRO933
+CA934,Guayaquil, Inactivo,PRO934
+CA935,Cuenca, Inactivo,PRO935
+CA936,Guayaquil,Activo,PRO936
+CA937,Guayaquil, Inactivo,PRO937
+CA938,Cuenca, Inactivo,PRO938
+CA939,Esmeraldas,Activo,PRO939
+CA940,Esmeraldas, Inactivo,PRO940
+CA941,Loja, Inactivo,PRO941
+CA942,Esmeraldas, Inactivo,PRO942
+CA943,Guayaquil,Activo,PRO943
+CA944,Cuenca, Inactivo,PRO944
+CA945,Guayaquil,Activo,PRO945
+CA946,Chinchipe,Activo,PRO946
+CA947,Cuenca, Inactivo,PRO947
+CA948,Loja,Activo,PRO948
+CA949,Quito, Inactivo,PRO949
+CA950,Cuenca, Inactivo,PRO950
+CA951,Guayaquil,Activo,PRO951
+CA952,Chinchipe, Inactivo,PRO952
+CA953,Quito, Inactivo,PRO953
+CA954,Quito,Activo,PRO954
+CA955,Cuenca,Activo,PRO955
+CA956,Cuenca, Inactivo,PRO956
+CA957,Cuenca,Activo,PRO957
+CA958,Cuenca, Inactivo,PRO958
+CA959,Quito,Activo,PRO959
+CA960,Guayaquil,Activo,PRO960
+CA961,Cuenca,Activo,PRO961
+CA962,Quito, Inactivo,PRO962
+CA963,Loja,Activo,PRO963
+CA964,Chinchipe, Inactivo,PRO964
+CA965,Guayaquil,Activo,PRO965
+CA966,Guayaquil,Activo,PRO966
+CA967,Chinchipe, Inactivo,PRO967
+CA968,Cuenca,Activo,PRO968
+CA969,Chinchipe, Inactivo,PRO969
+CA970,Guayaquil, Inactivo,PRO970
+CA971,Quito,Activo,PRO971
+CA972,Chinchipe,Activo,PRO972
+CA973,Guayaquil, Inactivo,PRO973
+CA974,Cuenca, Inactivo,PRO974
+CA975,Loja,Activo,PRO975
+CA976,Esmeraldas,Activo,PRO976
+CA977,Guayaquil, Inactivo,PRO977
+CA978,Esmeraldas,Activo,PRO978
+CA979,Esmeraldas,Activo,PRO979
+CA980,Guayaquil, Inactivo,PRO980
+CA981,Quito,Activo,PRO981
+CA982,Chinchipe, Inactivo,PRO982
+CA983,Quito, Inactivo,PRO983
+CA984,Guayaquil,Activo,PRO984
+CA985,Quito,Activo,PRO985
+CA986,Cuenca, Inactivo,PRO986
+CA987,Chinchipe, Inactivo,PRO987
+CA988,Esmeraldas, Inactivo,PRO988
+CA989,Chinchipe,Activo,PRO989
+CA990,Chinchipe, Inactivo,PRO990
+CA991,Cuenca,Activo,PRO991
+CA992,Esmeraldas, Inactivo,PRO992
+CA993,Quito, Inactivo,PRO993
+CA994,Esmeraldas,Activo,PRO994
+CA995,Quito, Inactivo,PRO995
+CA996,Esmeraldas,Activo,PRO996
+CA997,Chinchipe,Activo,PRO997
+CA998,Quito, Inactivo,PRO998
+CA999,Esmeraldas, Inactivo,PRO999
+CA1000,Esmeraldas,Activo,PRO1000
+CA1001,Esmeraldas, Inactivo,PRO1001
+CA1002,Cuenca, Inactivo,PRO1002
+CA1003,Cuenca,Activo,PRO1003
+CA1004,Quito,Activo,PRO1004
+CA1005,Quito, Inactivo,PRO1005
+CA1006,Esmeraldas, Inactivo,PRO1006
+CA1007,Loja,Activo,PRO1007
+CA1008,Chinchipe, Inactivo,PRO1008
+CA1009,Quito,Activo,PRO1009
+CA1010,Chinchipe, Inactivo,PRO1010
+CA1011,Chinchipe, Inactivo,PRO1011
+CA1012,Quito,Activo,PRO1012
+CA1013,Guayaquil,Activo,PRO1013
+CA1014,Esmeraldas, Inactivo,PRO1014
+CA1015,Cuenca, Inactivo,PRO1015
+CA1016,Guayaquil, Inactivo,PRO1016
+CA1017,Guayaquil, Inactivo,PRO1017
+CA1018,Loja,Activo,PRO1018
+CA1019,Chinchipe,Activo,PRO1019
+CA1020,Chinchipe,Activo,PRO1020
+CA1021,Guayaquil, Inactivo,PRO1021
+CA1022,Chinchipe, Inactivo,PRO1022
+CA1023,Guayaquil,Activo,PRO1023
+CA1024,Cuenca, Inactivo,PRO1024
+CA1025,Guayaquil,Activo,PRO1025
+CA1026,Quito,Activo,PRO1026
+CA1027,Esmeraldas,Activo,PRO1027
+CA1028,Esmeraldas,Activo,PRO1028
+CA1029,Chinchipe, Inactivo,PRO1029
+CA1030,Guayaquil, Inactivo,PRO1030
+CA1031,Cuenca,Activo,PRO1031
+CA1032,Guayaquil, Inactivo,PRO1032
+CA1033,Cuenca, Inactivo,PRO1033
+CA1034,Cuenca,Activo,PRO1034
+CA1035,Cuenca, Inactivo,PRO1035
+CA1036,Guayaquil,Activo,PRO1036
+CA1037,Loja,Activo,PRO1037
+CA1038,Guayaquil, Inactivo,PRO1038
+CA1039,Quito,Activo,PRO1039
+CA1040,Cuenca, Inactivo,PRO1040
+CA1041,Cuenca,Activo,PRO1041
+CA1042,Esmeraldas,Activo,PRO1042
+CA1043,Guayaquil, Inactivo,PRO1043
+CA1044,Esmeraldas, Inactivo,PRO1044
+CA1045,Loja,Activo,PRO1045
+CA1046,Cuenca, Inactivo,PRO1046
+CA1047,Guayaquil, Inactivo,PRO1047
+CA1048,Guayaquil, Inactivo,PRO1048
+CA1049,Chinchipe, Inactivo,PRO1049
+CA1050,Guayaquil,Activo,PRO1050
+CA1051,Esmeraldas, Inactivo,PRO1051
+CA1052,Quito, Inactivo,PRO1052
+CA1053,Cuenca, Inactivo,PRO1053
+CA1054,Loja, Inactivo,PRO1054
+CA1055,Esmeraldas, Inactivo,PRO1055
+CA1056,Loja,Activo,PRO1056
+CA1057,Loja,Activo,PRO1057
+CA1058,Loja,Activo,PRO1058
+CA1059,Cuenca, Inactivo,PRO1059
+CA1060,Chinchipe, Inactivo,PRO1060
+CA1061,Chinchipe, Inactivo,PRO1061
+CA1062,Cuenca, Inactivo,PRO1062
+CA1063,Guayaquil,Activo,PRO1063
+CA1064,Quito,Activo,PRO1064
+CA1065,Guayaquil,Activo,PRO1065
+CA1066,Guayaquil, Inactivo,PRO1066
+CA1067,Esmeraldas, Inactivo,PRO1067
+CA1068,Quito,Activo,PRO1068
+CA1069,Loja,Activo,PRO1069
+CA1070,Chinchipe,Activo,PRO1070
+CA1071,Quito, Inactivo,PRO1071
+CA1072,Esmeraldas, Inactivo,PRO1072
+CA1073,Guayaquil, Inactivo,PRO1073
+CA1074,Quito,Activo,PRO1074
+CA1075,Cuenca,Activo,PRO1075
+CA1076,Loja, Inactivo,PRO1076
+CA1077,Cuenca, Inactivo,PRO1077
+CA1078,Cuenca, Inactivo,PRO1078
+CA1079,Guayaquil, Inactivo,PRO1079
+CA1080,Esmeraldas, Inactivo,PRO1080
+CA1081,Guayaquil, Inactivo,PRO1081
+CA1082,Chinchipe,Activo,PRO1082
+CA1083,Loja, Inactivo,PRO1083
+CA1084,Quito, Inactivo,PRO1084
+CA1085,Quito,Activo,PRO1085
+CA1086,Guayaquil, Inactivo,PRO1086
+CA1087,Cuenca, Inactivo,PRO1087
+CA1088,Guayaquil, Inactivo,PRO1088
+CA1089,Guayaquil,Activo,PRO1089
+CA1090,Esmeraldas, Inactivo,PRO1090
+CA1091,Guayaquil, Inactivo,PRO1091
+CA1092,Chinchipe, Inactivo,PRO1092
+CA1093,Guayaquil,Activo,PRO1093
+CA1094,Quito,Activo,PRO1094
+CA1095,Quito,Activo,PRO1095
+CA1096,Quito, Inactivo,PRO1096
+CA1097,Cuenca, Inactivo,PRO1097
+CA1098,Guayaquil,Activo,PRO1098
+CA1099,Chinchipe,Activo,PRO1099
+CA1100,Guayaquil,Activo,PRO1100
+CA1101,Loja, Inactivo,PRO1101
+CA1102,Guayaquil, Inactivo,PRO1102
+CA1103,Guayaquil,Activo,PRO1103
+CA1104,Quito,Activo,PRO1104
+CA1105,Cuenca, Inactivo,PRO1105
+CA1106,Guayaquil, Inactivo,PRO1106
+CA1107,Esmeraldas,Activo,PRO1107
+CA1108,Chinchipe, Inactivo,PRO1108
+CA1109,Chinchipe,Activo,PRO1109
+CA1110,Cuenca, Inactivo,PRO1110
+CA1111,Chinchipe, Inactivo,PRO1111
+CA1112,Esmeraldas,Activo,PRO1112
+CA1113,Esmeraldas, Inactivo,PRO1113
+CA1114,Cuenca,Activo,PRO1114
+CA1115,Cuenca,Activo,PRO1115
+CA1116,Cuenca,Activo,PRO1116
+CA1117,Quito,Activo,PRO1117
+CA1118,Chinchipe, Inactivo,PRO1118
+CA1119,Loja, Inactivo,PRO1119
+CA1120,Esmeraldas, Inactivo,PRO1120
+CA1121,Cuenca, Inactivo,PRO1121
+CA1122,Quito,Activo,PRO1122
+CA1123,Quito, Inactivo,PRO1123
+CA1124,Cuenca, Inactivo,PRO1124
+CA1125,Esmeraldas, Inactivo,PRO1125
+CA1126,Guayaquil,Activo,PRO1126
+CA1127,Loja, Inactivo,PRO1127
+CA1128,Guayaquil,Activo,PRO1128
+CA1129,Cuenca, Inactivo,PRO1129
+CA1130,Cuenca, Inactivo,PRO1130
+CA1131,Quito,Activo,PRO1131
+CA1132,Guayaquil, Inactivo,PRO1132
+CA1133,Guayaquil,Activo,PRO1133
+CA1134,Quito,Activo,PRO1134
+CA1135,Quito,Activo,PRO1135
+CA1136,Loja, Inactivo,PRO1136
+CA1137,Quito, Inactivo,PRO1137
+CA1138,Cuenca,Activo,PRO1138
+CA1139,Cuenca, Inactivo,PRO1139
+CA1140,Loja,Activo,PRO1140
+CA1141,Quito, Inactivo,PRO1141
+CA1142,Chinchipe, Inactivo,PRO1142
+CA1143,Loja,Activo,PRO1143
+CA1144,Quito, Inactivo,PRO1144
+CA1145,Quito, Inactivo,PRO1145
+CA1146,Quito, Inactivo,PRO1146
+CA1147,Esmeraldas,Activo,PRO1147
+CA1148,Chinchipe,Activo,PRO1148
+CA1149,Quito,Activo,PRO1149
+CA1150,Quito,Activo,PRO1150
+CA1151,Chinchipe, Inactivo,PRO1151
+CA1152,Esmeraldas,Activo,PRO1152
+CA1153,Quito,Activo,PRO1153
+CA1154,Quito, Inactivo,PRO1154
+CA1155,Guayaquil, Inactivo,PRO1155
+CA1156,Cuenca,Activo,PRO1156
+CA1157,Guayaquil,Activo,PRO1157
+CA1158,Chinchipe,Activo,PRO1158
+CA1159,Guayaquil,Activo,PRO1159
+CA1160,Quito,Activo,PRO1160
+CA1161,Chinchipe, Inactivo,PRO1161
+CA1162,Quito,Activo,PRO1162
+CA1163,Chinchipe, Inactivo,PRO1163
+CA1164,Cuenca, Inactivo,PRO1164
+CA1165,Loja, Inactivo,PRO1165
+CA1166,Esmeraldas, Inactivo,PRO1166
+CA1167,Quito,Activo,PRO1167
+CA1168,Quito, Inactivo,PRO1168
+CA1169,Esmeraldas, Inactivo,PRO1169
+CA1170,Chinchipe, Inactivo,PRO1170
+CA1171,Quito, Inactivo,PRO1171
+CA1172,Quito,Activo,PRO1172
+CA1173,Chinchipe, Inactivo,PRO1173
+CA1174,Guayaquil,Activo,PRO1174
+CA1175,Esmeraldas,Activo,PRO1175
+CA1176,Guayaquil,Activo,PRO1176
+CA1177,Chinchipe, Inactivo,PRO1177
+CA1178,Esmeraldas, Inactivo,PRO1178
+CA1179,Loja, Inactivo,PRO1179
+CA1180,Guayaquil, Inactivo,PRO1180
+CA1181,Loja,Activo,PRO1181
+CA1182,Cuenca,Activo,PRO1182
+CA1183,Cuenca, Inactivo,PRO1183
+CA1184,Chinchipe, Inactivo,PRO1184
+CA1185,Cuenca,Activo,PRO1185
+CA1186,Chinchipe,Activo,PRO1186
+CA1187,Cuenca, Inactivo,PRO1187
+CA1188,Chinchipe, Inactivo,PRO1188
+CA1189,Loja, Inactivo,PRO1189
+CA1190,Cuenca,Activo,PRO1190
+CA1191,Chinchipe,Activo,PRO1191
+CA1192,Quito,Activo,PRO1192
+CA1193,Guayaquil,Activo,PRO1193
+CA1194,Loja,Activo,PRO1194
+CA1195,Chinchipe,Activo,PRO1195
+CA1196,Chinchipe,Activo,PRO1196
+CA1197,Guayaquil, Inactivo,PRO1197
+CA1198,Loja,Activo,PRO1198
+CA1199,Chinchipe, Inactivo,PRO1199
+CA1200,Esmeraldas, Inactivo,PRO1200
+CA1201,Cuenca,Activo,PRO1201
+CA1202,Guayaquil, Inactivo,PRO1202
+CA1203,Guayaquil, Inactivo,PRO1203
+CA1204,Loja, Inactivo,PRO1204
+CA1205,Loja,Activo,PRO1205
+CA1206,Chinchipe,Activo,PRO1206
+CA1207,Guayaquil,Activo,PRO1207
+CA1208,Cuenca,Activo,PRO1208
+CA1209,Loja, Inactivo,PRO1209
+CA1210,Esmeraldas, Inactivo,PRO1210
+CA1211,Guayaquil,Activo,PRO1211
+CA1212,Chinchipe,Activo,PRO1212
+CA1213,Chinchipe, Inactivo,PRO1213
+CA1214,Loja,Activo,PRO1214
+CA1215,Loja,Activo,PRO1215
+CA1216,Guayaquil, Inactivo,PRO1216
+CA1217,Chinchipe, Inactivo,PRO1217
+CA1218,Chinchipe,Activo,PRO1218
+CA1219,Chinchipe, Inactivo,PRO1219
+CA1220,Chinchipe,Activo,PRO1220
+CA1221,Esmeraldas,Activo,PRO1221
+CA1222,Guayaquil,Activo,PRO1222
+CA1223,Loja,Activo,PRO1223
+CA1224,Cuenca,Activo,PRO1224
+CA1225,Chinchipe, Inactivo,PRO1225
+CA1226,Guayaquil, Inactivo,PRO1226
+CA1227,Chinchipe,Activo,PRO1227
+CA1228,Cuenca,Activo,PRO1228
+CA1229,Guayaquil,Activo,PRO1229
+CA1230,Cuenca, Inactivo,PRO1230
+CA1231,Guayaquil,Activo,PRO1231
+CA1232,Quito,Activo,PRO1232
+CA1233,Esmeraldas,Activo,PRO1233
+CA1234,Cuenca,Activo,PRO1234
+CA1235,Guayaquil,Activo,PRO1235
+CA1236,Esmeraldas,Activo,PRO1236
+CA1237,Cuenca,Activo,PRO1237
+CA1238,Guayaquil,Activo,PRO1238
+CA1239,Esmeraldas, Inactivo,PRO1239
+CA1240,Quito,Activo,PRO1240
+CA1241,Cuenca,Activo,PRO1241
+CA1242,Guayaquil, Inactivo,PRO1242
+CA1243,Cuenca, Inactivo,PRO1243
+CA1244,Quito, Inactivo,PRO1244
+CA1245,Cuenca,Activo,PRO1245
+CA1246,Cuenca,Activo,PRO1246
+CA1247,Guayaquil,Activo,PRO1247
+CA1248,Cuenca, Inactivo,PRO1248
+CA1249,Quito,Activo,PRO1249
+CA1250,Quito, Inactivo,PRO1250
+CA1251,Cuenca,Activo,PRO1251
+CA1252,Cuenca,Activo,PRO1252
+CA1253,Chinchipe,Activo,PRO1253
+CA1254,Chinchipe,Activo,PRO1254
+CA1255,Cuenca,Activo,PRO1255
+CA1256,Quito, Inactivo,PRO1256
+CA1257,Cuenca,Activo,PRO1257
+CA1258,Quito, Inactivo,PRO1258
+CA1259,Esmeraldas, Inactivo,PRO1259
+CA1260,Cuenca,Activo,PRO1260
+CA1261,Cuenca, Inactivo,PRO1261
+CA1262,Cuenca,Activo,PRO1262
+CA1263,Quito, Inactivo,PRO1263
+CA1264,Cuenca, Inactivo,PRO1264
+CA1265,Loja,Activo,PRO1265
+CA1266,Quito,Activo,PRO1266
+CA1267,Quito, Inactivo,PRO1267
+CA1268,Esmeraldas, Inactivo,PRO1268
+CA1269,Guayaquil, Inactivo,PRO1269
+CA1270,Quito, Inactivo,PRO1270
+CA1271,Esmeraldas, Inactivo,PRO1271
+CA1272,Cuenca, Inactivo,PRO1272
+CA1273,Esmeraldas, Inactivo,PRO1273
+CA1274,Chinchipe,Activo,PRO1274
+CA1275,Quito,Activo,PRO1275
+CA1276,Guayaquil,Activo,PRO1276
+CA1277,Quito,Activo,PRO1277
+CA1278,Loja, Inactivo,PRO1278
+CA1279,Quito, Inactivo,PRO1279
+CA1280,Esmeraldas, Inactivo,PRO1280
+CA1281,Esmeraldas, Inactivo,PRO1281
+CA1282,Cuenca, Inactivo,PRO1282
+CA1283,Quito,Activo,PRO1283
+CA1284,Cuenca, Inactivo,PRO1284
+CA1285,Guayaquil, Inactivo,PRO1285
+CA1286,Esmeraldas, Inactivo,PRO1286
+CA1287,Guayaquil, Inactivo,PRO1287
+CA1288,Chinchipe,Activo,PRO1288
+CA1289,Esmeraldas, Inactivo,PRO1289
+CA1290,Guayaquil,Activo,PRO1290
+CA1291,Quito,Activo,PRO1291
+CA1292,Chinchipe, Inactivo,PRO1292
+CA1293,Esmeraldas,Activo,PRO1293
+CA1294,Cuenca,Activo,PRO1294
+CA1295,Cuenca, Inactivo,PRO1295
+CA1296,Loja,Activo,PRO1296
+CA1297,Quito, Inactivo,PRO1297
+CA1298,Chinchipe, Inactivo,PRO1298
+CA1299,Cuenca, Inactivo,PRO1299
+CA1300,Chinchipe, Inactivo,PRO1300
+CA1301,Cuenca,Activo,PRO1301
+CA1302,Cuenca,Activo,PRO1302
+CA1303,Loja, Inactivo,PRO1303
+CA1304,Chinchipe, Inactivo,PRO1304
+CA1305,Chinchipe,Activo,PRO1305
+CA1306,Cuenca, Inactivo,PRO1306
+CA1307,Quito, Inactivo,PRO1307
+CA1308,Cuenca,Activo,PRO1308
+CA1309,Quito,Activo,PRO1309
+CA1310,Quito, Inactivo,PRO1310
+CA1311,Quito,Activo,PRO1311
+CA1312,Chinchipe, Inactivo,PRO1312
+CA1313,Cuenca, Inactivo,PRO1313
+CA1314,Quito,Activo,PRO1314
+CA1315,Guayaquil, Inactivo,PRO1315
+CA1316,Quito, Inactivo,PRO1316
+CA1317,Guayaquil,Activo,PRO1317
+CA1318,Cuenca, Inactivo,PRO1318
+CA1319,Cuenca,Activo,PRO1319
+CA1320,Loja, Inactivo,PRO1320
+CA1321,Cuenca,Activo,PRO1321
+CA1322,Esmeraldas,Activo,PRO1322
+CA1323,Quito,Activo,PRO1323
+CA1324,Cuenca,Activo,PRO1324
+CA1325,Loja,Activo,PRO1325
+CA1326,Chinchipe, Inactivo,PRO1326
+CA1327,Cuenca, Inactivo,PRO1327
+CA1328,Esmeraldas,Activo,PRO1328
+CA1329,Guayaquil,Activo,PRO1329
+CA1330,Quito,Activo,PRO1330
+CA1331,Esmeraldas, Inactivo,PRO1331
+CA1332,Chinchipe, Inactivo,PRO1332
+CA1333,Quito,Activo,PRO1333
+CA1334,Quito, Inactivo,PRO1334
+CA1335,Quito, Inactivo,PRO1335
+CA1336,Quito, Inactivo,PRO1336
+CA1337,Cuenca,Activo,PRO1337
+CA1338,Quito, Inactivo,PRO1338
+CA1339,Quito,Activo,PRO1339
+CA1340,Cuenca, Inactivo,PRO1340
+CA1341,Cuenca, Inactivo,PRO1341
+CA1342,Guayaquil, Inactivo,PRO1342
+CA1343,Loja,Activo,PRO1343
+CA1344,Chinchipe,Activo,PRO1344
+CA1345,Chinchipe, Inactivo,PRO1345
+CA1346,Chinchipe, Inactivo,PRO1346
+CA1347,Cuenca,Activo,PRO1347
+CA1348,Guayaquil,Activo,PRO1348
+CA1349,Esmeraldas,Activo,PRO1349
+CA1350,Loja,Activo,PRO1350
+CA1351,Quito,Activo,PRO1351
+CA1352,Loja,Activo,PRO1352
+CA1353,Quito,Activo,PRO1353
+CA1354,Chinchipe,Activo,PRO1354
+CA1355,Cuenca,Activo,PRO1355
+CA1356,Cuenca,Activo,PRO1356
+CA1357,Loja, Inactivo,PRO1357
+CA1358,Quito, Inactivo,PRO1358
+CA1359,Cuenca, Inactivo,PRO1359
+CA1360,Cuenca, Inactivo,PRO1360
+CA1361,Quito, Inactivo,PRO1361
+CA1362,Quito, Inactivo,PRO1362
+CA1363,Quito,Activo,PRO1363
+CA1364,Quito, Inactivo,PRO1364
+CA1365,Quito, Inactivo,PRO1365
+CA1366,Chinchipe, Inactivo,PRO1366
+CA1367,Quito,Activo,PRO1367
+CA1368,Cuenca,Activo,PRO1368
+CA1369,Chinchipe, Inactivo,PRO1369
+CA1370,Quito, Inactivo,PRO1370
+CA1371,Cuenca, Inactivo,PRO1371
+CA1372,Guayaquil,Activo,PRO1372
+CA1373,Quito,Activo,PRO1373
+CA1374,Loja,Activo,PRO1374
+CA1375,Chinchipe, Inactivo,PRO1375
+CA1376,Guayaquil, Inactivo,PRO1376
+CA1377,Quito, Inactivo,PRO1377
+CA1378,Esmeraldas,Activo,PRO1378
+CA1379,Cuenca,Activo,PRO1379
+CA1380,Chinchipe, Inactivo,PRO1380
+CA1381,Quito, Inactivo,PRO1381
+CA1382,Quito,Activo,PRO1382
+CA1383,Cuenca,Activo,PRO1383
+CA1384,Cuenca,Activo,PRO1384
+CA1385,Chinchipe,Activo,PRO1385
+CA1386,Quito, Inactivo,PRO1386
+CA1387,Cuenca,Activo,PRO1387
+CA1388,Chinchipe,Activo,PRO1388
+CA1389,Cuenca,Activo,PRO1389
+CA1390,Chinchipe, Inactivo,PRO1390
+CA1391,Quito, Inactivo,PRO1391
+CA1392,Chinchipe, Inactivo,PRO1392
+CA1393,Guayaquil,Activo,PRO1393
+CA1394,Quito, Inactivo,PRO1394
+CA1395,Cuenca, Inactivo,PRO1395
+CA1396,Cuenca, Inactivo,PRO1396
+CA1397,Quito, Inactivo,PRO1397
+CA1398,Cuenca,Activo,PRO1398
+CA1399,Cuenca, Inactivo,PRO1399
+CA1400,Cuenca, Inactivo,PRO1400
+CA1401,Esmeraldas, Inactivo,PRO1401
+CA1402,Guayaquil, Inactivo,PRO1402
+CA1403,Cuenca, Inactivo,PRO1403
+CA1404,Chinchipe,Activo,PRO1404
+CA1405,Loja,Activo,PRO1405
+CA1406,Guayaquil, Inactivo,PRO1406
+CA1407,Chinchipe, Inactivo,PRO1407
+CA1408,Guayaquil,Activo,PRO1408
+CA1409,Loja, Inactivo,PRO1409
+CA1410,Chinchipe, Inactivo,PRO1410
+CA1411,Chinchipe,Activo,PRO1411
+CA1412,Chinchipe, Inactivo,PRO1412
+CA1413,Quito,Activo,PRO1413
+CA1414,Cuenca, Inactivo,PRO1414
+CA1415,Loja,Activo,PRO1415
+CA1416,Guayaquil, Inactivo,PRO1416
+CA1417,Quito,Activo,PRO1417
+CA1418,Loja,Activo,PRO1418
+CA1419,Cuenca,Activo,PRO1419
+CA1420,Cuenca,Activo,PRO1420
+CA1421,Cuenca, Inactivo,PRO1421
+CA1422,Guayaquil,Activo,PRO1422
+CA1423,Cuenca, Inactivo,PRO1423
+CA1424,Quito, Inactivo,PRO1424
+CA1425,Guayaquil, Inactivo,PRO1425
+CA1426,Guayaquil, Inactivo,PRO1426
+CA1427,Quito, Inactivo,PRO1427
+CA1428,Guayaquil,Activo,PRO1428
+CA1429,Cuenca,Activo,PRO1429
+CA1430,Esmeraldas,Activo,PRO1430
+CA1431,Guayaquil, Inactivo,PRO1431
+CA1432,Loja,Activo,PRO1432
+CA1433,Quito,Activo,PRO1433
+CA1434,Loja, Inactivo,PRO1434
+CA1435,Guayaquil, Inactivo,PRO1435
+CA1436,Guayaquil, Inactivo,PRO1436
+CA1437,Quito,Activo,PRO1437
+CA1438,Guayaquil,Activo,PRO1438
+CA1439,Quito, Inactivo,PRO1439
+CA1440,Guayaquil, Inactivo,PRO1440
+CA1441,Cuenca,Activo,PRO1441
+CA1442,Guayaquil,Activo,PRO1442
+CA1443,Guayaquil,Activo,PRO1443
+CA1444,Chinchipe, Inactivo,PRO1444
+CA1445,Quito, Inactivo,PRO1445
+CA1446,Cuenca, Inactivo,PRO1446
+CA1447,Guayaquil, Inactivo,PRO1447
+CA1448,Chinchipe, Inactivo,PRO1448
+CA1449,Chinchipe,Activo,PRO1449
+CA1450,Loja,Activo,PRO1450
+CA1451,Chinchipe,Activo,PRO1451
+CA1452,Cuenca, Inactivo,PRO1452
+CA1453,Cuenca, Inactivo,PRO1453
+CA1454,Chinchipe, Inactivo,PRO1454
+CA1455,Cuenca, Inactivo,PRO1455
+CA1456,Quito,Activo,PRO1456
+CA1457,Guayaquil, Inactivo,PRO1457
+CA1458,Cuenca,Activo,PRO1458
+CA1459,Cuenca, Inactivo,PRO1459
+CA1460,Loja,Activo,PRO1460
+CA1461,Cuenca,Activo,PRO1461
+CA1462,Cuenca, Inactivo,PRO1462
+CA1463,Chinchipe,Activo,PRO1463
+CA1464,Guayaquil,Activo,PRO1464
+CA1465,Cuenca, Inactivo,PRO1465
+CA1466,Cuenca,Activo,PRO1466
+CA1467,Chinchipe, Inactivo,PRO1467
+CA1468,Chinchipe, Inactivo,PRO1468
+CA1469,Esmeraldas, Inactivo,PRO1469
+CA1470,Esmeraldas,Activo,PRO1470
+CA1471,Loja, Inactivo,PRO1471
+CA1472,Esmeraldas, Inactivo,PRO1472
+CA1473,Quito,Activo,PRO1473
+CA1474,Loja, Inactivo,PRO1474
+CA1475,Chinchipe,Activo,PRO1475
+CA1476,Cuenca,Activo,PRO1476
+CA1477,Quito,Activo,PRO1477
+CA1478,Chinchipe,Activo,PRO1478
+CA1479,Guayaquil,Activo,PRO1479
+CA1480,Guayaquil,Activo,PRO1480
+CA1481,Loja, Inactivo,PRO1481
+CA1482,Chinchipe, Inactivo,PRO1482
+CA1483,Chinchipe,Activo,PRO1483
+CA1484,Quito,Activo,PRO1484
+CA1485,Loja, Inactivo,PRO1485
+CA1486,Guayaquil,Activo,PRO1486
+CA1487,Esmeraldas,Activo,PRO1487
+CA1488,Guayaquil, Inactivo,PRO1488
+CA1489,Quito,Activo,PRO1489
+CA1490,Guayaquil,Activo,PRO1490
+CA1491,Quito, Inactivo,PRO1491
+CA1492,Guayaquil, Inactivo,PRO1492
+CA1493,Guayaquil,Activo,PRO1493
+CA1494,Quito, Inactivo,PRO1494
+CA1495,Esmeraldas,Activo,PRO1495
+CA1496,Guayaquil, Inactivo,PRO1496
+CA1497,Guayaquil,Activo,PRO1497
+CA1498,Guayaquil,Activo,PRO1498
+CA1499,Quito, Inactivo,PRO1499
+CA1500,Cuenca, Inactivo,PRO1500
+CA1501,Quito,Activo,PRO1501
+CA1502,Chinchipe,Activo,PRO1502
+CA1503,Cuenca,Activo,PRO1503
+CA1504,Cuenca, Inactivo,PRO1504
+CA1505,Chinchipe,Activo,PRO1505
+CA1506,Cuenca, Inactivo,PRO1506
+CA1507,Loja,Activo,PRO1507
+CA1508,Chinchipe,Activo,PRO1508
+CA1509,Quito, Inactivo,PRO1509
+CA1510,Guayaquil, Inactivo,PRO1510
+CA1511,Quito,Activo,PRO1511
+CA1512,Quito,Activo,PRO1512
+CA1513,Chinchipe, Inactivo,PRO1513
+CA1514,Quito, Inactivo,PRO1514
+CA1515,Guayaquil,Activo,PRO1515
+CA1516,Chinchipe,Activo,PRO1516
+CA1517,Esmeraldas,Activo,PRO1517
+CA1518,Cuenca,Activo,PRO1518
+CA1519,Cuenca,Activo,PRO1519
+CA1520,Quito, Inactivo,PRO1520
+CA1521,Quito, Inactivo,PRO1521
+CA1522,Guayaquil,Activo,PRO1522
+CA1523,Chinchipe, Inactivo,PRO1523
+CA1524,Guayaquil,Activo,PRO1524
+CA1525,Esmeraldas,Activo,PRO1525
+CA1526,Esmeraldas,Activo,PRO1526
+CA1527,Loja, Inactivo,PRO1527
+CA1528,Esmeraldas,Activo,PRO1528
+CA1529,Quito,Activo,PRO1529
+CA1530,Quito, Inactivo,PRO1530
+CA1531,Cuenca,Activo,PRO1531
+CA1532,Chinchipe,Activo,PRO1532
+CA1533,Quito, Inactivo,PRO1533
+CA1534,Guayaquil,Activo,PRO1534
+CA1535,Chinchipe,Activo,PRO1535
+CA1536,Cuenca, Inactivo,PRO1536
+CA1537,Esmeraldas, Inactivo,PRO1537
+CA1538,Guayaquil, Inactivo,PRO1538
+CA1539,Chinchipe, Inactivo,PRO1539
+CA1540,Cuenca,Activo,PRO1540
+CA1541,Loja, Inactivo,PRO1541
+CA1542,Guayaquil,Activo,PRO1542
+CA1543,Chinchipe,Activo,PRO1543
+CA1544,Guayaquil, Inactivo,PRO1544
+CA1545,Quito,Activo,PRO1545
+CA1546,Esmeraldas, Inactivo,PRO1546
+CA1547,Chinchipe,Activo,PRO1547
+CA1548,Cuenca, Inactivo,PRO1548
+CA1549,Loja, Inactivo,PRO1549
+CA1550,Cuenca, Inactivo,PRO1550
+CA1551,Loja, Inactivo,PRO1551
+CA1552,Cuenca, Inactivo,PRO1552
+CA1553,Guayaquil, Inactivo,PRO1553
+CA1554,Loja, Inactivo,PRO1554
+CA1555,Cuenca, Inactivo,PRO1555
+CA1556,Esmeraldas, Inactivo,PRO1556
+CA1557,Guayaquil, Inactivo,PRO1557
+CA1558,Esmeraldas,Activo,PRO1558
+CA1559,Quito,Activo,PRO1559
+CA1560,Cuenca, Inactivo,PRO1560
+CA1561,Loja,Activo,PRO1561
+CA1562,Loja,Activo,PRO1562
+CA1563,Loja, Inactivo,PRO1563
+CA1564,Esmeraldas,Activo,PRO1564
+CA1565,Esmeraldas,Activo,PRO1565
+CA1566,Chinchipe, Inactivo,PRO1566
+CA1567,Guayaquil,Activo,PRO1567
+CA1568,Quito,Activo,PRO1568
+CA1569,Quito,Activo,PRO1569
+CA1570,Loja, Inactivo,PRO1570
+CA1571,Cuenca,Activo,PRO1571
+CA1572,Cuenca, Inactivo,PRO1572
+CA1573,Quito, Inactivo,PRO1573
+CA1574,Chinchipe,Activo,PRO1574
+CA1575,Chinchipe, Inactivo,PRO1575
+CA1576,Loja,Activo,PRO1576
+CA1577,Guayaquil, Inactivo,PRO1577
+CA1578,Quito,Activo,PRO1578
+CA1579,Guayaquil,Activo,PRO1579
+CA1580,Cuenca,Activo,PRO1580
+CA1581,Cuenca, Inactivo,PRO1581
+CA1582,Quito, Inactivo,PRO1582
+CA1583,Quito, Inactivo,PRO1583
+CA1584,Cuenca,Activo,PRO1584
+CA1585,Quito,Activo,PRO1585
+CA1586,Chinchipe, Inactivo,PRO1586
+CA1587,Cuenca,Activo,PRO1587
+CA1588,Loja, Inactivo,PRO1588
+CA1589,Quito,Activo,PRO1589
+CA1590,Quito,Activo,PRO1590
+CA1591,Quito,Activo,PRO1591
+CA1592,Chinchipe,Activo,PRO1592
+CA1593,Chinchipe,Activo,PRO1593
+CA1594,Quito,Activo,PRO1594
+CA1595,Quito, Inactivo,PRO1595
+CA1596,Cuenca, Inactivo,PRO1596
+CA1597,Cuenca, Inactivo,PRO1597
+CA1598,Guayaquil,Activo,PRO1598
+CA1599,Quito, Inactivo,PRO1599
+CA1600,Cuenca, Inactivo,PRO1600
+CA1601,Quito,Activo,PRO1601
+CA1602,Quito, Inactivo,PRO1602
+CA1603,Esmeraldas,Activo,PRO1603
+CA1604,Guayaquil, Inactivo,PRO1604
+CA1605,Quito, Inactivo,PRO1605
+CA1606,Guayaquil,Activo,PRO1606
+CA1607,Quito,Activo,PRO1607
+CA1608,Quito,Activo,PRO1608
+CA1609,Esmeraldas, Inactivo,PRO1609
+CA1610,Chinchipe, Inactivo,PRO1610
+CA1611,Quito,Activo,PRO1611
+CA1612,Chinchipe, Inactivo,PRO1612
+CA1613,Quito,Activo,PRO1613
+CA1614,Chinchipe,Activo,PRO1614
+CA1615,Chinchipe, Inactivo,PRO1615
+CA1616,Quito, Inactivo,PRO1616
+CA1617,Quito,Activo,PRO1617
+CA1618,Chinchipe, Inactivo,PRO1618
+CA1619,Cuenca, Inactivo,PRO1619
+CA1620,Loja,Activo,PRO1620
+CA1621,Cuenca, Inactivo,PRO1621
+CA1622,Cuenca,Activo,PRO1622
+CA1623,Esmeraldas, Inactivo,PRO1623
+CA1624,Guayaquil, Inactivo,PRO1624
+CA1625,Quito,Activo,PRO1625
+CA1626,Guayaquil,Activo,PRO1626
+CA1627,Loja, Inactivo,PRO1627
+CA1628,Esmeraldas, Inactivo,PRO1628
+CA1629,Esmeraldas,Activo,PRO1629
+CA1630,Guayaquil, Inactivo,PRO1630
+CA1631,Cuenca,Activo,PRO1631
+CA1632,Quito,Activo,PRO1632
+CA1633,Loja,Activo,PRO1633
+CA1634,Quito,Activo,PRO1634
+CA1635,Loja, Inactivo,PRO1635
+CA1636,Cuenca,Activo,PRO1636
+CA1637,Guayaquil, Inactivo,PRO1637
+CA1638,Guayaquil, Inactivo,PRO1638
+CA1639,Guayaquil, Inactivo,PRO1639
+CA1640,Chinchipe, Inactivo,PRO1640
+CA1641,Chinchipe, Inactivo,PRO1641
+CA1642,Cuenca,Activo,PRO1642
+CA1643,Quito, Inactivo,PRO1643
+CA1644,Cuenca,Activo,PRO1644
+CA1645,Chinchipe,Activo,PRO1645
+CA1646,Loja, Inactivo,PRO1646
+CA1647,Guayaquil,Activo,PRO1647
+CA1648,Guayaquil, Inactivo,PRO1648
+CA1649,Quito, Inactivo,PRO1649
+CA1650,Guayaquil, Inactivo,PRO1650
+CA1651,Chinchipe,Activo,PRO1651
+CA1652,Guayaquil,Activo,PRO1652
+CA1653,Cuenca, Inactivo,PRO1653
+CA1654,Cuenca, Inactivo,PRO1654
+CA1655,Chinchipe, Inactivo,PRO1655
+CA1656,Loja,Activo,PRO1656
+CA1657,Cuenca, Inactivo,PRO1657
+CA1658,Quito,Activo,PRO1658
+CA1659,Cuenca, Inactivo,PRO1659
+CA1660,Cuenca, Inactivo,PRO1660
+CA1661,Loja, Inactivo,PRO1661
+CA1662,Esmeraldas, Inactivo,PRO1662
+CA1663,Chinchipe, Inactivo,PRO1663
+CA1664,Chinchipe,Activo,PRO1664
+CA1665,Cuenca,Activo,PRO1665
+CA1666,Guayaquil, Inactivo,PRO1666
+CA1667,Guayaquil, Inactivo,PRO1667
+CA1668,Cuenca, Inactivo,PRO1668
+CA1669,Chinchipe,Activo,PRO1669
+CA1670,Esmeraldas, Inactivo,PRO1670
+CA1671,Loja,Activo,PRO1671
+CA1672,Guayaquil, Inactivo,PRO1672
+CA1673,Guayaquil,Activo,PRO1673
+CA1674,Guayaquil,Activo,PRO1674
+CA1675,Quito, Inactivo,PRO1675
+CA1676,Quito,Activo,PRO1676
+CA1677,Cuenca, Inactivo,PRO1677
+CA1678,Quito, Inactivo,PRO1678
+CA1679,Guayaquil,Activo,PRO1679
+CA1680,Loja, Inactivo,PRO1680
+CA1681,Cuenca, Inactivo,PRO1681
+CA1682,Quito,Activo,PRO1682
+CA1683,Cuenca,Activo,PRO1683
+CA1684,Guayaquil, Inactivo,PRO1684
+CA1685,Cuenca, Inactivo,PRO1685
+CA1686,Quito, Inactivo,PRO1686
+CA1687,Chinchipe,Activo,PRO1687
+CA1688,Esmeraldas,Activo,PRO1688
+CA1689,Esmeraldas,Activo,PRO1689
+CA1690,Esmeraldas, Inactivo,PRO1690
+CA1691,Guayaquil,Activo,PRO1691
+CA1692,Chinchipe, Inactivo,PRO1692
+CA1693,Guayaquil, Inactivo,PRO1693
+CA1694,Cuenca, Inactivo,PRO1694
+CA1695,Guayaquil, Inactivo,PRO1695
+CA1696,Loja, Inactivo,PRO1696
+CA1697,Esmeraldas,Activo,PRO1697
+CA1698,Esmeraldas,Activo,PRO1698
+CA1699,Cuenca,Activo,PRO1699
+CA1700,Quito, Inactivo,PRO1700
+CA1701,Cuenca, Inactivo,PRO1701
+CA1702,Cuenca,Activo,PRO1702
+CA1703,Cuenca, Inactivo,PRO1703
+CA1704,Chinchipe, Inactivo,PRO1704
+CA1705,Chinchipe,Activo,PRO1705
+CA1706,Chinchipe, Inactivo,PRO1706
+CA1707,Chinchipe, Inactivo,PRO1707
+CA1708,Quito,Activo,PRO1708
+CA1709,Chinchipe, Inactivo,PRO1709
+CA1710,Esmeraldas, Inactivo,PRO1710
+CA1711,Cuenca,Activo,PRO1711
+CA1712,Guayaquil,Activo,PRO1712
+CA1713,Cuenca, Inactivo,PRO1713
+CA1714,Guayaquil,Activo,PRO1714
+CA1715,Loja, Inactivo,PRO1715
+CA1716,Guayaquil, Inactivo,PRO1716
+CA1717,Cuenca,Activo,PRO1717
+CA1718,Guayaquil, Inactivo,PRO1718
+CA1719,Guayaquil,Activo,PRO1719
+CA1720,Cuenca,Activo,PRO1720
+CA1721,Guayaquil, Inactivo,PRO1721
+CA1722,Guayaquil,Activo,PRO1722
+CA1723,Quito,Activo,PRO1723
+CA1724,Guayaquil,Activo,PRO1724
+CA1725,Chinchipe, Inactivo,PRO1725
+CA1726,Chinchipe,Activo,PRO1726
+CA1727,Chinchipe, Inactivo,PRO1727
+CA1728,Quito,Activo,PRO1728
+CA1729,Guayaquil, Inactivo,PRO1729
+CA1730,Quito,Activo,PRO1730
+CA1731,Esmeraldas,Activo,PRO1731
+CA1732,Cuenca, Inactivo,PRO1732
+CA1733,Guayaquil,Activo,PRO1733
+CA1734,Quito, Inactivo,PRO1734
+CA1735,Chinchipe,Activo,PRO1735
+CA1736,Esmeraldas, Inactivo,PRO1736
+CA1737,Guayaquil,Activo,PRO1737
+CA1738,Esmeraldas,Activo,PRO1738
+CA1739,Cuenca,Activo,PRO1739
+CA1740,Guayaquil, Inactivo,PRO1740
+CA1741,Guayaquil, Inactivo,PRO1741
+CA1742,Quito, Inactivo,PRO1742
+CA1743,Loja, Inactivo,PRO1743
+CA1744,Cuenca,Activo,PRO1744
+CA1745,Quito,Activo,PRO1745
+CA1746,Chinchipe, Inactivo,PRO1746
+CA1747,Guayaquil,Activo,PRO1747
+CA1748,Cuenca,Activo,PRO1748
+CA1749,Quito, Inactivo,PRO1749
+CA1750,Quito,Activo,PRO1750
+CA1751,Guayaquil, Inactivo,PRO1751
+CA1752,Loja, Inactivo,PRO1752
+CA1753,Chinchipe, Inactivo,PRO1753
+CA1754,Chinchipe, Inactivo,PRO1754
+CA1755,Chinchipe, Inactivo,PRO1755
+CA1756,Esmeraldas,Activo,PRO1756
+CA1757,Esmeraldas, Inactivo,PRO1757
+CA1758,Guayaquil, Inactivo,PRO1758
+CA1759,Guayaquil, Inactivo,PRO1759
+CA1760,Chinchipe, Inactivo,PRO1760
+CA1761,Cuenca,Activo,PRO1761
+CA1762,Quito,Activo,PRO1762
+CA1763,Loja, Inactivo,PRO1763
+CA1764,Loja,Activo,PRO1764
+CA1765,Chinchipe,Activo,PRO1765
+CA1766,Esmeraldas, Inactivo,PRO1766
+CA1767,Guayaquil,Activo,PRO1767
+CA1768,Esmeraldas,Activo,PRO1768
+CA1769,Guayaquil, Inactivo,PRO1769
+CA1770,Loja, Inactivo,PRO1770
+CA1771,Cuenca,Activo,PRO1771
+CA1772,Guayaquil,Activo,PRO1772
+CA1773,Guayaquil, Inactivo,PRO1773
+CA1774,Esmeraldas,Activo,PRO1774
+CA1775,Chinchipe, Inactivo,PRO1775
+CA1776,Cuenca,Activo,PRO1776
+CA1777,Guayaquil, Inactivo,PRO1777
+CA1778,Loja,Activo,PRO1778
+CA1779,Cuenca,Activo,PRO1779
+CA1780,Esmeraldas, Inactivo,PRO1780
+CA1781,Chinchipe,Activo,PRO1781
+CA1782,Guayaquil, Inactivo,PRO1782
+CA1783,Cuenca, Inactivo,PRO1783
+CA1784,Guayaquil, Inactivo,PRO1784
+CA1785,Guayaquil, Inactivo,PRO1785
+CA1786,Guayaquil, Inactivo,PRO1786
+CA1787,Quito,Activo,PRO1787
+CA1788,Esmeraldas,Activo,PRO1788
+CA1789,Chinchipe,Activo,PRO1789
+CA1790,Quito,Activo,PRO1790
+CA1791,Quito,Activo,PRO1791
+CA1792,Cuenca, Inactivo,PRO1792
+CA1793,Esmeraldas, Inactivo,PRO1793
+CA1794,Guayaquil,Activo,PRO1794
+CA1795,Esmeraldas, Inactivo,PRO1795
+CA1796,Quito, Inactivo,PRO1796
+CA1797,Chinchipe,Activo,PRO1797
+CA1798,Chinchipe,Activo,PRO1798
+CA1799,Chinchipe, Inactivo,PRO1799
+CA1800,Loja, Inactivo,PRO1800
+CA1801,Guayaquil,Activo,PRO1801
+CA1802,Chinchipe,Activo,PRO1802
+CA1803,Cuenca,Activo,PRO1803
+CA1804,Cuenca,Activo,PRO1804
+CA1805,Chinchipe,Activo,PRO1805
+CA1806,Cuenca,Activo,PRO1806
+CA1807,Chinchipe,Activo,PRO1807
+CA1808,Quito,Activo,PRO1808
+CA1809,Quito, Inactivo,PRO1809
+CA1810,Quito,Activo,PRO1810
+CA1811,Esmeraldas,Activo,PRO1811
+CA1812,Chinchipe,Activo,PRO1812
+CA1813,Guayaquil,Activo,PRO1813
+CA1814,Quito,Activo,PRO1814
+CA1815,Cuenca, Inactivo,PRO1815
+CA1816,Cuenca, Inactivo,PRO1816
+CA1817,Esmeraldas, Inactivo,PRO1817
+CA1818,Guayaquil, Inactivo,PRO1818
+CA1819,Quito, Inactivo,PRO1819
+CA1820,Cuenca,Activo,PRO1820
+CA1821,Loja, Inactivo,PRO1821
+CA1822,Chinchipe,Activo,PRO1822
+CA1823,Chinchipe, Inactivo,PRO1823
+CA1824,Cuenca, Inactivo,PRO1824
+CA1825,Guayaquil,Activo,PRO1825
+CA1826,Chinchipe, Inactivo,PRO1826
+CA1827,Quito,Activo,PRO1827
+CA1828,Loja,Activo,PRO1828
+CA1829,Quito, Inactivo,PRO1829
+CA1830,Guayaquil,Activo,PRO1830
+CA1831,Chinchipe,Activo,PRO1831
+CA1832,Chinchipe, Inactivo,PRO1832
+CA1833,Cuenca, Inactivo,PRO1833
+CA1834,Cuenca, Inactivo,PRO1834
+CA1835,Guayaquil, Inactivo,PRO1835
+CA1836,Esmeraldas, Inactivo,PRO1836
+CA1837,Cuenca,Activo,PRO1837
+CA1838,Loja,Activo,PRO1838
+CA1839,Quito,Activo,PRO1839
+CA1840,Chinchipe,Activo,PRO1840
+CA1841,Guayaquil, Inactivo,PRO1841
+CA1842,Cuenca,Activo,PRO1842
+CA1843,Quito,Activo,PRO1843
+CA1844,Loja, Inactivo,PRO1844
+CA1845,Guayaquil,Activo,PRO1845
+CA1846,Cuenca, Inactivo,PRO1846
+CA1847,Chinchipe,Activo,PRO1847
+CA1848,Quito,Activo,PRO1848
+CA1849,Quito,Activo,PRO1849
+CA1850,Chinchipe, Inactivo,PRO1850
+CA1851,Chinchipe,Activo,PRO1851
+CA1852,Cuenca, Inactivo,PRO1852
+CA1853,Cuenca,Activo,PRO1853
+CA1854,Chinchipe, Inactivo,PRO1854
+CA1855,Guayaquil,Activo,PRO1855
+CA1856,Loja,Activo,PRO1856
+CA1857,Cuenca,Activo,PRO1857
+CA1858,Esmeraldas,Activo,PRO1858
+CA1859,Guayaquil, Inactivo,PRO1859
+CA1860,Guayaquil, Inactivo,PRO1860
+CA1861,Chinchipe,Activo,PRO1861
+CA1862,Guayaquil, Inactivo,PRO1862
+CA1863,Cuenca, Inactivo,PRO1863
+CA1864,Chinchipe, Inactivo,PRO1864
+CA1865,Guayaquil, Inactivo,PRO1865
+CA1866,Cuenca,Activo,PRO1866
+CA1867,Quito, Inactivo,PRO1867
+CA1868,Cuenca,Activo,PRO1868
+CA1869,Esmeraldas,Activo,PRO1869
+CA1870,Loja, Inactivo,PRO1870
+CA1871,Esmeraldas,Activo,PRO1871
+CA1872,Esmeraldas,Activo,PRO1872
+CA1873,Cuenca,Activo,PRO1873
+CA1874,Chinchipe, Inactivo,PRO1874
+CA1875,Quito,Activo,PRO1875
+CA1876,Esmeraldas, Inactivo,PRO1876
+CA1877,Guayaquil, Inactivo,PRO1877
+CA1878,Chinchipe,Activo,PRO1878
+CA1879,Esmeraldas, Inactivo,PRO1879
+CA1880,Cuenca, Inactivo,PRO1880
+CA1881,Cuenca, Inactivo,PRO1881
+CA1882,Cuenca,Activo,PRO1882
+CA1883,Quito, Inactivo,PRO1883
+CA1884,Chinchipe, Inactivo,PRO1884
+CA1885,Esmeraldas, Inactivo,PRO1885
+CA1886,Cuenca,Activo,PRO1886
+CA1887,Chinchipe,Activo,PRO1887
+CA1888,Esmeraldas,Activo,PRO1888
+CA1889,Chinchipe, Inactivo,PRO1889
+CA1890,Chinchipe,Activo,PRO1890
+CA1891,Loja,Activo,PRO1891
+CA1892,Esmeraldas, Inactivo,PRO1892
+CA1893,Loja,Activo,PRO1893
+CA1894,Cuenca,Activo,PRO1894
+CA1895,Chinchipe,Activo,PRO1895
+CA1896,Cuenca, Inactivo,PRO1896
+CA1897,Cuenca, Inactivo,PRO1897
+CA1898,Cuenca, Inactivo,PRO1898
+CA1899,Esmeraldas,Activo,PRO1899
+CA1900,Quito, Inactivo,PRO1900
+CA1901,Esmeraldas,Activo,PRO1901
+CA1902,Chinchipe, Inactivo,PRO1902
+CA1903,Loja,Activo,PRO1903
+CA1904,Quito, Inactivo,PRO1904
+CA1905,Esmeraldas,Activo,PRO1905
+CA1906,Loja,Activo,PRO1906
+CA1907,Guayaquil,Activo,PRO1907
+CA1908,Cuenca,Activo,PRO1908
+CA1909,Cuenca,Activo,PRO1909
+CA1910,Quito,Activo,PRO1910
+CA1911,Guayaquil, Inactivo,PRO1911
+CA1912,Quito, Inactivo,PRO1912
+CA1913,Cuenca,Activo,PRO1913
+CA1914,Quito, Inactivo,PRO1914
+CA1915,Cuenca,Activo,PRO1915
+CA1916,Cuenca,Activo,PRO1916
+CA1917,Loja, Inactivo,PRO1917
+CA1918,Quito,Activo,PRO1918
+CA1919,Loja,Activo,PRO1919
+CA1920,Loja,Activo,PRO1920
+CA1921,Quito,Activo,PRO1921
+CA1922,Quito, Inactivo,PRO1922
+CA1923,Chinchipe, Inactivo,PRO1923
+CA1924,Quito,Activo,PRO1924
+CA1925,Chinchipe, Inactivo,PRO1925
+CA1926,Esmeraldas, Inactivo,PRO1926
+CA1927,Chinchipe, Inactivo,PRO1927
+CA1928,Guayaquil, Inactivo,PRO1928
+CA1929,Chinchipe,Activo,PRO1929
+CA1930,Guayaquil, Inactivo,PRO1930
+CA1931,Guayaquil, Inactivo,PRO1931
+CA1932,Chinchipe,Activo,PRO1932
+CA1933,Loja,Activo,PRO1933
+CA1934,Chinchipe,Activo,PRO1934
+CA1935,Guayaquil, Inactivo,PRO1935
+CA1936,Loja,Activo,PRO1936
+CA1937,Quito, Inactivo,PRO1937
+CA1938,Cuenca, Inactivo,PRO1938
+CA1939,Chinchipe, Inactivo,PRO1939
+CA1940,Quito,Activo,PRO1940
+CA1941,Guayaquil,Activo,PRO1941
+CA1942,Chinchipe,Activo,PRO1942
+CA1943,Loja,Activo,PRO1943
+CA1944,Chinchipe,Activo,PRO1944
+CA1945,Guayaquil, Inactivo,PRO1945
+CA1946,Guayaquil,Activo,PRO1946
+CA1947,Loja, Inactivo,PRO1947
+CA1948,Loja,Activo,PRO1948
+CA1949,Quito, Inactivo,PRO1949
+CA1950,Cuenca,Activo,PRO1950
+CA1951,Chinchipe,Activo,PRO1951
+CA1952,Loja,Activo,PRO1952
+CA1953,Chinchipe, Inactivo,PRO1953
+CA1954,Chinchipe, Inactivo,PRO1954
+CA1955,Esmeraldas,Activo,PRO1955
+CA1956,Cuenca,Activo,PRO1956
+CA1957,Chinchipe,Activo,PRO1957
+CA1958,Loja,Activo,PRO1958
+CA1959,Esmeraldas, Inactivo,PRO1959
+CA1960,Guayaquil, Inactivo,PRO1960
+CA1961,Guayaquil,Activo,PRO1961
+CA1962,Guayaquil, Inactivo,PRO1962
+CA1963,Loja, Inactivo,PRO1963
+CA1964,Guayaquil, Inactivo,PRO1964
+CA1965,Chinchipe,Activo,PRO1965
+CA1966,Guayaquil,Activo,PRO1966
+CA1967,Chinchipe, Inactivo,PRO1967
+CA1968,Chinchipe, Inactivo,PRO1968
+CA1969,Cuenca,Activo,PRO1969
+CA1970,Quito, Inactivo,PRO1970
+CA1971,Guayaquil, Inactivo,PRO1971
+CA1972,Chinchipe,Activo,PRO1972
+CA1973,Esmeraldas,Activo,PRO1973
+CA1974,Chinchipe, Inactivo,PRO1974
+CA1975,Esmeraldas, Inactivo,PRO1975
+CA1976,Chinchipe,Activo,PRO1976
+CA1977,Cuenca,Activo,PRO1977
+CA1978,Cuenca,Activo,PRO1978
+CA1979,Cuenca, Inactivo,PRO1979
+CA1980,Loja, Inactivo,PRO1980
+CA1981,Esmeraldas, Inactivo,PRO1981
+CA1982,Esmeraldas,Activo,PRO1982
+CA1983,Chinchipe, Inactivo,PRO1983
+CA1984,Guayaquil, Inactivo,PRO1984
+CA1985,Cuenca,Activo,PRO1985
+CA1986,Loja, Inactivo,PRO1986
+CA1987,Quito, Inactivo,PRO1987
+CA1988,Chinchipe, Inactivo,PRO1988
+CA1989,Quito, Inactivo,PRO1989
+CA1990,Esmeraldas, Inactivo,PRO1990
+CA1991,Chinchipe, Inactivo,PRO1991
+CA1992,Chinchipe, Inactivo,PRO1992
+CA1993,Guayaquil,Activo,PRO1993
+CA1994,Cuenca,Activo,PRO1994
+CA1995,Loja, Inactivo,PRO1995
+CA1996,Cuenca,Activo,PRO1996
+CA1997,Quito, Inactivo,PRO1997
+CA1998,Esmeraldas, Inactivo,PRO1998
+CA1999,Loja,Activo,PRO1999
+CA2000,Loja, Inactivo,PRO2000
+CA2001,Guayaquil,Activo,PRO2001
+CA2002,Guayaquil, Inactivo,PRO2002
+CA2003,Cuenca,Activo,PRO2003
+CA2004,Cuenca, Inactivo,PRO2004
+CA2005,Chinchipe, Inactivo,PRO2005
+CA2006,Quito,Activo,PRO2006
+CA2007,Chinchipe,Activo,PRO2007
+CA2008,Cuenca,Activo,PRO2008
+CA2009,Quito,Activo,PRO2009
+CA2010,Guayaquil,Activo,PRO2010
+CA2011,Loja,Activo,PRO2011
+CA2012,Chinchipe, Inactivo,PRO2012
+CA2013,Esmeraldas,Activo,PRO2013
+CA2014,Esmeraldas, Inactivo,PRO2014
+CA2015,Chinchipe, Inactivo,PRO2015
+CA2016,Cuenca,Activo,PRO2016
+CA2017,Cuenca,Activo,PRO2017
+CA2018,Quito, Inactivo,PRO2018
+CA2019,Guayaquil,Activo,PRO2019
+CA2020,Cuenca,Activo,PRO2020
+CA2021,Chinchipe,Activo,PRO2021
+CA2022,Chinchipe, Inactivo,PRO2022
+CA2023,Chinchipe, Inactivo,PRO2023
+CA2024,Cuenca,Activo,PRO2024
+CA2025,Chinchipe, Inactivo,PRO2025
+CA2026,Guayaquil, Inactivo,PRO2026
+CA2027,Guayaquil, Inactivo,PRO2027
+CA2028,Cuenca,Activo,PRO2028
+CA2029,Chinchipe,Activo,PRO2029
+CA2030,Quito,Activo,PRO2030
+CA2031,Quito,Activo,PRO2031
+CA2032,Quito,Activo,PRO2032
+CA2033,Cuenca,Activo,PRO2033
+CA2034,Esmeraldas,Activo,PRO2034
+CA2035,Guayaquil,Activo,PRO2035
+CA2036,Quito, Inactivo,PRO2036
+CA2037,Cuenca, Inactivo,PRO2037
+CA2038,Guayaquil,Activo,PRO2038
+CA2039,Guayaquil, Inactivo,PRO2039
+CA2040,Esmeraldas, Inactivo,PRO2040
+CA2041,Chinchipe, Inactivo,PRO2041
+CA2042,Guayaquil,Activo,PRO2042
+CA2043,Chinchipe, Inactivo,PRO2043
+CA2044,Chinchipe,Activo,PRO2044
+CA2045,Quito, Inactivo,PRO2045
+CA2046,Quito, Inactivo,PRO2046
+CA2047,Loja,Activo,PRO2047
+CA2048,Chinchipe, Inactivo,PRO2048
+CA2049,Chinchipe, Inactivo,PRO2049
+CA2050,Guayaquil, Inactivo,PRO2050
+CA2051,Cuenca,Activo,PRO2051
+CA2052,Esmeraldas, Inactivo,PRO2052
+CA2053,Cuenca, Inactivo,PRO2053
+CA2054,Quito, Inactivo,PRO2054
+CA2055,Guayaquil, Inactivo,PRO2055
+CA2056,Quito,Activo,PRO2056
+CA2057,Esmeraldas, Inactivo,PRO2057
+CA2058,Quito,Activo,PRO2058
+CA2059,Quito, Inactivo,PRO2059
+CA2060,Chinchipe,Activo,PRO2060
+CA2061,Chinchipe, Inactivo,PRO2061
+CA2062,Guayaquil,Activo,PRO2062
+CA2063,Cuenca,Activo,PRO2063
+CA2064,Guayaquil,Activo,PRO2064
+CA2065,Esmeraldas,Activo,PRO2065
+CA2066,Quito,Activo,PRO2066
+CA2067,Cuenca, Inactivo,PRO2067
+CA2068,Loja, Inactivo,PRO2068
+CA2069,Loja,Activo,PRO2069
+CA2070,Esmeraldas,Activo,PRO2070
+CA2071,Chinchipe,Activo,PRO2071
+CA2072,Guayaquil, Inactivo,PRO2072
+CA2073,Quito,Activo,PRO2073
+CA2074,Cuenca,Activo,PRO2074
+CA2075,Loja, Inactivo,PRO2075
+CA2076,Esmeraldas,Activo,PRO2076
+CA2077,Chinchipe,Activo,PRO2077
+CA2078,Quito,Activo,PRO2078
+CA2079,Chinchipe, Inactivo,PRO2079
+CA2080,Quito, Inactivo,PRO2080
+CA2081,Esmeraldas, Inactivo,PRO2081
+CA2082,Quito, Inactivo,PRO2082
+CA2083,Guayaquil,Activo,PRO2083
+CA2084,Esmeraldas,Activo,PRO2084
+CA2085,Guayaquil,Activo,PRO2085
+CA2086,Quito,Activo,PRO2086
+CA2087,Chinchipe, Inactivo,PRO2087
+CA2088,Chinchipe, Inactivo,PRO2088
+CA2089,Chinchipe,Activo,PRO2089
+CA2090,Esmeraldas, Inactivo,PRO2090
+CA2091,Cuenca,Activo,PRO2091
+CA2092,Guayaquil,Activo,PRO2092
+CA2093,Cuenca, Inactivo,PRO2093
+CA2094,Cuenca,Activo,PRO2094
+CA2095,Guayaquil, Inactivo,PRO2095
+CA2096,Cuenca, Inactivo,PRO2096
+CA2097,Quito, Inactivo,PRO2097
+CA2098,Cuenca,Activo,PRO2098
+CA2099,Guayaquil, Inactivo,PRO2099
+CA2100,Quito, Inactivo,PRO2100
+CA2101,Cuenca,Activo,PRO2101
+CA2102,Quito,Activo,PRO2102
+CA2103,Loja,Activo,PRO2103
+CA2104,Loja, Inactivo,PRO2104
+CA2105,Chinchipe, Inactivo,PRO2105
+CA2106,Cuenca, Inactivo,PRO2106
+CA2107,Guayaquil,Activo,PRO2107
+CA2108,Chinchipe,Activo,PRO2108
+CA2109,Cuenca,Activo,PRO2109
+CA2110,Chinchipe, Inactivo,PRO2110
+CA2111,Quito,Activo,PRO2111
+CA2112,Guayaquil, Inactivo,PRO2112
+CA2113,Quito, Inactivo,PRO2113
+CA2114,Guayaquil,Activo,PRO2114
+CA2115,Chinchipe, Inactivo,PRO2115
+CA2116,Guayaquil,Activo,PRO2116
+CA2117,Guayaquil, Inactivo,PRO2117
+CA2118,Chinchipe, Inactivo,PRO2118
+CA2119,Chinchipe, Inactivo,PRO2119
+CA2120,Quito, Inactivo,PRO2120
+CA2121,Guayaquil,Activo,PRO2121
+CA2122,Loja, Inactivo,PRO2122
+CA2123,Esmeraldas, Inactivo,PRO2123
+CA2124,Esmeraldas,Activo,PRO2124
+CA2125,Guayaquil,Activo,PRO2125
+CA2126,Guayaquil, Inactivo,PRO2126
+CA2127,Cuenca, Inactivo,PRO2127
+CA2128,Chinchipe, Inactivo,PRO2128
+CA2129,Quito, Inactivo,PRO2129
+CA2130,Chinchipe, Inactivo,PRO2130
+CA2131,Quito, Inactivo,PRO2131
+CA2132,Cuenca,Activo,PRO2132
+CA2133,Guayaquil,Activo,PRO2133
+CA2134,Chinchipe, Inactivo,PRO2134
+CA2135,Guayaquil, Inactivo,PRO2135
+CA2136,Loja, Inactivo,PRO2136
+CA2137,Cuenca, Inactivo,PRO2137
+CA2138,Loja,Activo,PRO2138
+CA2139,Chinchipe, Inactivo,PRO2139
+CA2140,Loja, Inactivo,PRO2140
+CA2141,Guayaquil, Inactivo,PRO2141
+CA2142,Chinchipe,Activo,PRO2142
+CA2143,Guayaquil,Activo,PRO2143
+CA2144,Cuenca, Inactivo,PRO2144
+CA2145,Loja, Inactivo,PRO2145
+CA2146,Chinchipe, Inactivo,PRO2146
+CA2147,Cuenca, Inactivo,PRO2147
+CA2148,Esmeraldas, Inactivo,PRO2148
+CA2149,Chinchipe, Inactivo,PRO2149
+CA2150,Esmeraldas, Inactivo,PRO2150
+CA2151,Chinchipe,Activo,PRO2151
+CA2152,Cuenca, Inactivo,PRO2152
+CA2153,Loja, Inactivo,PRO2153
+CA2154,Guayaquil, Inactivo,PRO2154
+CA2155,Chinchipe,Activo,PRO2155
+CA2156,Quito, Inactivo,PRO2156
+CA2157,Quito, Inactivo,PRO2157
+CA2158,Quito,Activo,PRO2158
+CA2159,Cuenca,Activo,PRO2159
+CA2160,Loja,Activo,PRO2160
+CA2161,Cuenca,Activo,PRO2161
+CA2162,Esmeraldas, Inactivo,PRO2162
+CA2163,Quito, Inactivo,PRO2163
+CA2164,Chinchipe,Activo,PRO2164
+CA2165,Cuenca, Inactivo,PRO2165
+CA2166,Chinchipe, Inactivo,PRO2166
+CA2167,Quito, Inactivo,PRO2167
+CA2168,Guayaquil, Inactivo,PRO2168
+CA2169,Guayaquil, Inactivo,PRO2169
+CA2170,Chinchipe, Inactivo,PRO2170
+CA2171,Guayaquil, Inactivo,PRO2171
+CA2172,Quito,Activo,PRO2172
+CA2173,Cuenca,Activo,PRO2173
+CA2174,Cuenca,Activo,PRO2174
+CA2175,Guayaquil,Activo,PRO2175
+CA2176,Loja, Inactivo,PRO2176
+CA2177,Loja, Inactivo,PRO2177
+CA2178,Quito, Inactivo,PRO2178
+CA2179,Chinchipe,Activo,PRO2179
+CA2180,Chinchipe,Activo,PRO2180
+CA2181,Cuenca,Activo,PRO2181
+CA2182,Chinchipe, Inactivo,PRO2182
+CA2183,Chinchipe,Activo,PRO2183
+CA2184,Quito,Activo,PRO2184
+CA2185,Loja,Activo,PRO2185
+CA2186,Chinchipe, Inactivo,PRO2186
+CA2187,Chinchipe, Inactivo,PRO2187
+CA2188,Cuenca,Activo,PRO2188
+CA2189,Guayaquil, Inactivo,PRO2189
+CA2190,Guayaquil, Inactivo,PRO2190
+CA2191,Quito,Activo,PRO2191
+CA2192,Cuenca,Activo,PRO2192
+CA2193,Chinchipe, Inactivo,PRO2193
+CA2194,Chinchipe, Inactivo,PRO2194
+CA2195,Chinchipe,Activo,PRO2195
+CA2196,Loja,Activo,PRO2196
+CA2197,Chinchipe, Inactivo,PRO2197
+CA2198,Quito,Activo,PRO2198
+CA2199,Quito, Inactivo,PRO2199
+CA2200,Quito,Activo,PRO2200
+CA2201,Guayaquil, Inactivo,PRO2201
+CA2202,Cuenca,Activo,PRO2202
+CA2203,Esmeraldas, Inactivo,PRO2203
+CA2204,Guayaquil, Inactivo,PRO2204
+CA2205,Esmeraldas,Activo,PRO2205
+CA2206,Quito, Inactivo,PRO2206
+CA2207,Chinchipe,Activo,PRO2207
+CA2208,Chinchipe, Inactivo,PRO2208
+CA2209,Guayaquil, Inactivo,PRO2209
+CA2210,Guayaquil,Activo,PRO2210
+CA2211,Loja,Activo,PRO2211
+CA2212,Chinchipe,Activo,PRO2212
+CA2213,Guayaquil, Inactivo,PRO2213
+CA2214,Cuenca, Inactivo,PRO2214
+CA2215,Quito,Activo,PRO2215
+CA2216,Esmeraldas,Activo,PRO2216
+CA2217,Loja, Inactivo,PRO2217
+CA2218,Cuenca, Inactivo,PRO2218
+CA2219,Cuenca,Activo,PRO2219
+CA2220,Quito,Activo,PRO2220
+CA2221,Esmeraldas, Inactivo,PRO2221
+CA2222,Guayaquil,Activo,PRO2222
+CA2223,Guayaquil,Activo,PRO2223
+CA2224,Guayaquil,Activo,PRO2224
+CA2225,Quito, Inactivo,PRO2225
+CA2226,Cuenca,Activo,PRO2226
+CA2227,Quito,Activo,PRO2227
+CA2228,Guayaquil, Inactivo,PRO2228
+CA2229,Quito, Inactivo,PRO2229
+CA2230,Cuenca,Activo,PRO2230
+CA2231,Loja, Inactivo,PRO2231
+CA2232,Quito, Inactivo,PRO2232
+CA2233,Loja,Activo,PRO2233
+CA2234,Cuenca, Inactivo,PRO2234
+CA2235,Esmeraldas,Activo,PRO2235
+CA2236,Esmeraldas, Inactivo,PRO2236
+CA2237,Cuenca, Inactivo,PRO2237
+CA2238,Cuenca,Activo,PRO2238
+CA2239,Quito, Inactivo,PRO2239
+CA2240,Cuenca, Inactivo,PRO2240
+CA2241,Guayaquil,Activo,PRO2241
+CA2242,Guayaquil, Inactivo,PRO2242
+CA2243,Guayaquil,Activo,PRO2243
+CA2244,Chinchipe, Inactivo,PRO2244
+CA2245,Cuenca, Inactivo,PRO2245
+CA2246,Quito,Activo,PRO2246
+CA2247,Quito,Activo,PRO2247
+CA2248,Loja,Activo,PRO2248
+CA2249,Guayaquil,Activo,PRO2249
+CA2250,Esmeraldas,Activo,PRO2250
+CA2251,Guayaquil,Activo,PRO2251
+CA2252,Quito, Inactivo,PRO2252
+CA2253,Chinchipe, Inactivo,PRO2253
+CA2254,Quito, Inactivo,PRO2254
+CA2255,Cuenca, Inactivo,PRO2255
+CA2256,Guayaquil, Inactivo,PRO2256
+CA2257,Cuenca,Activo,PRO2257
+CA2258,Quito, Inactivo,PRO2258
+CA2259,Chinchipe,Activo,PRO2259
+CA2260,Cuenca,Activo,PRO2260
+CA2261,Loja, Inactivo,PRO2261
+CA2262,Quito, Inactivo,PRO2262
+CA2263,Chinchipe, Inactivo,PRO2263
+CA2264,Guayaquil, Inactivo,PRO2264
+CA2265,Chinchipe,Activo,PRO2265
+CA2266,Chinchipe, Inactivo,PRO2266
+CA2267,Quito, Inactivo,PRO2267
+CA2268,Chinchipe, Inactivo,PRO2268
+CA2269,Loja,Activo,PRO2269
+CA2270,Chinchipe, Inactivo,PRO2270
+CA2271,Cuenca,Activo,PRO2271
+CA2272,Quito, Inactivo,PRO2272
+CA2273,Quito, Inactivo,PRO2273
+CA2274,Quito,Activo,PRO2274
+CA2275,Cuenca,Activo,PRO2275
+CA2276,Guayaquil,Activo,PRO2276
+CA2277,Cuenca, Inactivo,PRO2277
+CA2278,Quito, Inactivo,PRO2278
+CA2279,Chinchipe,Activo,PRO2279
+CA2280,Esmeraldas, Inactivo,PRO2280
+CA2281,Quito,Activo,PRO2281
+CA2282,Guayaquil,Activo,PRO2282
+CA2283,Chinchipe,Activo,PRO2283
+CA2284,Esmeraldas,Activo,PRO2284
+CA2285,Quito,Activo,PRO2285
+CA2286,Esmeraldas, Inactivo,PRO2286
+CA2287,Loja,Activo,PRO2287
+CA2288,Chinchipe, Inactivo,PRO2288
+CA2289,Esmeraldas, Inactivo,PRO2289
+CA2290,Cuenca, Inactivo,PRO2290
+CA2291,Guayaquil,Activo,PRO2291
+CA2292,Quito,Activo,PRO2292
+CA2293,Guayaquil,Activo,PRO2293
+CA2294,Guayaquil, Inactivo,PRO2294
+CA2295,Chinchipe,Activo,PRO2295
+CA2296,Loja,Activo,PRO2296
+CA2297,Quito, Inactivo,PRO2297
+CA2298,Guayaquil, Inactivo,PRO2298
+CA2299,Quito,Activo,PRO2299
+CA2300,Quito,Activo,PRO2300
+CA2301,Chinchipe, Inactivo,PRO2301
+CA2302,Cuenca,Activo,PRO2302
+CA2303,Loja,Activo,PRO2303
+CA2304,Quito, Inactivo,PRO2304
+CA2305,Chinchipe,Activo,PRO2305
+CA2306,Guayaquil,Activo,PRO2306
+CA2307,Guayaquil,Activo,PRO2307
+CA2308,Quito, Inactivo,PRO2308
+CA2309,Chinchipe, Inactivo,PRO2309
+CA2310,Guayaquil, Inactivo,PRO2310
+CA2311,Cuenca, Inactivo,PRO2311
+CA2312,Quito, Inactivo,PRO2312
+CA2313,Guayaquil, Inactivo,PRO2313
+CA2314,Esmeraldas,Activo,PRO2314
+CA2315,Loja, Inactivo,PRO2315
+CA2316,Quito,Activo,PRO2316
+CA2317,Esmeraldas,Activo,PRO2317
+CA2318,Esmeraldas,Activo,PRO2318
+CA2319,Chinchipe, Inactivo,PRO2319
+CA2320,Quito, Inactivo,PRO2320
+CA2321,Cuenca,Activo,PRO2321
+CA2322,Quito,Activo,PRO2322
+CA2323,Guayaquil, Inactivo,PRO2323
+CA2324,Guayaquil, Inactivo,PRO2324
+CA2325,Chinchipe, Inactivo,PRO2325
+CA2326,Chinchipe, Inactivo,PRO2326
+CA2327,Guayaquil, Inactivo,PRO2327
+CA2328,Loja,Activo,PRO2328
+CA2329,Chinchipe, Inactivo,PRO2329
+CA2330,Chinchipe,Activo,PRO2330
+CA2331,Quito, Inactivo,PRO2331
+CA2332,Esmeraldas,Activo,PRO2332
+CA2333,Chinchipe,Activo,PRO2333
+CA2334,Guayaquil, Inactivo,PRO2334
+CA2335,Quito,Activo,PRO2335
+CA2336,Cuenca,Activo,PRO2336
+CA2337,Quito,Activo,PRO2337
+CA2338,Quito, Inactivo,PRO2338
+CA2339,Guayaquil, Inactivo,PRO2339
+CA2340,Quito,Activo,PRO2340
+CA2341,Cuenca, Inactivo,PRO2341
+CA2342,Loja, Inactivo,PRO2342
+CA2343,Chinchipe,Activo,PRO2343
+CA2344,Cuenca,Activo,PRO2344
+CA2345,Cuenca, Inactivo,PRO2345
+CA2346,Quito,Activo,PRO2346
+CA2347,Esmeraldas,Activo,PRO2347
+CA2348,Loja,Activo,PRO2348
+CA2349,Cuenca, Inactivo,PRO2349
+CA2350,Chinchipe,Activo,PRO2350
+CA2351,Quito, Inactivo,PRO2351
+CA2352,Chinchipe, Inactivo,PRO2352
+CA2353,Esmeraldas,Activo,PRO2353
+CA2354,Quito,Activo,PRO2354
+CA2355,Loja,Activo,PRO2355
+CA2356,Esmeraldas, Inactivo,PRO2356
+CA2357,Quito, Inactivo,PRO2357
+CA2358,Esmeraldas,Activo,PRO2358
+CA2359,Guayaquil, Inactivo,PRO2359
+CA2360,Chinchipe, Inactivo,PRO2360
+CA2361,Guayaquil, Inactivo,PRO2361
+CA2362,Guayaquil, Inactivo,PRO2362
+CA2363,Loja, Inactivo,PRO2363
+CA2364,Chinchipe,Activo,PRO2364
+CA2365,Chinchipe,Activo,PRO2365
+CA2366,Quito,Activo,PRO2366
+CA2367,Loja,Activo,PRO2367
+CA2368,Cuenca, Inactivo,PRO2368
+CA2369,Guayaquil,Activo,PRO2369
+CA2370,Esmeraldas, Inactivo,PRO2370
+CA2371,Quito,Activo,PRO2371
+CA2372,Chinchipe,Activo,PRO2372
+CA2373,Guayaquil, Inactivo,PRO2373
+CA2374,Guayaquil, Inactivo,PRO2374
+CA2375,Loja,Activo,PRO2375
+CA2376,Quito,Activo,PRO2376
+CA2377,Chinchipe,Activo,PRO2377
+CA2378,Esmeraldas,Activo,PRO2378
+CA2379,Esmeraldas,Activo,PRO2379
+CA2380,Esmeraldas, Inactivo,PRO2380
+CA2381,Esmeraldas,Activo,PRO2381
+CA2382,Quito, Inactivo,PRO2382
+CA2383,Quito,Activo,PRO2383
+CA2384,Chinchipe,Activo,PRO2384
+CA2385,Guayaquil, Inactivo,PRO2385
+CA2386,Cuenca,Activo,PRO2386
+CA2387,Chinchipe,Activo,PRO2387
+CA2388,Guayaquil, Inactivo,PRO2388
+CA2389,Chinchipe,Activo,PRO2389
+CA2390,Quito, Inactivo,PRO2390
+CA2391,Quito, Inactivo,PRO2391
+CA2392,Guayaquil,Activo,PRO2392
+CA2393,Chinchipe, Inactivo,PRO2393
+CA2394,Cuenca,Activo,PRO2394
+CA2395,Guayaquil, Inactivo,PRO2395
+CA2396,Quito,Activo,PRO2396
+CA2397,Loja, Inactivo,PRO2397
+CA2398,Quito,Activo,PRO2398
+CA2399,Esmeraldas,Activo,PRO2399
+CA2400,Loja,Activo,PRO2400
+CA2401,Loja, Inactivo,PRO2401
+CA2402,Guayaquil,Activo,PRO2402
+CA2403,Chinchipe,Activo,PRO2403
+CA2404,Chinchipe, Inactivo,PRO2404
+CA2405,Quito,Activo,PRO2405
+CA2406,Esmeraldas,Activo,PRO2406
+CA2407,Guayaquil,Activo,PRO2407
+CA2408,Guayaquil, Inactivo,PRO2408
+CA2409,Quito, Inactivo,PRO2409
+CA2410,Loja,Activo,PRO2410
+CA2411,Quito, Inactivo,PRO2411
+CA2412,Guayaquil,Activo,PRO2412
+CA2413,Cuenca,Activo,PRO2413
+CA2414,Quito,Activo,PRO2414
+CA2415,Quito,Activo,PRO2415
+CA2416,Cuenca, Inactivo,PRO2416
+CA2417,Esmeraldas, Inactivo,PRO2417
+CA2418,Loja,Activo,PRO2418
+CA2419,Esmeraldas,Activo,PRO2419
+CA2420,Loja,Activo,PRO2420
+CA2421,Quito, Inactivo,PRO2421
+CA2422,Loja,Activo,PRO2422
+CA2423,Cuenca,Activo,PRO2423
+CA2424,Loja,Activo,PRO2424
+CA2425,Loja,Activo,PRO2425
+CA2426,Cuenca, Inactivo,PRO2426
+CA2427,Loja,Activo,PRO2427
+CA2428,Guayaquil,Activo,PRO2428
+CA2429,Guayaquil,Activo,PRO2429
+CA2430,Guayaquil,Activo,PRO2430
+CA2431,Guayaquil,Activo,PRO2431
+CA2432,Esmeraldas, Inactivo,PRO2432
+CA2433,Quito, Inactivo,PRO2433
+CA2434,Quito, Inactivo,PRO2434
+CA2435,Chinchipe,Activo,PRO2435
+CA2436,Chinchipe, Inactivo,PRO2436
+CA2437,Quito, Inactivo,PRO2437
+CA2438,Chinchipe, Inactivo,PRO2438
+CA2439,Esmeraldas, Inactivo,PRO2439
+CA2440,Guayaquil,Activo,PRO2440
+CA2441,Quito, Inactivo,PRO2441
+CA2442,Loja,Activo,PRO2442
+CA2443,Cuenca, Inactivo,PRO2443
+CA2444,Cuenca,Activo,PRO2444
+CA2445,Guayaquil,Activo,PRO2445
+CA2446,Chinchipe, Inactivo,PRO2446
+CA2447,Guayaquil, Inactivo,PRO2447
+CA2448,Quito,Activo,PRO2448
+CA2449,Quito,Activo,PRO2449
+CA2450,Cuenca,Activo,PRO2450
+CA2451,Chinchipe,Activo,PRO2451
+CA2452,Cuenca,Activo,PRO2452
+CA2453,Quito,Activo,PRO2453
+CA2454,Esmeraldas,Activo,PRO2454
+CA2455,Cuenca, Inactivo,PRO2455
+CA2456,Chinchipe,Activo,PRO2456
+CA2457,Guayaquil, Inactivo,PRO2457
+CA2458,Guayaquil, Inactivo,PRO2458
+CA2459,Guayaquil, Inactivo,PRO2459
+CA2460,Cuenca, Inactivo,PRO2460
+CA2461,Loja,Activo,PRO2461
+CA2462,Cuenca,Activo,PRO2462
+CA2463,Chinchipe,Activo,PRO2463
+CA2464,Quito,Activo,PRO2464
+CA2465,Chinchipe, Inactivo,PRO2465
+CA2466,Quito, Inactivo,PRO2466
+CA2467,Quito,Activo,PRO2467
+CA2468,Quito,Activo,PRO2468
+CA2469,Chinchipe,Activo,PRO2469
+CA2470,Chinchipe,Activo,PRO2470
+CA2471,Guayaquil, Inactivo,PRO2471
+CA2472,Cuenca,Activo,PRO2472
+CA2473,Guayaquil, Inactivo,PRO2473
+CA2474,Quito,Activo,PRO2474
+CA2475,Quito,Activo,PRO2475
+CA2476,Loja,Activo,PRO2476
+CA2477,Chinchipe,Activo,PRO2477
+CA2478,Loja, Inactivo,PRO2478
+CA2479,Esmeraldas,Activo,PRO2479
+CA2480,Chinchipe, Inactivo,PRO2480
+CA2481,Loja, Inactivo,PRO2481
+CA2482,Chinchipe,Activo,PRO2482
+CA2483,Chinchipe, Inactivo,PRO2483
+CA2484,Esmeraldas,Activo,PRO2484
+CA2485,Cuenca,Activo,PRO2485
+CA2486,Quito,Activo,PRO2486
+CA2487,Esmeraldas, Inactivo,PRO2487
+CA2488,Cuenca,Activo,PRO2488
+CA2489,Chinchipe, Inactivo,PRO2489
+CA2490,Loja, Inactivo,PRO2490
+CA2491,Quito,Activo,PRO2491
+CA2492,Cuenca, Inactivo,PRO2492
+CA2493,Cuenca, Inactivo,PRO2493
+CA2494,Chinchipe,Activo,PRO2494
+CA2495,Quito, Inactivo,PRO2495
+CA2496,Quito, Inactivo,PRO2496
+CA2497,Guayaquil,Activo,PRO2497
+CA2498,Cuenca, Inactivo,PRO2498
+CA2499,Chinchipe, Inactivo,PRO2499
+CA2500,Esmeraldas, Inactivo,PRO2500
+CA2501,Guayaquil, Inactivo,PRO2501
+CA2502,Guayaquil,Activo,PRO2502
+CA2503,Cuenca, Inactivo,PRO2503
+CA2504,Quito,Activo,PRO2504
+CA2505,Chinchipe,Activo,PRO2505
+CA2506,Chinchipe, Inactivo,PRO2506
+CA2507,Esmeraldas,Activo,PRO2507
+CA2508,Cuenca,Activo,PRO2508
+CA2509,Quito,Activo,PRO2509
+CA2510,Guayaquil,Activo,PRO2510
+CA2511,Quito, Inactivo,PRO2511
+CA2512,Esmeraldas, Inactivo,PRO2512
+CA2513,Quito,Activo,PRO2513
+CA2514,Cuenca, Inactivo,PRO2514
+CA2515,Guayaquil,Activo,PRO2515
+CA2516,Esmeraldas, Inactivo,PRO2516
+CA2517,Guayaquil,Activo,PRO2517
+CA2518,Chinchipe,Activo,PRO2518
+CA2519,Quito,Activo,PRO2519
+CA2520,Chinchipe, Inactivo,PRO2520
+CA2521,Cuenca, Inactivo,PRO2521
+CA2522,Cuenca, Inactivo,PRO2522
+CA2523,Guayaquil, Inactivo,PRO2523
+CA2524,Quito,Activo,PRO2524
+CA2525,Esmeraldas,Activo,PRO2525
+CA2526,Guayaquil,Activo,PRO2526
+CA2527,Esmeraldas,Activo,PRO2527
+CA2528,Quito,Activo,PRO2528
+CA2529,Loja, Inactivo,PRO2529
+CA2530,Loja,Activo,PRO2530
+CA2531,Guayaquil,Activo,PRO2531
+CA2532,Chinchipe,Activo,PRO2532
+CA2533,Chinchipe, Inactivo,PRO2533
+CA2534,Guayaquil,Activo,PRO2534
+CA2535,Guayaquil,Activo,PRO2535
+CA2536,Esmeraldas, Inactivo,PRO2536
+CA2537,Loja, Inactivo,PRO2537
+CA2538,Guayaquil,Activo,PRO2538
+CA2539,Quito,Activo,PRO2539
+CA2540,Guayaquil,Activo,PRO2540
+CA2541,Chinchipe, Inactivo,PRO2541
+CA2542,Chinchipe,Activo,PRO2542
+CA2543,Quito, Inactivo,PRO2543
+CA2544,Guayaquil,Activo,PRO2544
+CA2545,Chinchipe, Inactivo,PRO2545
+CA2546,Chinchipe, Inactivo,PRO2546
+CA2547,Guayaquil, Inactivo,PRO2547
+CA2548,Guayaquil,Activo,PRO2548
+CA2549,Quito, Inactivo,PRO2549
+CA2550,Quito, Inactivo,PRO2550
+CA2551,Chinchipe,Activo,PRO2551
+CA2552,Chinchipe, Inactivo,PRO2552
+CA2553,Guayaquil,Activo,PRO2553
+CA2554,Loja,Activo,PRO2554
+CA2555,Cuenca,Activo,PRO2555
+CA2556,Chinchipe,Activo,PRO2556
+CA2557,Quito,Activo,PRO2557
+CA2558,Cuenca, Inactivo,PRO2558
+CA2559,Chinchipe,Activo,PRO2559
+CA2560,Cuenca,Activo,PRO2560
+CA2561,Quito, Inactivo,PRO2561
+CA2562,Chinchipe, Inactivo,PRO2562
+CA2563,Esmeraldas,Activo,PRO2563
+CA2564,Guayaquil, Inactivo,PRO2564
+CA2565,Guayaquil,Activo,PRO2565
+CA2566,Guayaquil,Activo,PRO2566
+CA2567,Quito, Inactivo,PRO2567
+CA2568,Guayaquil,Activo,PRO2568
+CA2569,Loja, Inactivo,PRO2569
+CA2570,Chinchipe, Inactivo,PRO2570
+CA2571,Loja, Inactivo,PRO2571
+CA2572,Guayaquil,Activo,PRO2572
+CA2573,Guayaquil,Activo,PRO2573
+CA2574,Cuenca, Inactivo,PRO2574
+CA2575,Guayaquil, Inactivo,PRO2575
+CA2576,Esmeraldas,Activo,PRO2576
+CA2577,Quito, Inactivo,PRO2577
+CA2578,Chinchipe, Inactivo,PRO2578
+CA2579,Cuenca, Inactivo,PRO2579
+CA2580,Quito, Inactivo,PRO2580
+CA2581,Quito, Inactivo,PRO2581
+CA2582,Guayaquil,Activo,PRO2582
+CA2583,Esmeraldas,Activo,PRO2583
+CA2584,Guayaquil,Activo,PRO2584
+CA2585,Loja,Activo,PRO2585
+CA2586,Quito, Inactivo,PRO2586
+CA2587,Guayaquil, Inactivo,PRO2587
+CA2588,Cuenca, Inactivo,PRO2588
+CA2589,Cuenca,Activo,PRO2589
+CA2590,Chinchipe, Inactivo,PRO2590
+CA2591,Chinchipe,Activo,PRO2591
+CA2592,Loja,Activo,PRO2592
+CA2593,Chinchipe,Activo,PRO2593
+CA2594,Chinchipe, Inactivo,PRO2594
+CA2595,Quito, Inactivo,PRO2595
+CA2596,Guayaquil, Inactivo,PRO2596
+CA2597,Esmeraldas, Inactivo,PRO2597
+CA2598,Cuenca,Activo,PRO2598
+CA2599,Chinchipe,Activo,PRO2599
+CA2600,Esmeraldas,Activo,PRO2600
+CA2601,Quito, Inactivo,PRO2601
+CA2602,Chinchipe, Inactivo,PRO2602
+CA2603,Cuenca, Inactivo,PRO2603
+CA2604,Esmeraldas, Inactivo,PRO2604
+CA2605,Guayaquil,Activo,PRO2605
+CA2606,Loja,Activo,PRO2606
+CA2607,Loja,Activo,PRO2607
+CA2608,Guayaquil, Inactivo,PRO2608
+CA2609,Esmeraldas, Inactivo,PRO2609
+CA2610,Loja,Activo,PRO2610
+CA2611,Quito, Inactivo,PRO2611
+CA2612,Quito,Activo,PRO2612
+CA2613,Cuenca, Inactivo,PRO2613
+CA2614,Loja,Activo,PRO2614
+CA2615,Loja, Inactivo,PRO2615
+CA2616,Guayaquil, Inactivo,PRO2616
+CA2617,Chinchipe,Activo,PRO2617
+CA2618,Guayaquil,Activo,PRO2618
+CA2619,Guayaquil,Activo,PRO2619
+CA2620,Esmeraldas, Inactivo,PRO2620
+CA2621,Guayaquil, Inactivo,PRO2621
+CA2622,Quito,Activo,PRO2622
+CA2623,Chinchipe,Activo,PRO2623
+CA2624,Quito, Inactivo,PRO2624
+CA2625,Quito, Inactivo,PRO2625
+CA2626,Esmeraldas, Inactivo,PRO2626
+CA2627,Cuenca,Activo,PRO2627
+CA2628,Chinchipe,Activo,PRO2628
+CA2629,Esmeraldas, Inactivo,PRO2629
+CA2630,Chinchipe, Inactivo,PRO2630
+CA2631,Cuenca,Activo,PRO2631
+CA2632,Chinchipe, Inactivo,PRO2632
+CA2633,Quito,Activo,PRO2633
+CA2634,Cuenca,Activo,PRO2634
+CA2635,Cuenca, Inactivo,PRO2635
+CA2636,Loja, Inactivo,PRO2636
+CA2637,Quito,Activo,PRO2637
+CA2638,Esmeraldas, Inactivo,PRO2638
+CA2639,Loja, Inactivo,PRO2639
+CA2640,Cuenca, Inactivo,PRO2640
+CA2641,Esmeraldas, Inactivo,PRO2641
+CA2642,Cuenca,Activo,PRO2642
+CA2643,Guayaquil,Activo,PRO2643
+CA2644,Cuenca, Inactivo,PRO2644
+CA2645,Guayaquil, Inactivo,PRO2645
+CA2646,Esmeraldas, Inactivo,PRO2646
+CA2647,Guayaquil, Inactivo,PRO2647
+CA2648,Quito,Activo,PRO2648
+CA2649,Cuenca, Inactivo,PRO2649
+CA2650,Chinchipe,Activo,PRO2650
+CA2651,Quito, Inactivo,PRO2651
+CA2652,Guayaquil, Inactivo,PRO2652
+CA2653,Loja,Activo,PRO2653
+CA2654,Loja,Activo,PRO2654
+CA2655,Cuenca,Activo,PRO2655
+CA2656,Loja,Activo,PRO2656
+CA2657,Chinchipe,Activo,PRO2657
+CA2658,Cuenca, Inactivo,PRO2658
+CA2659,Chinchipe, Inactivo,PRO2659
+CA2660,Quito,Activo,PRO2660
+CA2661,Guayaquil, Inactivo,PRO2661
+CA2662,Chinchipe, Inactivo,PRO2662
+CA2663,Chinchipe,Activo,PRO2663
+CA2664,Quito, Inactivo,PRO2664
+CA2665,Quito,Activo,PRO2665
+CA2666,Quito, Inactivo,PRO2666
+CA2667,Quito,Activo,PRO2667
+CA2668,Esmeraldas, Inactivo,PRO2668
+CA2669,Guayaquil,Activo,PRO2669
+CA2670,Guayaquil, Inactivo,PRO2670
+CA2671,Cuenca, Inactivo,PRO2671
+CA2672,Chinchipe,Activo,PRO2672
+CA2673,Guayaquil,Activo,PRO2673
+CA2674,Chinchipe,Activo,PRO2674
+CA2675,Cuenca, Inactivo,PRO2675
+CA2676,Esmeraldas,Activo,PRO2676
+CA2677,Quito,Activo,PRO2677
+CA2678,Quito, Inactivo,PRO2678
+CA2679,Chinchipe,Activo,PRO2679
+CA2680,Cuenca,Activo,PRO2680
+CA2681,Quito, Inactivo,PRO2681
+CA2682,Chinchipe, Inactivo,PRO2682
+CA2683,Cuenca,Activo,PRO2683
+CA2684,Guayaquil, Inactivo,PRO2684
+CA2685,Guayaquil,Activo,PRO2685
+CA2686,Quito, Inactivo,PRO2686
+CA2687,Loja, Inactivo,PRO2687
+CA2688,Quito,Activo,PRO2688
+CA2689,Esmeraldas,Activo,PRO2689
+CA2690,Cuenca,Activo,PRO2690
+CA2691,Cuenca, Inactivo,PRO2691
+CA2692,Cuenca, Inactivo,PRO2692
+CA2693,Guayaquil,Activo,PRO2693
+CA2694,Chinchipe, Inactivo,PRO2694
+CA2695,Chinchipe,Activo,PRO2695
+CA2696,Quito, Inactivo,PRO2696
+CA2697,Guayaquil, Inactivo,PRO2697
+CA2698,Loja,Activo,PRO2698
+CA2699,Chinchipe,Activo,PRO2699
+CA2700,Esmeraldas, Inactivo,PRO2700
+CA2701,Quito, Inactivo,PRO2701
+CA2702,Chinchipe, Inactivo,PRO2702
+CA2703,Cuenca,Activo,PRO2703
+CA2704,Cuenca,Activo,PRO2704
+CA2705,Quito,Activo,PRO2705
+CA2706,Guayaquil,Activo,PRO2706
+CA2707,Loja, Inactivo,PRO2707
+CA2708,Cuenca,Activo,PRO2708
+CA2709,Chinchipe,Activo,PRO2709
+CA2710,Quito,Activo,PRO2710
+CA2711,Guayaquil,Activo,PRO2711
+CA2712,Chinchipe, Inactivo,PRO2712
+CA2713,Chinchipe, Inactivo,PRO2713
+CA2714,Loja, Inactivo,PRO2714
+CA2715,Quito,Activo,PRO2715
+CA2716,Chinchipe,Activo,PRO2716
+CA2717,Chinchipe,Activo,PRO2717
+CA2718,Loja,Activo,PRO2718
+CA2719,Quito,Activo,PRO2719
+CA2720,Chinchipe,Activo,PRO2720
+CA2721,Cuenca,Activo,PRO2721
+CA2722,Chinchipe, Inactivo,PRO2722
+CA2723,Esmeraldas,Activo,PRO2723
+CA2724,Guayaquil,Activo,PRO2724
+CA2725,Quito,Activo,PRO2725
+CA2726,Quito, Inactivo,PRO2726
+CA2727,Esmeraldas,Activo,PRO2727
+CA2728,Loja, Inactivo,PRO2728
+CA2729,Guayaquil,Activo,PRO2729
+CA2730,Guayaquil,Activo,PRO2730
+CA2731,Quito, Inactivo,PRO2731
+CA2732,Cuenca, Inactivo,PRO2732
+CA2733,Cuenca,Activo,PRO2733
+CA2734,Guayaquil, Inactivo,PRO2734
+CA2735,Guayaquil, Inactivo,PRO2735
+CA2736,Loja, Inactivo,PRO2736
+CA2737,Loja, Inactivo,PRO2737
+CA2738,Cuenca,Activo,PRO2738
+CA2739,Loja,Activo,PRO2739
+CA2740,Loja,Activo,PRO2740
+CA2741,Guayaquil,Activo,PRO2741
+CA2742,Chinchipe, Inactivo,PRO2742
+CA2743,Cuenca, Inactivo,PRO2743
+CA2744,Chinchipe, Inactivo,PRO2744
+CA2745,Quito, Inactivo,PRO2745
+CA2746,Quito,Activo,PRO2746
+CA2747,Esmeraldas,Activo,PRO2747
+CA2748,Cuenca, Inactivo,PRO2748
+CA2749,Loja, Inactivo,PRO2749
+CA2750,Esmeraldas,Activo,PRO2750
+CA2751,Cuenca, Inactivo,PRO2751
+CA2752,Guayaquil,Activo,PRO2752
+CA2753,Esmeraldas, Inactivo,PRO2753
+CA2754,Esmeraldas,Activo,PRO2754
+CA2755,Chinchipe, Inactivo,PRO2755
+CA2756,Loja, Inactivo,PRO2756
+CA2757,Esmeraldas, Inactivo,PRO2757
+CA2758,Esmeraldas, Inactivo,PRO2758
+CA2759,Loja,Activo,PRO2759
+CA2760,Cuenca,Activo,PRO2760
+CA2761,Guayaquil,Activo,PRO2761
+CA2762,Quito,Activo,PRO2762
+CA2763,Chinchipe,Activo,PRO2763
+CA2764,Esmeraldas,Activo,PRO2764
+CA2765,Guayaquil,Activo,PRO2765
+CA2766,Chinchipe,Activo,PRO2766
+CA2767,Cuenca,Activo,PRO2767
+CA2768,Guayaquil, Inactivo,PRO2768
+CA2769,Quito,Activo,PRO2769
+CA2770,Chinchipe, Inactivo,PRO2770
+CA2771,Guayaquil,Activo,PRO2771
+CA2772,Quito, Inactivo,PRO2772
+CA2773,Cuenca, Inactivo,PRO2773
+CA2774,Cuenca, Inactivo,PRO2774
+CA2775,Cuenca,Activo,PRO2775
+CA2776,Chinchipe,Activo,PRO2776
+CA2777,Cuenca,Activo,PRO2777
+CA2778,Quito, Inactivo,PRO2778
+CA2779,Quito, Inactivo,PRO2779
+CA2780,Cuenca,Activo,PRO2780
+CA2781,Cuenca, Inactivo,PRO2781
+CA2782,Cuenca, Inactivo,PRO2782
+CA2783,Chinchipe, Inactivo,PRO2783
+CA2784,Cuenca,Activo,PRO2784
+CA2785,Cuenca,Activo,PRO2785
+CA2786,Chinchipe,Activo,PRO2786
+CA2787,Quito, Inactivo,PRO2787
+CA2788,Cuenca, Inactivo,PRO2788
+CA2789,Guayaquil, Inactivo,PRO2789
+CA2790,Quito, Inactivo,PRO2790
+CA2791,Quito, Inactivo,PRO2791
+CA2792,Cuenca,Activo,PRO2792
+CA2793,Chinchipe, Inactivo,PRO2793
+CA2794,Quito,Activo,PRO2794
+CA2795,Loja,Activo,PRO2795
+CA2796,Chinchipe,Activo,PRO2796
+CA2797,Chinchipe, Inactivo,PRO2797
+CA2798,Guayaquil,Activo,PRO2798
+CA2799,Esmeraldas, Inactivo,PRO2799
+CA2800,Guayaquil,Activo,PRO2800
+CA2801,Cuenca,Activo,PRO2801
+CA2802,Quito,Activo,PRO2802
+CA2803,Cuenca, Inactivo,PRO2803
+CA2804,Quito, Inactivo,PRO2804
+CA2805,Quito, Inactivo,PRO2805
+CA2806,Esmeraldas, Inactivo,PRO2806
+CA2807,Chinchipe,Activo,PRO2807
+CA2808,Cuenca, Inactivo,PRO2808
+CA2809,Guayaquil, Inactivo,PRO2809
+CA2810,Cuenca,Activo,PRO2810
+CA2811,Cuenca,Activo,PRO2811
+CA2812,Cuenca,Activo,PRO2812
+CA2813,Guayaquil,Activo,PRO2813
+CA2814,Chinchipe,Activo,PRO2814
+CA2815,Cuenca, Inactivo,PRO2815
+CA2816,Cuenca, Inactivo,PRO2816
+CA2817,Cuenca,Activo,PRO2817
+CA2818,Quito,Activo,PRO2818
+CA2819,Guayaquil, Inactivo,PRO2819
+CA2820,Esmeraldas,Activo,PRO2820
+CA2821,Guayaquil,Activo,PRO2821
+CA2822,Cuenca, Inactivo,PRO2822
+CA2823,Guayaquil, Inactivo,PRO2823
+CA2824,Loja, Inactivo,PRO2824
+CA2825,Chinchipe,Activo,PRO2825
+CA2826,Cuenca,Activo,PRO2826
+CA2827,Esmeraldas, Inactivo,PRO2827
+CA2828,Loja,Activo,PRO2828
+CA2829,Chinchipe,Activo,PRO2829
+CA2830,Esmeraldas,Activo,PRO2830
+CA2831,Cuenca,Activo,PRO2831
+CA2832,Guayaquil,Activo,PRO2832
+CA2833,Loja, Inactivo,PRO2833
+CA2834,Chinchipe,Activo,PRO2834
+CA2835,Quito,Activo,PRO2835
+CA2836,Quito, Inactivo,PRO2836
+CA2837,Quito, Inactivo,PRO2837
+CA2838,Quito, Inactivo,PRO2838
+CA2839,Guayaquil, Inactivo,PRO2839
+CA2840,Chinchipe, Inactivo,PRO2840
+CA2841,Guayaquil,Activo,PRO2841
+CA2842,Guayaquil, Inactivo,PRO2842
+CA2843,Cuenca,Activo,PRO2843
+CA2844,Esmeraldas,Activo,PRO2844
+CA2845,Guayaquil, Inactivo,PRO2845
+CA2846,Loja,Activo,PRO2846
+CA2847,Cuenca, Inactivo,PRO2847
+CA2848,Guayaquil,Activo,PRO2848
+CA2849,Cuenca, Inactivo,PRO2849
+CA2850,Guayaquil, Inactivo,PRO2850
+CA2851,Chinchipe, Inactivo,PRO2851
+CA2852,Chinchipe, Inactivo,PRO2852
+CA2853,Guayaquil,Activo,PRO2853
+CA2854,Guayaquil, Inactivo,PRO2854
+CA2855,Esmeraldas, Inactivo,PRO2855
+CA2856,Cuenca, Inactivo,PRO2856
+CA2857,Esmeraldas,Activo,PRO2857
+CA2858,Cuenca, Inactivo,PRO2858
+CA2859,Guayaquil, Inactivo,PRO2859
+CA2860,Quito, Inactivo,PRO2860
+CA2861,Guayaquil,Activo,PRO2861
+CA2862,Quito, Inactivo,PRO2862
+CA2863,Guayaquil,Activo,PRO2863
+CA2864,Cuenca, Inactivo,PRO2864
+CA2865,Chinchipe, Inactivo,PRO2865
+CA2866,Guayaquil, Inactivo,PRO2866
+CA2867,Guayaquil,Activo,PRO2867
+CA2868,Quito, Inactivo,PRO2868
+CA2869,Chinchipe,Activo,PRO2869
+CA2870,Guayaquil,Activo,PRO2870
+CA2871,Esmeraldas,Activo,PRO2871
+CA2872,Quito, Inactivo,PRO2872
+CA2873,Cuenca, Inactivo,PRO2873
+CA2874,Cuenca,Activo,PRO2874
+CA2875,Chinchipe,Activo,PRO2875
+CA2876,Quito,Activo,PRO2876
+CA2877,Loja, Inactivo,PRO2877
+CA2878,Quito,Activo,PRO2878
+CA2879,Quito, Inactivo,PRO2879
+CA2880,Guayaquil, Inactivo,PRO2880
+CA2881,Cuenca, Inactivo,PRO2881
+CA2882,Quito,Activo,PRO2882
+CA2883,Guayaquil, Inactivo,PRO2883
+CA2884,Guayaquil, Inactivo,PRO2884
+CA2885,Quito,Activo,PRO2885
+CA2886,Loja, Inactivo,PRO2886
+CA2887,Loja, Inactivo,PRO2887
+CA2888,Quito, Inactivo,PRO2888
+CA2889,Loja,Activo,PRO2889
+CA2890,Cuenca,Activo,PRO2890
+CA2891,Quito, Inactivo,PRO2891
+CA2892,Quito,Activo,PRO2892
+CA2893,Cuenca,Activo,PRO2893
+CA2894,Guayaquil, Inactivo,PRO2894
+CA2895,Chinchipe,Activo,PRO2895
+CA2896,Loja,Activo,PRO2896
+CA2897,Quito, Inactivo,PRO2897
+CA2898,Cuenca, Inactivo,PRO2898
+CA2899,Cuenca,Activo,PRO2899
+CA2900,Quito,Activo,PRO2900
+CA2901,Guayaquil, Inactivo,PRO2901
+CA2902,Quito, Inactivo,PRO2902
+CA2903,Chinchipe,Activo,PRO2903
+CA2904,Guayaquil, Inactivo,PRO2904
+CA2905,Esmeraldas,Activo,PRO2905
+CA2906,Loja,Activo,PRO2906
+CA2907,Cuenca,Activo,PRO2907
+CA2908,Cuenca,Activo,PRO2908
+CA2909,Esmeraldas, Inactivo,PRO2909
+CA2910,Quito, Inactivo,PRO2910
+CA2911,Cuenca,Activo,PRO2911
+CA2912,Cuenca,Activo,PRO2912
+CA2913,Loja,Activo,PRO2913
+CA2914,Quito, Inactivo,PRO2914
+CA2915,Chinchipe, Inactivo,PRO2915
+CA2916,Chinchipe,Activo,PRO2916
+CA2917,Quito,Activo,PRO2917
+CA2918,Quito, Inactivo,PRO2918
+CA2919,Guayaquil, Inactivo,PRO2919
+CA2920,Quito,Activo,PRO2920
+CA2921,Quito, Inactivo,PRO2921
+CA2922,Esmeraldas, Inactivo,PRO2922
+CA2923,Esmeraldas, Inactivo,PRO2923
+CA2924,Guayaquil,Activo,PRO2924
+CA2925,Loja, Inactivo,PRO2925
+CA2926,Quito,Activo,PRO2926
+CA2927,Loja, Inactivo,PRO2927
+CA2928,Quito, Inactivo,PRO2928
+CA2929,Loja,Activo,PRO2929
+CA2930,Quito,Activo,PRO2930
+CA2931,Chinchipe,Activo,PRO2931
+CA2932,Quito,Activo,PRO2932
+CA2933,Cuenca,Activo,PRO2933
+CA2934,Esmeraldas,Activo,PRO2934
+CA2935,Cuenca, Inactivo,PRO2935
+CA2936,Guayaquil,Activo,PRO2936
+CA2937,Cuenca,Activo,PRO2937
+CA2938,Chinchipe,Activo,PRO2938
+CA2939,Guayaquil,Activo,PRO2939
+CA2940,Esmeraldas,Activo,PRO2940
+CA2941,Chinchipe, Inactivo,PRO2941
+CA2942,Cuenca, Inactivo,PRO2942
+CA2943,Cuenca, Inactivo,PRO2943
+CA2944,Loja,Activo,PRO2944
+CA2945,Esmeraldas,Activo,PRO2945
+CA2946,Guayaquil, Inactivo,PRO2946
+CA2947,Cuenca, Inactivo,PRO2947
+CA2948,Loja, Inactivo,PRO2948
+CA2949,Quito, Inactivo,PRO2949
+CA2950,Quito, Inactivo,PRO2950
+CA2951,Esmeraldas, Inactivo,PRO2951
+CA2952,Chinchipe,Activo,PRO2952
+CA2953,Guayaquil,Activo,PRO2953
+CA2954,Esmeraldas,Activo,PRO2954
+CA2955,Cuenca,Activo,PRO2955
+CA2956,Quito, Inactivo,PRO2956
+CA2957,Esmeraldas, Inactivo,PRO2957
+CA2958,Guayaquil, Inactivo,PRO2958
+CA2959,Guayaquil, Inactivo,PRO2959
+CA2960,Guayaquil, Inactivo,PRO2960
+CA2961,Quito, Inactivo,PRO2961
+CA2962,Cuenca, Inactivo,PRO2962
+CA2963,Guayaquil,Activo,PRO2963
+CA2964,Loja, Inactivo,PRO2964
+CA2965,Chinchipe, Inactivo,PRO2965
+CA2966,Esmeraldas,Activo,PRO2966
+CA2967,Cuenca, Inactivo,PRO2967
+CA2968,Cuenca,Activo,PRO2968
+CA2969,Esmeraldas, Inactivo,PRO2969
+CA2970,Cuenca,Activo,PRO2970
+CA2971,Loja, Inactivo,PRO2971
+CA2972,Quito,Activo,PRO2972
+CA2973,Chinchipe,Activo,PRO2973
+CA2974,Cuenca, Inactivo,PRO2974
+CA2975,Quito, Inactivo,PRO2975
+CA2976,Chinchipe,Activo,PRO2976
+CA2977,Cuenca,Activo,PRO2977
+CA2978,Guayaquil,Activo,PRO2978
+CA2979,Cuenca, Inactivo,PRO2979
+CA2980,Quito, Inactivo,PRO2980
+CA2981,Loja, Inactivo,PRO2981
+CA2982,Quito,Activo,PRO2982
+CA2983,Guayaquil, Inactivo,PRO2983
+CA2984,Quito,Activo,PRO2984
+CA2985,Guayaquil, Inactivo,PRO2985
+CA2986,Cuenca, Inactivo,PRO2986
+CA2987,Quito, Inactivo,PRO2987
+CA2988,Quito, Inactivo,PRO2988
+CA2989,Chinchipe,Activo,PRO2989
+CA2990,Chinchipe, Inactivo,PRO2990
+CA2991,Cuenca, Inactivo,PRO2991
+CA2992,Quito, Inactivo,PRO2992
+CA2993,Guayaquil, Inactivo,PRO2993
+CA2994,Guayaquil, Inactivo,PRO2994
+CA2995,Esmeraldas,Activo,PRO2995
+CA2996,Cuenca, Inactivo,PRO2996
+CA2997,Cuenca, Inactivo,PRO2997
+CA2998,Guayaquil,Activo,PRO2998
+CA2999,Quito,Activo,PRO2999
+CA3000,Cuenca, Inactivo,PRO3000
+CA3001,Cuenca,Activo,PRO3001
+CA3002,Loja,Activo,PRO3002
+CA3003,Quito,Activo,PRO3003
+CA3004,Esmeraldas, Inactivo,PRO3004
+CA3005,Esmeraldas, Inactivo,PRO3005
+CA3006,Guayaquil,Activo,PRO3006
+CA3007,Cuenca, Inactivo,PRO3007
+CA3008,Chinchipe,Activo,PRO3008
+CA3009,Quito,Activo,PRO3009
+CA3010,Cuenca, Inactivo,PRO3010
+CA3011,Esmeraldas, Inactivo,PRO3011
+CA3012,Guayaquil,Activo,PRO3012
+CA3013,Cuenca,Activo,PRO3013
+CA3014,Quito, Inactivo,PRO3014
+CA3015,Chinchipe, Inactivo,PRO3015
+CA3016,Quito,Activo,PRO3016
+CA3017,Chinchipe, Inactivo,PRO3017
+CA3018,Guayaquil,Activo,PRO3018
+CA3019,Quito, Inactivo,PRO3019
+CA3020,Guayaquil,Activo,PRO3020
+CA3021,Chinchipe, Inactivo,PRO3021
+CA3022,Cuenca, Inactivo,PRO3022
+CA3023,Chinchipe, Inactivo,PRO3023
+CA3024,Loja, Inactivo,PRO3024
+CA3025,Cuenca, Inactivo,PRO3025
+CA3026,Chinchipe, Inactivo,PRO3026
+CA3027,Chinchipe, Inactivo,PRO3027
+CA3028,Cuenca, Inactivo,PRO3028
+CA3029,Loja, Inactivo,PRO3029
+CA3030,Guayaquil,Activo,PRO3030
+CA3031,Guayaquil, Inactivo,PRO3031
+CA3032,Chinchipe,Activo,PRO3032
+CA3033,Guayaquil, Inactivo,PRO3033
+CA3034,Cuenca, Inactivo,PRO3034
+CA3035,Chinchipe, Inactivo,PRO3035
+CA3036,Cuenca, Inactivo,PRO3036
+CA3037,Guayaquil, Inactivo,PRO3037
+CA3038,Esmeraldas, Inactivo,PRO3038
+CA3039,Loja,Activo,PRO3039
+CA3040,Chinchipe,Activo,PRO3040
+CA3041,Loja,Activo,PRO3041
+CA3042,Chinchipe,Activo,PRO3042
+CA3043,Quito, Inactivo,PRO3043
+CA3044,Chinchipe,Activo,PRO3044
+CA3045,Guayaquil, Inactivo,PRO3045
+CA3046,Esmeraldas, Inactivo,PRO3046
+CA3047,Chinchipe, Inactivo,PRO3047
+CA3048,Chinchipe,Activo,PRO3048
+CA3049,Cuenca, Inactivo,PRO3049
+CA3050,Loja, Inactivo,PRO3050
+CA3051,Cuenca,Activo,PRO3051
+CA3052,Chinchipe, Inactivo,PRO3052
+CA3053,Guayaquil,Activo,PRO3053
+CA3054,Chinchipe, Inactivo,PRO3054
+CA3055,Cuenca,Activo,PRO3055
+CA3056,Quito,Activo,PRO3056
+CA3057,Chinchipe,Activo,PRO3057
+CA3058,Chinchipe,Activo,PRO3058
+CA3059,Cuenca,Activo,PRO3059
+CA3060,Chinchipe,Activo,PRO3060
+CA3061,Cuenca,Activo,PRO3061
+CA3062,Guayaquil,Activo,PRO3062
+CA3063,Chinchipe, Inactivo,PRO3063
+CA3064,Guayaquil, Inactivo,PRO3064
+CA3065,Loja,Activo,PRO3065
+CA3066,Guayaquil, Inactivo,PRO3066
+CA3067,Cuenca,Activo,PRO3067
+CA3068,Esmeraldas,Activo,PRO3068
+CA3069,Cuenca,Activo,PRO3069
+CA3070,Cuenca,Activo,PRO3070
+CA3071,Quito,Activo,PRO3071
+CA3072,Guayaquil,Activo,PRO3072
+CA3073,Cuenca,Activo,PRO3073
+CA3074,Quito, Inactivo,PRO3074
+CA3075,Loja, Inactivo,PRO3075
+CA3076,Cuenca, Inactivo,PRO3076
+CA3077,Quito,Activo,PRO3077
+CA3078,Guayaquil,Activo,PRO3078
+CA3079,Chinchipe,Activo,PRO3079
+CA3080,Loja, Inactivo,PRO3080
+CA3081,Cuenca,Activo,PRO3081
+CA3082,Loja,Activo,PRO3082
+CA3083,Esmeraldas, Inactivo,PRO3083
+CA3084,Quito, Inactivo,PRO3084
+CA3085,Guayaquil,Activo,PRO3085
+CA3086,Quito,Activo,PRO3086
+CA3087,Quito,Activo,PRO3087
+CA3088,Guayaquil, Inactivo,PRO3088
+CA3089,Guayaquil, Inactivo,PRO3089
+CA3090,Quito, Inactivo,PRO3090
+CA3091,Cuenca,Activo,PRO3091
+CA3092,Guayaquil,Activo,PRO3092
+CA3093,Esmeraldas, Inactivo,PRO3093
+CA3094,Chinchipe, Inactivo,PRO3094
+CA3095,Loja,Activo,PRO3095
+CA3096,Loja, Inactivo,PRO3096
+CA3097,Chinchipe, Inactivo,PRO3097
+CA3098,Chinchipe,Activo,PRO3098
+CA3099,Cuenca, Inactivo,PRO3099
+CA3100,Guayaquil, Inactivo,PRO3100
+CA3101,Cuenca,Activo,PRO3101
+CA3102,Quito, Inactivo,PRO3102
+CA3103,Guayaquil, Inactivo,PRO3103
+CA3104,Quito, Inactivo,PRO3104
+CA3105,Guayaquil,Activo,PRO3105
+CA3106,Quito, Inactivo,PRO3106
+CA3107,Loja,Activo,PRO3107
+CA3108,Chinchipe,Activo,PRO3108
+CA3109,Guayaquil, Inactivo,PRO3109
+CA3110,Cuenca, Inactivo,PRO3110
+CA3111,Chinchipe,Activo,PRO3111
+CA3112,Loja,Activo,PRO3112
+CA3113,Cuenca,Activo,PRO3113
+CA3114,Cuenca, Inactivo,PRO3114
+CA3115,Quito, Inactivo,PRO3115
+CA3116,Quito, Inactivo,PRO3116
+CA3117,Guayaquil, Inactivo,PRO3117
+CA3118,Cuenca, Inactivo,PRO3118
+CA3119,Quito,Activo,PRO3119
+CA3120,Guayaquil,Activo,PRO3120
+CA3121,Chinchipe, Inactivo,PRO3121
+CA3122,Guayaquil, Inactivo,PRO3122
+CA3123,Quito,Activo,PRO3123
+CA3124,Quito, Inactivo,PRO3124
+CA3125,Esmeraldas,Activo,PRO3125
+CA3126,Chinchipe,Activo,PRO3126
+CA3127,Guayaquil, Inactivo,PRO3127
+CA3128,Chinchipe, Inactivo,PRO3128
+CA3129,Esmeraldas, Inactivo,PRO3129
+CA3130,Quito,Activo,PRO3130
+CA3131,Chinchipe,Activo,PRO3131
+CA3132,Quito,Activo,PRO3132
+CA3133,Cuenca,Activo,PRO3133
+CA3134,Cuenca,Activo,PRO3134
+CA3135,Quito, Inactivo,PRO3135
+CA3136,Esmeraldas, Inactivo,PRO3136
+CA3137,Esmeraldas,Activo,PRO3137
+CA3138,Loja, Inactivo,PRO3138
+CA3139,Guayaquil, Inactivo,PRO3139
+CA3140,Guayaquil, Inactivo,PRO3140
+CA3141,Quito, Inactivo,PRO3141
+CA3142,Chinchipe, Inactivo,PRO3142
+CA3143,Guayaquil, Inactivo,PRO3143
+CA3144,Quito,Activo,PRO3144
+CA3145,Chinchipe,Activo,PRO3145
+CA3146,Loja,Activo,PRO3146
+CA3147,Quito,Activo,PRO3147
+CA3148,Chinchipe,Activo,PRO3148
+CA3149,Guayaquil,Activo,PRO3149
+CA3150,Guayaquil, Inactivo,PRO3150
+CA3151,Quito, Inactivo,PRO3151
+CA3152,Guayaquil, Inactivo,PRO3152
+CA3153,Esmeraldas,Activo,PRO3153
+CA3154,Cuenca,Activo,PRO3154
+CA3155,Guayaquil,Activo,PRO3155
+CA3156,Cuenca,Activo,PRO3156
+CA3157,Quito,Activo,PRO3157
+CA3158,Loja, Inactivo,PRO3158
+CA3159,Quito, Inactivo,PRO3159
+CA3160,Cuenca,Activo,PRO3160
+CA3161,Esmeraldas,Activo,PRO3161
+CA3162,Cuenca, Inactivo,PRO3162
+CA3163,Chinchipe,Activo,PRO3163
+CA3164,Esmeraldas,Activo,PRO3164
+CA3165,Quito,Activo,PRO3165
+CA3166,Chinchipe,Activo,PRO3166
+CA3167,Loja, Inactivo,PRO3167
+CA3168,Guayaquil,Activo,PRO3168
+CA3169,Cuenca,Activo,PRO3169
+CA3170,Quito, Inactivo,PRO3170
+CA3171,Quito, Inactivo,PRO3171
+CA3172,Cuenca,Activo,PRO3172
+CA3173,Guayaquil,Activo,PRO3173
+CA3174,Loja,Activo,PRO3174
+CA3175,Guayaquil, Inactivo,PRO3175
+CA3176,Loja, Inactivo,PRO3176
+CA3177,Loja,Activo,PRO3177
+CA3178,Chinchipe, Inactivo,PRO3178
+CA3179,Quito, Inactivo,PRO3179
+CA3180,Cuenca,Activo,PRO3180
+CA3181,Cuenca,Activo,PRO3181
+CA3182,Guayaquil, Inactivo,PRO3182
+CA3183,Loja, Inactivo,PRO3183
+CA3184,Chinchipe,Activo,PRO3184
+CA3185,Chinchipe, Inactivo,PRO3185
+CA3186,Chinchipe,Activo,PRO3186
+CA3187,Quito, Inactivo,PRO3187
+CA3188,Guayaquil,Activo,PRO3188
+CA3189,Quito,Activo,PRO3189
+CA3190,Esmeraldas,Activo,PRO3190
+CA3191,Cuenca,Activo,PRO3191
+CA3192,Loja, Inactivo,PRO3192
+CA3193,Esmeraldas, Inactivo,PRO3193
+CA3194,Cuenca,Activo,PRO3194
+CA3195,Quito,Activo,PRO3195
+CA3196,Loja, Inactivo,PRO3196
+CA3197,Quito,Activo,PRO3197
+CA3198,Chinchipe,Activo,PRO3198
+CA3199,Esmeraldas, Inactivo,PRO3199
+CA3200,Quito,Activo,PRO3200
+CA3201,Cuenca, Inactivo,PRO3201
+CA3202,Loja, Inactivo,PRO3202
+CA3203,Esmeraldas,Activo,PRO3203
+CA3204,Quito, Inactivo,PRO3204
+CA3205,Chinchipe, Inactivo,PRO3205
+CA3206,Esmeraldas,Activo,PRO3206
+CA3207,Chinchipe, Inactivo,PRO3207
+CA3208,Cuenca, Inactivo,PRO3208
+CA3209,Loja, Inactivo,PRO3209
+CA3210,Loja,Activo,PRO3210
+CA3211,Loja,Activo,PRO3211
+CA3212,Esmeraldas, Inactivo,PRO3212
+CA3213,Chinchipe,Activo,PRO3213
+CA3214,Guayaquil,Activo,PRO3214
+CA3215,Guayaquil,Activo,PRO3215
+CA3216,Guayaquil, Inactivo,PRO3216
+CA3217,Loja, Inactivo,PRO3217
+CA3218,Esmeraldas,Activo,PRO3218
+CA3219,Loja, Inactivo,PRO3219
+CA3220,Chinchipe, Inactivo,PRO3220
+CA3221,Chinchipe, Inactivo,PRO3221
+CA3222,Cuenca, Inactivo,PRO3222
+CA3223,Cuenca, Inactivo,PRO3223
+CA3224,Quito, Inactivo,PRO3224
+CA3225,Cuenca,Activo,PRO3225
+CA3226,Quito, Inactivo,PRO3226
+CA3227,Esmeraldas,Activo,PRO3227
+CA3228,Cuenca,Activo,PRO3228
+CA3229,Esmeraldas,Activo,PRO3229
+CA3230,Guayaquil, Inactivo,PRO3230
+CA3231,Chinchipe,Activo,PRO3231
+CA3232,Cuenca, Inactivo,PRO3232
+CA3233,Quito,Activo,PRO3233
+CA3234,Guayaquil, Inactivo,PRO3234
+CA3235,Chinchipe, Inactivo,PRO3235
+CA3236,Quito,Activo,PRO3236
+CA3237,Loja,Activo,PRO3237
+CA3238,Cuenca, Inactivo,PRO3238
+CA3239,Loja,Activo,PRO3239
+CA3240,Quito,Activo,PRO3240
+CA3241,Quito, Inactivo,PRO3241
+CA3242,Quito, Inactivo,PRO3242
+CA3243,Quito,Activo,PRO3243
+CA3244,Loja,Activo,PRO3244
+CA3245,Chinchipe, Inactivo,PRO3245
+CA3246,Quito, Inactivo,PRO3246
+CA3247,Quito, Inactivo,PRO3247
+CA3248,Cuenca,Activo,PRO3248
+CA3249,Chinchipe, Inactivo,PRO3249
+CA3250,Guayaquil,Activo,PRO3250
+CA3251,Loja, Inactivo,PRO3251
+CA3252,Esmeraldas, Inactivo,PRO3252
+CA3253,Cuenca,Activo,PRO3253
+CA3254,Quito,Activo,PRO3254
+CA3255,Quito, Inactivo,PRO3255
+CA3256,Quito, Inactivo,PRO3256
+CA3257,Loja,Activo,PRO3257
+CA3258,Cuenca,Activo,PRO3258
+CA3259,Guayaquil,Activo,PRO3259
+CA3260,Quito, Inactivo,PRO3260
+CA3261,Guayaquil, Inactivo,PRO3261
+CA3262,Cuenca,Activo,PRO3262
+CA3263,Loja, Inactivo,PRO3263
+CA3264,Guayaquil, Inactivo,PRO3264
+CA3265,Quito, Inactivo,PRO3265
+CA3266,Quito, Inactivo,PRO3266
+CA3267,Chinchipe, Inactivo,PRO3267
+CA3268,Quito,Activo,PRO3268
+CA3269,Chinchipe,Activo,PRO3269
+CA3270,Guayaquil,Activo,PRO3270
+CA3271,Loja,Activo,PRO3271
+CA3272,Guayaquil,Activo,PRO3272
+CA3273,Chinchipe, Inactivo,PRO3273
+CA3274,Loja, Inactivo,PRO3274
+CA3275,Cuenca, Inactivo,PRO3275
+CA3276,Chinchipe,Activo,PRO3276
+CA3277,Cuenca,Activo,PRO3277
+CA3278,Cuenca, Inactivo,PRO3278
+CA3279,Cuenca, Inactivo,PRO3279
+CA3280,Chinchipe, Inactivo,PRO3280
+CA3281,Guayaquil, Inactivo,PRO3281
+CA3282,Quito, Inactivo,PRO3282
+CA3283,Chinchipe,Activo,PRO3283
+CA3284,Guayaquil, Inactivo,PRO3284
+CA3285,Loja, Inactivo,PRO3285
+CA3286,Quito,Activo,PRO3286
+CA3287,Chinchipe, Inactivo,PRO3287
+CA3288,Quito,Activo,PRO3288
+CA3289,Cuenca, Inactivo,PRO3289
+CA3290,Guayaquil, Inactivo,PRO3290
+CA3291,Quito,Activo,PRO3291
+CA3292,Cuenca,Activo,PRO3292
+CA3293,Loja, Inactivo,PRO3293
+CA3294,Chinchipe,Activo,PRO3294
+CA3295,Guayaquil,Activo,PRO3295
+CA3296,Chinchipe,Activo,PRO3296
+CA3297,Chinchipe, Inactivo,PRO3297
+CA3298,Esmeraldas,Activo,PRO3298
+CA3299,Cuenca,Activo,PRO3299
+CA3300,Quito, Inactivo,PRO3300
+CA3301,Chinchipe, Inactivo,PRO3301
+CA3302,Guayaquil,Activo,PRO3302
+CA3303,Chinchipe, Inactivo,PRO3303
+CA3304,Chinchipe, Inactivo,PRO3304
+CA3305,Loja, Inactivo,PRO3305
+CA3306,Quito, Inactivo,PRO3306
+CA3307,Loja, Inactivo,PRO3307
+CA3308,Guayaquil,Activo,PRO3308
+CA3309,Guayaquil,Activo,PRO3309
+CA3310,Guayaquil, Inactivo,PRO3310
+CA3311,Chinchipe,Activo,PRO3311
+CA3312,Cuenca, Inactivo,PRO3312
+CA3313,Chinchipe,Activo,PRO3313
+CA3314,Chinchipe,Activo,PRO3314
+CA3315,Quito, Inactivo,PRO3315
+CA3316,Guayaquil,Activo,PRO3316
+CA3317,Quito, Inactivo,PRO3317
+CA3318,Cuenca,Activo,PRO3318
+CA3319,Quito, Inactivo,PRO3319
+CA3320,Cuenca, Inactivo,PRO3320
+CA3321,Quito, Inactivo,PRO3321
+CA3322,Guayaquil,Activo,PRO3322
+CA3323,Esmeraldas, Inactivo,PRO3323
+CA3324,Cuenca,Activo,PRO3324
+CA3325,Chinchipe,Activo,PRO3325
+CA3326,Guayaquil,Activo,PRO3326
+CA3327,Cuenca,Activo,PRO3327
+CA3328,Guayaquil,Activo,PRO3328
+CA3329,Chinchipe, Inactivo,PRO3329
+CA3330,Guayaquil,Activo,PRO3330
+CA3331,Loja,Activo,PRO3331
+CA3332,Loja,Activo,PRO3332
+CA3333,Guayaquil,Activo,PRO3333
+CA3334,Quito,Activo,PRO3334
+CA3335,Chinchipe,Activo,PRO3335
+CA3336,Loja, Inactivo,PRO3336
+CA3337,Quito,Activo,PRO3337
+CA3338,Guayaquil, Inactivo,PRO3338
+CA3339,Quito, Inactivo,PRO3339
+CA3340,Chinchipe,Activo,PRO3340
+CA3341,Guayaquil, Inactivo,PRO3341
+CA3342,Guayaquil,Activo,PRO3342
+CA3343,Guayaquil,Activo,PRO3343
+CA3344,Esmeraldas,Activo,PRO3344
+CA3345,Chinchipe,Activo,PRO3345
+CA3346,Loja,Activo,PRO3346
+CA3347,Quito,Activo,PRO3347
+CA3348,Guayaquil, Inactivo,PRO3348
+CA3349,Loja, Inactivo,PRO3349
+CA3350,Guayaquil,Activo,PRO3350
+CA3351,Quito, Inactivo,PRO3351
+CA3352,Cuenca, Inactivo,PRO3352
+CA3353,Guayaquil,Activo,PRO3353
+CA3354,Chinchipe,Activo,PRO3354
+CA3355,Esmeraldas,Activo,PRO3355
+CA3356,Esmeraldas, Inactivo,PRO3356
+CA3357,Esmeraldas, Inactivo,PRO3357
+CA3358,Guayaquil, Inactivo,PRO3358
+CA3359,Esmeraldas, Inactivo,PRO3359
+CA3360,Quito,Activo,PRO3360
+CA3361,Loja,Activo,PRO3361
+CA3362,Chinchipe,Activo,PRO3362
+CA3363,Guayaquil,Activo,PRO3363
+CA3364,Esmeraldas, Inactivo,PRO3364
+CA3365,Esmeraldas,Activo,PRO3365
+CA3366,Quito,Activo,PRO3366
+CA3367,Cuenca, Inactivo,PRO3367
+CA3368,Quito, Inactivo,PRO3368
+CA3369,Chinchipe,Activo,PRO3369
+CA3370,Cuenca,Activo,PRO3370
+CA3371,Esmeraldas, Inactivo,PRO3371
+CA3372,Guayaquil, Inactivo,PRO3372
+CA3373,Quito, Inactivo,PRO3373
+CA3374,Guayaquil,Activo,PRO3374
+CA3375,Guayaquil,Activo,PRO3375
+CA3376,Loja, Inactivo,PRO3376
+CA3377,Chinchipe, Inactivo,PRO3377
+CA3378,Guayaquil,Activo,PRO3378
+CA3379,Quito,Activo,PRO3379
+CA3380,Guayaquil, Inactivo,PRO3380
+CA3381,Chinchipe, Inactivo,PRO3381
+CA3382,Loja,Activo,PRO3382
+CA3383,Quito,Activo,PRO3383
+CA3384,Esmeraldas, Inactivo,PRO3384
+CA3385,Loja,Activo,PRO3385
+CA3386,Chinchipe,Activo,PRO3386
+CA3387,Guayaquil, Inactivo,PRO3387
+CA3388,Guayaquil,Activo,PRO3388
+CA3389,Chinchipe,Activo,PRO3389
+CA3390,Esmeraldas, Inactivo,PRO3390
+CA3391,Quito, Inactivo,PRO3391
+CA3392,Loja,Activo,PRO3392
+CA3393,Guayaquil,Activo,PRO3393
+CA3394,Cuenca, Inactivo,PRO3394
+CA3395,Cuenca,Activo,PRO3395
+CA3396,Chinchipe,Activo,PRO3396
+CA3397,Quito,Activo,PRO3397
+CA3398,Guayaquil, Inactivo,PRO3398
+CA3399,Chinchipe,Activo,PRO3399
+CA3400,Quito, Inactivo,PRO3400
+CA3401,Chinchipe,Activo,PRO3401
+CA3402,Esmeraldas, Inactivo,PRO3402
+CA3403,Loja,Activo,PRO3403
+CA3404,Cuenca, Inactivo,PRO3404
+CA3405,Loja,Activo,PRO3405
+CA3406,Quito, Inactivo,PRO3406
+CA3407,Cuenca,Activo,PRO3407
+CA3408,Guayaquil,Activo,PRO3408
+CA3409,Quito, Inactivo,PRO3409
+CA3410,Quito,Activo,PRO3410
+CA3411,Quito,Activo,PRO3411
+CA3412,Cuenca,Activo,PRO3412
+CA3413,Quito,Activo,PRO3413
+CA3414,Quito, Inactivo,PRO3414
+CA3415,Cuenca, Inactivo,PRO3415
+CA3416,Esmeraldas,Activo,PRO3416
+CA3417,Quito,Activo,PRO3417
+CA3418,Cuenca, Inactivo,PRO3418
+CA3419,Guayaquil,Activo,PRO3419
+CA3420,Esmeraldas,Activo,PRO3420
+CA3421,Guayaquil,Activo,PRO3421
+CA3422,Esmeraldas,Activo,PRO3422
+CA3423,Loja, Inactivo,PRO3423
+CA3424,Guayaquil, Inactivo,PRO3424
+CA3425,Guayaquil, Inactivo,PRO3425
+CA3426,Loja,Activo,PRO3426
+CA3427,Cuenca,Activo,PRO3427
+CA3428,Quito,Activo,PRO3428
+CA3429,Quito, Inactivo,PRO3429
+CA3430,Quito,Activo,PRO3430
+CA3431,Guayaquil,Activo,PRO3431
+CA3432,Cuenca, Inactivo,PRO3432
+CA3433,Chinchipe,Activo,PRO3433
+CA3434,Guayaquil,Activo,PRO3434
+CA3435,Guayaquil,Activo,PRO3435
+CA3436,Loja,Activo,PRO3436
+CA3437,Quito,Activo,PRO3437
+CA3438,Chinchipe,Activo,PRO3438
+CA3439,Quito, Inactivo,PRO3439
+CA3440,Loja, Inactivo,PRO3440
+CA3441,Guayaquil,Activo,PRO3441
+CA3442,Guayaquil, Inactivo,PRO3442
+CA3443,Cuenca, Inactivo,PRO3443
+CA3444,Chinchipe,Activo,PRO3444
+CA3445,Cuenca, Inactivo,PRO3445
+CA3446,Cuenca,Activo,PRO3446
+CA3447,Quito, Inactivo,PRO3447
+CA3448,Chinchipe,Activo,PRO3448
+CA3449,Loja,Activo,PRO3449
+CA3450,Guayaquil,Activo,PRO3450
+CA3451,Quito,Activo,PRO3451
+CA3452,Esmeraldas,Activo,PRO3452
+CA3453,Chinchipe,Activo,PRO3453
+CA3454,Cuenca, Inactivo,PRO3454
+CA3455,Guayaquil,Activo,PRO3455
+CA3456,Guayaquil, Inactivo,PRO3456
+CA3457,Cuenca, Inactivo,PRO3457
+CA3458,Cuenca, Inactivo,PRO3458
+CA3459,Guayaquil,Activo,PRO3459
+CA3460,Quito,Activo,PRO3460
+CA3461,Quito,Activo,PRO3461
+CA3462,Cuenca,Activo,PRO3462
+CA3463,Chinchipe,Activo,PRO3463
+CA3464,Esmeraldas, Inactivo,PRO3464
+CA3465,Chinchipe, Inactivo,PRO3465
+CA3466,Quito,Activo,PRO3466
+CA3467,Guayaquil,Activo,PRO3467
+CA3468,Cuenca,Activo,PRO3468
+CA3469,Chinchipe,Activo,PRO3469
+CA3470,Loja, Inactivo,PRO3470
+CA3471,Esmeraldas, Inactivo,PRO3471
+CA3472,Cuenca, Inactivo,PRO3472
+CA3473,Loja, Inactivo,PRO3473
+CA3474,Cuenca, Inactivo,PRO3474
+CA3475,Guayaquil, Inactivo,PRO3475
+CA3476,Chinchipe, Inactivo,PRO3476
+CA3477,Chinchipe, Inactivo,PRO3477
+CA3478,Guayaquil, Inactivo,PRO3478
+CA3479,Quito, Inactivo,PRO3479
+CA3480,Quito,Activo,PRO3480
+CA3481,Cuenca, Inactivo,PRO3481
+CA3482,Guayaquil,Activo,PRO3482
+CA3483,Chinchipe,Activo,PRO3483
+CA3484,Esmeraldas, Inactivo,PRO3484
+CA3485,Chinchipe,Activo,PRO3485
+CA3486,Esmeraldas, Inactivo,PRO3486
+CA3487,Quito,Activo,PRO3487
+CA3488,Cuenca,Activo,PRO3488
+CA3489,Quito,Activo,PRO3489
+CA3490,Esmeraldas, Inactivo,PRO3490
+CA3491,Esmeraldas, Inactivo,PRO3491
+CA3492,Guayaquil,Activo,PRO3492
+CA3493,Guayaquil,Activo,PRO3493
+CA3494,Cuenca, Inactivo,PRO3494
+CA3495,Guayaquil,Activo,PRO3495
+CA3496,Chinchipe, Inactivo,PRO3496
+CA3497,Esmeraldas, Inactivo,PRO3497
+CA3498,Quito,Activo,PRO3498
+CA3499,Cuenca, Inactivo,PRO3499
+CA3500,Quito, Inactivo,PRO3500
+CA3501,Chinchipe,Activo,PRO3501
+CA3502,Quito, Inactivo,PRO3502
+CA3503,Chinchipe, Inactivo,PRO3503
+CA3504,Quito,Activo,PRO3504
+CA3505,Loja, Inactivo,PRO3505
+CA3506,Quito, Inactivo,PRO3506
+CA3507,Chinchipe,Activo,PRO3507
+CA3508,Quito,Activo,PRO3508
+CA3509,Chinchipe, Inactivo,PRO3509
+CA3510,Quito,Activo,PRO3510
+CA3511,Loja,Activo,PRO3511
+CA3512,Quito,Activo,PRO3512
+CA3513,Guayaquil, Inactivo,PRO3513
+CA3514,Guayaquil,Activo,PRO3514
+CA3515,Cuenca,Activo,PRO3515
+CA3516,Cuenca,Activo,PRO3516
+CA3517,Cuenca,Activo,PRO3517
+CA3518,Loja, Inactivo,PRO3518
+CA3519,Chinchipe, Inactivo,PRO3519
+CA3520,Guayaquil,Activo,PRO3520
+CA3521,Guayaquil,Activo,PRO3521
+CA3522,Cuenca, Inactivo,PRO3522
+CA3523,Quito, Inactivo,PRO3523
+CA3524,Esmeraldas, Inactivo,PRO3524
+CA3525,Cuenca, Inactivo,PRO3525
+CA3526,Esmeraldas,Activo,PRO3526
+CA3527,Chinchipe,Activo,PRO3527
+CA3528,Guayaquil,Activo,PRO3528
+CA3529,Loja,Activo,PRO3529
+CA3530,Cuenca, Inactivo,PRO3530
+CA3531,Chinchipe,Activo,PRO3531
+CA3532,Chinchipe,Activo,PRO3532
+CA3533,Guayaquil,Activo,PRO3533
+CA3534,Cuenca, Inactivo,PRO3534
+CA3535,Guayaquil, Inactivo,PRO3535
+CA3536,Quito,Activo,PRO3536
+CA3537,Chinchipe, Inactivo,PRO3537
+CA3538,Guayaquil, Inactivo,PRO3538
+CA3539,Loja,Activo,PRO3539
+CA3540,Esmeraldas, Inactivo,PRO3540
+CA3541,Chinchipe,Activo,PRO3541
+CA3542,Chinchipe, Inactivo,PRO3542
+CA3543,Quito,Activo,PRO3543
+CA3544,Cuenca, Inactivo,PRO3544
+CA3545,Chinchipe,Activo,PRO3545
+CA3546,Guayaquil,Activo,PRO3546
+CA3547,Chinchipe, Inactivo,PRO3547
+CA3548,Cuenca, Inactivo,PRO3548
+CA3549,Quito,Activo,PRO3549
+CA3550,Chinchipe,Activo,PRO3550
+CA3551,Guayaquil,Activo,PRO3551
+CA3552,Loja,Activo,PRO3552
+CA3553,Cuenca,Activo,PRO3553
+CA3554,Chinchipe,Activo,PRO3554
+CA3555,Guayaquil, Inactivo,PRO3555
+CA3556,Esmeraldas, Inactivo,PRO3556
+CA3557,Chinchipe, Inactivo,PRO3557
+CA3558,Chinchipe,Activo,PRO3558
+CA3559,Guayaquil,Activo,PRO3559
+CA3560,Loja,Activo,PRO3560
+CA3561,Cuenca,Activo,PRO3561
+CA3562,Quito,Activo,PRO3562
+CA3563,Cuenca, Inactivo,PRO3563
+CA3564,Chinchipe,Activo,PRO3564
+CA3565,Guayaquil, Inactivo,PRO3565
+CA3566,Cuenca,Activo,PRO3566
+CA3567,Cuenca, Inactivo,PRO3567
+CA3568,Cuenca,Activo,PRO3568
+CA3569,Guayaquil,Activo,PRO3569
+CA3570,Chinchipe, Inactivo,PRO3570
+CA3571,Guayaquil, Inactivo,PRO3571
+CA3572,Loja,Activo,PRO3572
+CA3573,Guayaquil, Inactivo,PRO3573
+CA3574,Esmeraldas,Activo,PRO3574
+CA3575,Chinchipe,Activo,PRO3575
+CA3576,Loja,Activo,PRO3576
+CA3577,Loja,Activo,PRO3577
+CA3578,Guayaquil,Activo,PRO3578
+CA3579,Guayaquil, Inactivo,PRO3579
+CA3580,Loja, Inactivo,PRO3580
+CA3581,Guayaquil,Activo,PRO3581
+CA3582,Loja, Inactivo,PRO3582
+CA3583,Chinchipe, Inactivo,PRO3583
+CA3584,Esmeraldas, Inactivo,PRO3584
+CA3585,Loja, Inactivo,PRO3585
+CA3586,Cuenca,Activo,PRO3586
+CA3587,Quito, Inactivo,PRO3587
+CA3588,Cuenca, Inactivo,PRO3588
+CA3589,Chinchipe, Inactivo,PRO3589
+CA3590,Loja,Activo,PRO3590
+CA3591,Guayaquil,Activo,PRO3591
+CA3592,Guayaquil, Inactivo,PRO3592
+CA3593,Esmeraldas, Inactivo,PRO3593
+CA3594,Esmeraldas,Activo,PRO3594
+CA3595,Guayaquil,Activo,PRO3595
+CA3596,Chinchipe,Activo,PRO3596
+CA3597,Cuenca,Activo,PRO3597
+CA3598,Guayaquil, Inactivo,PRO3598
+CA3599,Chinchipe, Inactivo,PRO3599
+CA3600,Loja, Inactivo,PRO3600
+CA3601,Chinchipe,Activo,PRO3601
+CA3602,Cuenca, Inactivo,PRO3602
+CA3603,Loja, Inactivo,PRO3603
+CA3604,Chinchipe,Activo,PRO3604
+CA3605,Chinchipe,Activo,PRO3605
+CA3606,Cuenca,Activo,PRO3606
+CA3607,Chinchipe, Inactivo,PRO3607
+CA3608,Quito,Activo,PRO3608
+CA3609,Cuenca,Activo,PRO3609
+CA3610,Guayaquil, Inactivo,PRO3610
+CA3611,Guayaquil, Inactivo,PRO3611
+CA3612,Quito, Inactivo,PRO3612
+CA3613,Chinchipe,Activo,PRO3613
+CA3614,Cuenca, Inactivo,PRO3614
+CA3615,Chinchipe, Inactivo,PRO3615
+CA3616,Quito, Inactivo,PRO3616
+CA3617,Chinchipe,Activo,PRO3617
+CA3618,Quito,Activo,PRO3618
+CA3619,Quito, Inactivo,PRO3619
+CA3620,Loja, Inactivo,PRO3620
+CA3621,Chinchipe, Inactivo,PRO3621
+CA3622,Quito,Activo,PRO3622
+CA3623,Cuenca, Inactivo,PRO3623
+CA3624,Guayaquil, Inactivo,PRO3624
+CA3625,Quito, Inactivo,PRO3625
+CA3626,Guayaquil, Inactivo,PRO3626
+CA3627,Esmeraldas,Activo,PRO3627
+CA3628,Chinchipe,Activo,PRO3628
+CA3629,Esmeraldas, Inactivo,PRO3629
+CA3630,Guayaquil,Activo,PRO3630
+CA3631,Loja, Inactivo,PRO3631
+CA3632,Guayaquil,Activo,PRO3632
+CA3633,Chinchipe, Inactivo,PRO3633
+CA3634,Cuenca, Inactivo,PRO3634
+CA3635,Chinchipe,Activo,PRO3635
+CA3636,Guayaquil,Activo,PRO3636
+CA3637,Quito, Inactivo,PRO3637
+CA3638,Loja, Inactivo,PRO3638
+CA3639,Esmeraldas, Inactivo,PRO3639
+CA3640,Cuenca,Activo,PRO3640
+CA3641,Loja,Activo,PRO3641
+CA3642,Guayaquil,Activo,PRO3642
+CA3643,Guayaquil, Inactivo,PRO3643
+CA3644,Loja, Inactivo,PRO3644
+CA3645,Guayaquil,Activo,PRO3645
+CA3646,Chinchipe, Inactivo,PRO3646
+CA3647,Guayaquil, Inactivo,PRO3647
+CA3648,Chinchipe, Inactivo,PRO3648
+CA3649,Loja, Inactivo,PRO3649
+CA3650,Esmeraldas,Activo,PRO3650
+CA3651,Quito,Activo,PRO3651
+CA3652,Cuenca,Activo,PRO3652
+CA3653,Cuenca,Activo,PRO3653
+CA3654,Cuenca,Activo,PRO3654
+CA3655,Chinchipe, Inactivo,PRO3655
+CA3656,Chinchipe,Activo,PRO3656
+CA3657,Cuenca,Activo,PRO3657
+CA3658,Chinchipe, Inactivo,PRO3658
+CA3659,Guayaquil, Inactivo,PRO3659
+CA3660,Guayaquil, Inactivo,PRO3660
+CA3661,Quito, Inactivo,PRO3661
+CA3662,Guayaquil, Inactivo,PRO3662
+CA3663,Guayaquil,Activo,PRO3663
+CA3664,Guayaquil, Inactivo,PRO3664
+CA3665,Cuenca, Inactivo,PRO3665
+CA3666,Quito, Inactivo,PRO3666
+CA3667,Quito,Activo,PRO3667
+CA3668,Esmeraldas, Inactivo,PRO3668
+CA3669,Cuenca,Activo,PRO3669
+CA3670,Chinchipe,Activo,PRO3670
+CA3671,Quito,Activo,PRO3671
+CA3672,Esmeraldas,Activo,PRO3672
+CA3673,Esmeraldas,Activo,PRO3673
+CA3674,Chinchipe,Activo,PRO3674
+CA3675,Chinchipe, Inactivo,PRO3675
+CA3676,Quito,Activo,PRO3676
+CA3677,Cuenca, Inactivo,PRO3677
+CA3678,Esmeraldas,Activo,PRO3678
+CA3679,Chinchipe,Activo,PRO3679
+CA3680,Guayaquil,Activo,PRO3680
+CA3681,Guayaquil, Inactivo,PRO3681
+CA3682,Cuenca, Inactivo,PRO3682
+CA3683,Esmeraldas,Activo,PRO3683
+CA3684,Chinchipe,Activo,PRO3684
+CA3685,Chinchipe, Inactivo,PRO3685
+CA3686,Cuenca,Activo,PRO3686
+CA3687,Quito, Inactivo,PRO3687
+CA3688,Esmeraldas, Inactivo,PRO3688
+CA3689,Guayaquil,Activo,PRO3689
+CA3690,Guayaquil, Inactivo,PRO3690
+CA3691,Chinchipe,Activo,PRO3691
+CA3692,Loja, Inactivo,PRO3692
+CA3693,Chinchipe,Activo,PRO3693
+CA3694,Chinchipe,Activo,PRO3694
+CA3695,Loja,Activo,PRO3695
+CA3696,Quito, Inactivo,PRO3696
+CA3697,Quito, Inactivo,PRO3697
+CA3698,Chinchipe, Inactivo,PRO3698
+CA3699,Cuenca, Inactivo,PRO3699
+CA3700,Cuenca, Inactivo,PRO3700
+CA3701,Cuenca,Activo,PRO3701
+CA3702,Chinchipe,Activo,PRO3702
+CA3703,Guayaquil,Activo,PRO3703
+CA3704,Guayaquil,Activo,PRO3704
+CA3705,Cuenca,Activo,PRO3705
+CA3706,Cuenca, Inactivo,PRO3706
+CA3707,Loja,Activo,PRO3707
+CA3708,Chinchipe, Inactivo,PRO3708
+CA3709,Esmeraldas, Inactivo,PRO3709
+CA3710,Quito,Activo,PRO3710
+CA3711,Guayaquil, Inactivo,PRO3711
+CA3712,Guayaquil, Inactivo,PRO3712
+CA3713,Cuenca,Activo,PRO3713
+CA3714,Guayaquil, Inactivo,PRO3714
+CA3715,Esmeraldas, Inactivo,PRO3715
+CA3716,Chinchipe,Activo,PRO3716
+CA3717,Cuenca, Inactivo,PRO3717
+CA3718,Guayaquil,Activo,PRO3718
+CA3719,Chinchipe, Inactivo,PRO3719
+CA3720,Chinchipe,Activo,PRO3720
+CA3721,Guayaquil, Inactivo,PRO3721
+CA3722,Cuenca,Activo,PRO3722
+CA3723,Cuenca, Inactivo,PRO3723
+CA3724,Esmeraldas,Activo,PRO3724
+CA3725,Esmeraldas,Activo,PRO3725
+CA3726,Quito,Activo,PRO3726
+CA3727,Cuenca, Inactivo,PRO3727
+CA3728,Cuenca, Inactivo,PRO3728
+CA3729,Quito,Activo,PRO3729
+CA3730,Quito, Inactivo,PRO3730
+CA3731,Cuenca, Inactivo,PRO3731
+CA3732,Chinchipe,Activo,PRO3732
+CA3733,Loja,Activo,PRO3733
+CA3734,Quito,Activo,PRO3734
+CA3735,Quito,Activo,PRO3735
+CA3736,Cuenca, Inactivo,PRO3736
+CA3737,Chinchipe,Activo,PRO3737
+CA3738,Esmeraldas,Activo,PRO3738
+CA3739,Guayaquil,Activo,PRO3739
+CA3740,Esmeraldas, Inactivo,PRO3740
+CA3741,Guayaquil,Activo,PRO3741
+CA3742,Cuenca,Activo,PRO3742
+CA3743,Cuenca, Inactivo,PRO3743
+CA3744,Cuenca,Activo,PRO3744
+CA3745,Guayaquil, Inactivo,PRO3745
+CA3746,Quito,Activo,PRO3746
+CA3747,Quito, Inactivo,PRO3747
+CA3748,Chinchipe, Inactivo,PRO3748
+CA3749,Cuenca, Inactivo,PRO3749
+CA3750,Chinchipe,Activo,PRO3750
+CA3751,Chinchipe, Inactivo,PRO3751
+CA3752,Guayaquil, Inactivo,PRO3752
+CA3753,Esmeraldas, Inactivo,PRO3753
+CA3754,Quito, Inactivo,PRO3754
+CA3755,Esmeraldas,Activo,PRO3755
+CA3756,Loja, Inactivo,PRO3756
+CA3757,Guayaquil, Inactivo,PRO3757
+CA3758,Guayaquil,Activo,PRO3758
+CA3759,Chinchipe,Activo,PRO3759
+CA3760,Esmeraldas, Inactivo,PRO3760
+CA3761,Guayaquil,Activo,PRO3761
+CA3762,Loja,Activo,PRO3762
+CA3763,Loja, Inactivo,PRO3763
+CA3764,Loja,Activo,PRO3764
+CA3765,Chinchipe, Inactivo,PRO3765
+CA3766,Cuenca, Inactivo,PRO3766
+CA3767,Cuenca,Activo,PRO3767
+CA3768,Esmeraldas,Activo,PRO3768
+CA3769,Chinchipe,Activo,PRO3769
+CA3770,Quito, Inactivo,PRO3770
+CA3771,Esmeraldas, Inactivo,PRO3771
+CA3772,Quito,Activo,PRO3772
+CA3773,Cuenca,Activo,PRO3773
+CA3774,Chinchipe, Inactivo,PRO3774
+CA3775,Cuenca, Inactivo,PRO3775
+CA3776,Cuenca,Activo,PRO3776
+CA3777,Esmeraldas, Inactivo,PRO3777
+CA3778,Quito,Activo,PRO3778
+CA3779,Cuenca,Activo,PRO3779
+CA3780,Cuenca,Activo,PRO3780
+CA3781,Loja, Inactivo,PRO3781
+CA3782,Esmeraldas, Inactivo,PRO3782
+CA3783,Quito,Activo,PRO3783
+CA3784,Quito,Activo,PRO3784
+CA3785,Esmeraldas, Inactivo,PRO3785
+CA3786,Cuenca,Activo,PRO3786
+CA3787,Quito, Inactivo,PRO3787
+CA3788,Cuenca,Activo,PRO3788
+CA3789,Chinchipe,Activo,PRO3789
+CA3790,Guayaquil, Inactivo,PRO3790
+CA3791,Guayaquil,Activo,PRO3791
+CA3792,Chinchipe,Activo,PRO3792
+CA3793,Esmeraldas, Inactivo,PRO3793
+CA3794,Esmeraldas, Inactivo,PRO3794
+CA3795,Chinchipe,Activo,PRO3795
+CA3796,Chinchipe,Activo,PRO3796
+CA3797,Esmeraldas, Inactivo,PRO3797
+CA3798,Cuenca, Inactivo,PRO3798
+CA3799,Guayaquil, Inactivo,PRO3799
+CA3800,Guayaquil, Inactivo,PRO3800
+CA3801,Chinchipe,Activo,PRO3801
+CA3802,Chinchipe,Activo,PRO3802
+CA3803,Quito, Inactivo,PRO3803
+CA3804,Cuenca,Activo,PRO3804
+CA3805,Chinchipe,Activo,PRO3805
+CA3806,Chinchipe, Inactivo,PRO3806
+CA3807,Guayaquil, Inactivo,PRO3807
+CA3808,Guayaquil,Activo,PRO3808
+CA3809,Chinchipe,Activo,PRO3809
+CA3810,Esmeraldas,Activo,PRO3810
+CA3811,Quito, Inactivo,PRO3811
+CA3812,Guayaquil,Activo,PRO3812
+CA3813,Cuenca, Inactivo,PRO3813
+CA3814,Esmeraldas,Activo,PRO3814
+CA3815,Cuenca,Activo,PRO3815
+CA3816,Cuenca, Inactivo,PRO3816
+CA3817,Cuenca,Activo,PRO3817
+CA3818,Chinchipe, Inactivo,PRO3818
+CA3819,Chinchipe,Activo,PRO3819
+CA3820,Guayaquil, Inactivo,PRO3820
+CA3821,Quito,Activo,PRO3821
+CA3822,Loja,Activo,PRO3822
+CA3823,Cuenca, Inactivo,PRO3823
+CA3824,Chinchipe,Activo,PRO3824
+CA3825,Chinchipe, Inactivo,PRO3825
+CA3826,Cuenca, Inactivo,PRO3826
+CA3827,Cuenca, Inactivo,PRO3827
+CA3828,Cuenca, Inactivo,PRO3828
+CA3829,Cuenca,Activo,PRO3829
+CA3830,Cuenca,Activo,PRO3830
+CA3831,Cuenca, Inactivo,PRO3831
+CA3832,Chinchipe, Inactivo,PRO3832
+CA3833,Quito, Inactivo,PRO3833
+CA3834,Cuenca, Inactivo,PRO3834
+CA3835,Quito, Inactivo,PRO3835
+CA3836,Loja, Inactivo,PRO3836
+CA3837,Quito,Activo,PRO3837
+CA3838,Guayaquil, Inactivo,PRO3838
+CA3839,Quito, Inactivo,PRO3839
+CA3840,Cuenca,Activo,PRO3840
+CA3841,Quito,Activo,PRO3841
+CA3842,Quito,Activo,PRO3842
+CA3843,Guayaquil, Inactivo,PRO3843
+CA3844,Cuenca,Activo,PRO3844
+CA3845,Esmeraldas, Inactivo,PRO3845
+CA3846,Chinchipe,Activo,PRO3846
+CA3847,Quito, Inactivo,PRO3847
+CA3848,Loja, Inactivo,PRO3848
+CA3849,Chinchipe,Activo,PRO3849
+CA3850,Cuenca,Activo,PRO3850
+CA3851,Chinchipe, Inactivo,PRO3851
+CA3852,Chinchipe,Activo,PRO3852
+CA3853,Cuenca, Inactivo,PRO3853
+CA3854,Guayaquil,Activo,PRO3854
+CA3855,Esmeraldas,Activo,PRO3855
+CA3856,Quito, Inactivo,PRO3856
+CA3857,Guayaquil,Activo,PRO3857
+CA3858,Guayaquil,Activo,PRO3858
+CA3859,Chinchipe,Activo,PRO3859
+CA3860,Quito,Activo,PRO3860
+CA3861,Cuenca, Inactivo,PRO3861
+CA3862,Loja, Inactivo,PRO3862
+CA3863,Esmeraldas, Inactivo,PRO3863
+CA3864,Cuenca,Activo,PRO3864
+CA3865,Chinchipe, Inactivo,PRO3865
+CA3866,Loja, Inactivo,PRO3866
+CA3867,Guayaquil, Inactivo,PRO3867
+CA3868,Esmeraldas,Activo,PRO3868
+CA3869,Chinchipe, Inactivo,PRO3869
+CA3870,Guayaquil,Activo,PRO3870
+CA3871,Quito,Activo,PRO3871
+CA3872,Cuenca,Activo,PRO3872
+CA3873,Loja,Activo,PRO3873
+CA3874,Chinchipe, Inactivo,PRO3874
+CA3875,Loja, Inactivo,PRO3875
+CA3876,Chinchipe, Inactivo,PRO3876
+CA3877,Chinchipe, Inactivo,PRO3877
+CA3878,Cuenca,Activo,PRO3878
+CA3879,Guayaquil, Inactivo,PRO3879
+CA3880,Esmeraldas,Activo,PRO3880
+CA3881,Quito,Activo,PRO3881
+CA3882,Loja,Activo,PRO3882
+CA3883,Guayaquil,Activo,PRO3883
+CA3884,Loja,Activo,PRO3884
+CA3885,Guayaquil, Inactivo,PRO3885
+CA3886,Chinchipe,Activo,PRO3886
+CA3887,Quito,Activo,PRO3887
+CA3888,Guayaquil,Activo,PRO3888
+CA3889,Quito, Inactivo,PRO3889
+CA3890,Esmeraldas,Activo,PRO3890
+CA3891,Quito,Activo,PRO3891
+CA3892,Chinchipe,Activo,PRO3892
+CA3893,Cuenca,Activo,PRO3893
+CA3894,Loja, Inactivo,PRO3894
+CA3895,Loja,Activo,PRO3895
+CA3896,Loja,Activo,PRO3896
+CA3897,Chinchipe, Inactivo,PRO3897
+CA3898,Guayaquil, Inactivo,PRO3898
+CA3899,Quito, Inactivo,PRO3899
+CA3900,Chinchipe,Activo,PRO3900
+CA3901,Cuenca,Activo,PRO3901
+CA3902,Loja,Activo,PRO3902
+CA3903,Cuenca,Activo,PRO3903
+CA3904,Cuenca,Activo,PRO3904
+CA3905,Loja,Activo,PRO3905
+CA3906,Cuenca, Inactivo,PRO3906
+CA3907,Quito, Inactivo,PRO3907
+CA3908,Quito,Activo,PRO3908
+CA3909,Guayaquil, Inactivo,PRO3909
+CA3910,Guayaquil, Inactivo,PRO3910
+CA3911,Quito,Activo,PRO3911
+CA3912,Chinchipe,Activo,PRO3912
+CA3913,Guayaquil, Inactivo,PRO3913
+CA3914,Esmeraldas,Activo,PRO3914
+CA3915,Chinchipe,Activo,PRO3915
+CA3916,Quito, Inactivo,PRO3916
+CA3917,Cuenca, Inactivo,PRO3917
+CA3918,Chinchipe, Inactivo,PRO3918
+CA3919,Cuenca,Activo,PRO3919
+CA3920,Chinchipe, Inactivo,PRO3920
+CA3921,Chinchipe, Inactivo,PRO3921
+CA3922,Chinchipe, Inactivo,PRO3922
+CA3923,Chinchipe, Inactivo,PRO3923
+CA3924,Chinchipe, Inactivo,PRO3924
+CA3925,Chinchipe, Inactivo,PRO3925
+CA3926,Esmeraldas,Activo,PRO3926
+CA3927,Quito,Activo,PRO3927
+CA3928,Guayaquil,Activo,PRO3928
+CA3929,Quito, Inactivo,PRO3929
+CA3930,Loja,Activo,PRO3930
+CA3931,Chinchipe,Activo,PRO3931
+CA3932,Esmeraldas, Inactivo,PRO3932
+CA3933,Guayaquil, Inactivo,PRO3933
+CA3934,Cuenca,Activo,PRO3934
+CA3935,Loja,Activo,PRO3935
+CA3936,Cuenca,Activo,PRO3936
+CA3937,Cuenca, Inactivo,PRO3937
+CA3938,Chinchipe,Activo,PRO3938
+CA3939,Loja,Activo,PRO3939
+CA3940,Quito,Activo,PRO3940
+CA3941,Guayaquil,Activo,PRO3941
+CA3942,Cuenca, Inactivo,PRO3942
+CA3943,Guayaquil,Activo,PRO3943
+CA3944,Quito,Activo,PRO3944
+CA3945,Cuenca,Activo,PRO3945
+CA3946,Guayaquil, Inactivo,PRO3946
+CA3947,Cuenca, Inactivo,PRO3947
+CA3948,Guayaquil, Inactivo,PRO3948
+CA3949,Cuenca, Inactivo,PRO3949
+CA3950,Cuenca,Activo,PRO3950
+CA3951,Cuenca,Activo,PRO3951
+CA3952,Quito, Inactivo,PRO3952
+CA3953,Cuenca, Inactivo,PRO3953
+CA3954,Cuenca, Inactivo,PRO3954
+CA3955,Chinchipe,Activo,PRO3955
+CA3956,Cuenca, Inactivo,PRO3956
+CA3957,Chinchipe,Activo,PRO3957
+CA3958,Cuenca, Inactivo,PRO3958
+CA3959,Guayaquil,Activo,PRO3959
+CA3960,Chinchipe,Activo,PRO3960
+CA3961,Chinchipe,Activo,PRO3961
+CA3962,Guayaquil, Inactivo,PRO3962
+CA3963,Quito, Inactivo,PRO3963
+CA3964,Chinchipe,Activo,PRO3964
+CA3965,Esmeraldas, Inactivo,PRO3965
+CA3966,Esmeraldas, Inactivo,PRO3966
+CA3967,Cuenca,Activo,PRO3967
+CA3968,Quito,Activo,PRO3968
+CA3969,Chinchipe,Activo,PRO3969
+CA3970,Guayaquil,Activo,PRO3970
+CA3971,Esmeraldas, Inactivo,PRO3971
+CA3972,Quito,Activo,PRO3972
+CA3973,Cuenca,Activo,PRO3973
+CA3974,Quito,Activo,PRO3974
+CA3975,Loja,Activo,PRO3975
+CA3976,Chinchipe, Inactivo,PRO3976
+CA3977,Cuenca,Activo,PRO3977
+CA3978,Esmeraldas,Activo,PRO3978
+CA3979,Loja,Activo,PRO3979
+CA3980,Cuenca, Inactivo,PRO3980
+CA3981,Esmeraldas, Inactivo,PRO3981
+CA3982,Quito,Activo,PRO3982
+CA3983,Quito,Activo,PRO3983
+CA3984,Chinchipe, Inactivo,PRO3984
+CA3985,Guayaquil,Activo,PRO3985
+CA3986,Chinchipe, Inactivo,PRO3986
+CA3987,Quito,Activo,PRO3987
+CA3988,Quito, Inactivo,PRO3988
+CA3989,Chinchipe,Activo,PRO3989
+CA3990,Cuenca,Activo,PRO3990
+CA3991,Guayaquil, Inactivo,PRO3991
+CA3992,Loja, Inactivo,PRO3992
+CA3993,Chinchipe, Inactivo,PRO3993
+CA3994,Cuenca, Inactivo,PRO3994
+CA3995,Chinchipe,Activo,PRO3995
+CA3996,Esmeraldas, Inactivo,PRO3996
+CA3997,Loja, Inactivo,PRO3997
+CA3998,Cuenca, Inactivo,PRO3998
+CA3999,Quito,Activo,PRO3999
+CA4000,Cuenca, Inactivo,PRO4000
+CA4001,Guayaquil,Activo,PRO4001
+CA4002,Chinchipe, Inactivo,PRO4002
+CA4003,Quito,Activo,PRO4003
+CA4004,Esmeraldas, Inactivo,PRO4004
+CA4005,Cuenca,Activo,PRO4005
+CA4006,Chinchipe, Inactivo,PRO4006
+CA4007,Cuenca,Activo,PRO4007
+CA4008,Cuenca, Inactivo,PRO4008
+CA4009,Quito, Inactivo,PRO4009
+CA4010,Guayaquil,Activo,PRO4010
+CA4011,Esmeraldas, Inactivo,PRO4011
+CA4012,Chinchipe,Activo,PRO4012
+CA4013,Cuenca,Activo,PRO4013
+CA4014,Chinchipe, Inactivo,PRO4014
+CA4015,Chinchipe,Activo,PRO4015
+CA4016,Quito, Inactivo,PRO4016
+CA4017,Chinchipe,Activo,PRO4017
+CA4018,Loja,Activo,PRO4018
+CA4019,Guayaquil, Inactivo,PRO4019
+CA4020,Esmeraldas,Activo,PRO4020
+CA4021,Loja, Inactivo,PRO4021
+CA4022,Chinchipe, Inactivo,PRO4022
+CA4023,Chinchipe,Activo,PRO4023
+CA4024,Chinchipe,Activo,PRO4024
+CA4025,Quito, Inactivo,PRO4025
+CA4026,Chinchipe,Activo,PRO4026
+CA4027,Cuenca,Activo,PRO4027
+CA4028,Guayaquil, Inactivo,PRO4028
+CA4029,Cuenca,Activo,PRO4029
+CA4030,Chinchipe,Activo,PRO4030
+CA4031,Quito,Activo,PRO4031
+CA4032,Quito, Inactivo,PRO4032
+CA4033,Cuenca, Inactivo,PRO4033
+CA4034,Chinchipe,Activo,PRO4034
+CA4035,Chinchipe,Activo,PRO4035
+CA4036,Cuenca, Inactivo,PRO4036
+CA4037,Quito, Inactivo,PRO4037
+CA4038,Chinchipe,Activo,PRO4038
+CA4039,Guayaquil, Inactivo,PRO4039
+CA4040,Cuenca, Inactivo,PRO4040
+CA4041,Chinchipe,Activo,PRO4041
+CA4042,Guayaquil,Activo,PRO4042
+CA4043,Quito,Activo,PRO4043
+CA4044,Esmeraldas, Inactivo,PRO4044
+CA4045,Quito, Inactivo,PRO4045
+CA4046,Chinchipe,Activo,PRO4046
+CA4047,Chinchipe,Activo,PRO4047
+CA4048,Guayaquil, Inactivo,PRO4048
+CA4049,Chinchipe,Activo,PRO4049
+CA4050,Cuenca, Inactivo,PRO4050
+CA4051,Guayaquil, Inactivo,PRO4051
+CA4052,Guayaquil,Activo,PRO4052
+CA4053,Guayaquil,Activo,PRO4053
+CA4054,Quito, Inactivo,PRO4054
+CA4055,Esmeraldas,Activo,PRO4055
+CA4056,Chinchipe,Activo,PRO4056
+CA4057,Chinchipe, Inactivo,PRO4057
+CA4058,Chinchipe,Activo,PRO4058
+CA4059,Cuenca,Activo,PRO4059
+CA4060,Guayaquil, Inactivo,PRO4060
+CA4061,Guayaquil, Inactivo,PRO4061
+CA4062,Quito, Inactivo,PRO4062
+CA4063,Cuenca, Inactivo,PRO4063
+CA4064,Quito,Activo,PRO4064
+CA4065,Quito,Activo,PRO4065
+CA4066,Quito, Inactivo,PRO4066
+CA4067,Guayaquil, Inactivo,PRO4067
+CA4068,Loja,Activo,PRO4068
+CA4069,Quito,Activo,PRO4069
+CA4070,Cuenca,Activo,PRO4070
+CA4071,Quito,Activo,PRO4071
+CA4072,Esmeraldas,Activo,PRO4072
+CA4073,Cuenca, Inactivo,PRO4073
+CA4074,Chinchipe,Activo,PRO4074
+CA4075,Quito,Activo,PRO4075
+CA4076,Chinchipe,Activo,PRO4076
+CA4077,Loja,Activo,PRO4077
+CA4078,Quito, Inactivo,PRO4078
+CA4079,Quito,Activo,PRO4079
+CA4080,Guayaquil,Activo,PRO4080
+CA4081,Chinchipe, Inactivo,PRO4081
+CA4082,Cuenca, Inactivo,PRO4082
+CA4083,Quito,Activo,PRO4083
+CA4084,Guayaquil, Inactivo,PRO4084
+CA4085,Loja,Activo,PRO4085
+CA4086,Guayaquil,Activo,PRO4086
+CA4087,Esmeraldas, Inactivo,PRO4087
+CA4088,Guayaquil,Activo,PRO4088
+CA4089,Quito, Inactivo,PRO4089
+CA4090,Quito, Inactivo,PRO4090
+CA4091,Chinchipe,Activo,PRO4091
+CA4092,Esmeraldas, Inactivo,PRO4092
+CA4093,Cuenca,Activo,PRO4093
+CA4094,Esmeraldas,Activo,PRO4094
+CA4095,Guayaquil,Activo,PRO4095
+CA4096,Esmeraldas,Activo,PRO4096
+CA4097,Guayaquil, Inactivo,PRO4097
+CA4098,Chinchipe, Inactivo,PRO4098
+CA4099,Cuenca,Activo,PRO4099
+CA4100,Guayaquil, Inactivo,PRO4100
+CA4101,Cuenca, Inactivo,PRO4101
+CA4102,Guayaquil,Activo,PRO4102
+CA4103,Guayaquil,Activo,PRO4103
+CA4104,Cuenca, Inactivo,PRO4104
+CA4105,Chinchipe,Activo,PRO4105
+CA4106,Guayaquil,Activo,PRO4106
+CA4107,Chinchipe, Inactivo,PRO4107
+CA4108,Loja,Activo,PRO4108
+CA4109,Esmeraldas, Inactivo,PRO4109
+CA4110,Guayaquil,Activo,PRO4110
+CA4111,Guayaquil, Inactivo,PRO4111
+CA4112,Loja,Activo,PRO4112
+CA4113,Guayaquil,Activo,PRO4113
+CA4114,Guayaquil, Inactivo,PRO4114
+CA4115,Cuenca,Activo,PRO4115
+CA4116,Chinchipe, Inactivo,PRO4116
+CA4117,Cuenca, Inactivo,PRO4117
+CA4118,Chinchipe,Activo,PRO4118
+CA4119,Cuenca, Inactivo,PRO4119
+CA4120,Loja,Activo,PRO4120
+CA4121,Chinchipe,Activo,PRO4121
+CA4122,Esmeraldas,Activo,PRO4122
+CA4123,Cuenca, Inactivo,PRO4123
+CA4124,Cuenca,Activo,PRO4124
+CA4125,Cuenca, Inactivo,PRO4125
+CA4126,Guayaquil, Inactivo,PRO4126
+CA4127,Quito, Inactivo,PRO4127
+CA4128,Loja,Activo,PRO4128
+CA4129,Cuenca,Activo,PRO4129
+CA4130,Quito,Activo,PRO4130
+CA4131,Chinchipe, Inactivo,PRO4131
+CA4132,Esmeraldas, Inactivo,PRO4132
+CA4133,Chinchipe,Activo,PRO4133
+CA4134,Quito,Activo,PRO4134
+CA4135,Quito, Inactivo,PRO4135
+CA4136,Quito,Activo,PRO4136
+CA4137,Chinchipe,Activo,PRO4137
+CA4138,Cuenca, Inactivo,PRO4138
+CA4139,Quito, Inactivo,PRO4139
+CA4140,Chinchipe,Activo,PRO4140
+CA4141,Esmeraldas, Inactivo,PRO4141
+CA4142,Esmeraldas, Inactivo,PRO4142
+CA4143,Chinchipe, Inactivo,PRO4143
+CA4144,Esmeraldas,Activo,PRO4144
+CA4145,Chinchipe,Activo,PRO4145
+CA4146,Chinchipe,Activo,PRO4146
+CA4147,Quito,Activo,PRO4147
+CA4148,Guayaquil, Inactivo,PRO4148
+CA4149,Quito, Inactivo,PRO4149
+CA4150,Guayaquil, Inactivo,PRO4150
+CA4151,Chinchipe,Activo,PRO4151
+CA4152,Guayaquil, Inactivo,PRO4152
+CA4153,Cuenca,Activo,PRO4153
+CA4154,Chinchipe,Activo,PRO4154
+CA4155,Chinchipe, Inactivo,PRO4155
+CA4156,Esmeraldas,Activo,PRO4156
+CA4157,Quito, Inactivo,PRO4157
+CA4158,Cuenca,Activo,PRO4158
+CA4159,Chinchipe, Inactivo,PRO4159
+CA4160,Chinchipe, Inactivo,PRO4160
+CA4161,Chinchipe, Inactivo,PRO4161
+CA4162,Chinchipe, Inactivo,PRO4162
+CA4163,Chinchipe, Inactivo,PRO4163
+CA4164,Esmeraldas, Inactivo,PRO4164
+CA4165,Chinchipe, Inactivo,PRO4165
+CA4166,Loja, Inactivo,PRO4166
+CA4167,Chinchipe,Activo,PRO4167
+CA4168,Guayaquil,Activo,PRO4168
+CA4169,Quito,Activo,PRO4169
+CA4170,Guayaquil, Inactivo,PRO4170
+CA4171,Loja,Activo,PRO4171
+CA4172,Chinchipe,Activo,PRO4172
+CA4173,Chinchipe, Inactivo,PRO4173
+CA4174,Chinchipe,Activo,PRO4174
+CA4175,Guayaquil,Activo,PRO4175
+CA4176,Chinchipe,Activo,PRO4176
+CA4177,Loja,Activo,PRO4177
+CA4178,Guayaquil,Activo,PRO4178
+CA4179,Esmeraldas, Inactivo,PRO4179
+CA4180,Esmeraldas, Inactivo,PRO4180
+CA4181,Quito, Inactivo,PRO4181
+CA4182,Chinchipe,Activo,PRO4182
+CA4183,Chinchipe,Activo,PRO4183
+CA4184,Quito, Inactivo,PRO4184
+CA4185,Chinchipe, Inactivo,PRO4185
+CA4186,Esmeraldas,Activo,PRO4186
+CA4187,Esmeraldas,Activo,PRO4187
+CA4188,Chinchipe, Inactivo,PRO4188
+CA4189,Guayaquil,Activo,PRO4189
+CA4190,Guayaquil,Activo,PRO4190
+CA4191,Esmeraldas, Inactivo,PRO4191
+CA4192,Esmeraldas,Activo,PRO4192
+CA4193,Guayaquil, Inactivo,PRO4193
+CA4194,Quito, Inactivo,PRO4194
+CA4195,Quito, Inactivo,PRO4195
+CA4196,Loja,Activo,PRO4196
+CA4197,Chinchipe,Activo,PRO4197
+CA4198,Guayaquil, Inactivo,PRO4198
+CA4199,Quito, Inactivo,PRO4199
+CA4200,Cuenca,Activo,PRO4200
+CA4201,Quito, Inactivo,PRO4201
+CA4202,Quito, Inactivo,PRO4202
+CA4203,Cuenca,Activo,PRO4203
+CA4204,Loja,Activo,PRO4204
+CA4205,Chinchipe,Activo,PRO4205
+CA4206,Loja,Activo,PRO4206
+CA4207,Guayaquil,Activo,PRO4207
+CA4208,Quito, Inactivo,PRO4208
+CA4209,Quito,Activo,PRO4209
+CA4210,Cuenca, Inactivo,PRO4210
+CA4211,Chinchipe, Inactivo,PRO4211
+CA4212,Chinchipe,Activo,PRO4212
+CA4213,Quito,Activo,PRO4213
+CA4214,Loja,Activo,PRO4214
+CA4215,Cuenca, Inactivo,PRO4215
+CA4216,Cuenca,Activo,PRO4216
+CA4217,Chinchipe,Activo,PRO4217
+CA4218,Guayaquil,Activo,PRO4218
+CA4219,Esmeraldas, Inactivo,PRO4219
+CA4220,Cuenca, Inactivo,PRO4220
+CA4221,Chinchipe,Activo,PRO4221
+CA4222,Esmeraldas, Inactivo,PRO4222
+CA4223,Chinchipe,Activo,PRO4223
+CA4224,Cuenca, Inactivo,PRO4224
+CA4225,Esmeraldas,Activo,PRO4225
+CA4226,Guayaquil,Activo,PRO4226
+CA4227,Guayaquil,Activo,PRO4227
+CA4228,Loja, Inactivo,PRO4228
+CA4229,Esmeraldas,Activo,PRO4229
+CA4230,Guayaquil,Activo,PRO4230
+CA4231,Guayaquil,Activo,PRO4231
+CA4232,Guayaquil,Activo,PRO4232
+CA4233,Guayaquil, Inactivo,PRO4233
+CA4234,Guayaquil, Inactivo,PRO4234
+CA4235,Esmeraldas,Activo,PRO4235
+CA4236,Esmeraldas, Inactivo,PRO4236
+CA4237,Chinchipe, Inactivo,PRO4237
+CA4238,Quito, Inactivo,PRO4238
+CA4239,Chinchipe,Activo,PRO4239
+CA4240,Chinchipe, Inactivo,PRO4240
+CA4241,Chinchipe,Activo,PRO4241
+CA4242,Cuenca, Inactivo,PRO4242
+CA4243,Cuenca, Inactivo,PRO4243
+CA4244,Quito,Activo,PRO4244
+CA4245,Loja,Activo,PRO4245
+CA4246,Chinchipe,Activo,PRO4246
+CA4247,Quito, Inactivo,PRO4247
+CA4248,Chinchipe, Inactivo,PRO4248
+CA4249,Chinchipe,Activo,PRO4249
+CA4250,Quito,Activo,PRO4250
+CA4251,Guayaquil,Activo,PRO4251
+CA4252,Quito, Inactivo,PRO4252
+CA4253,Chinchipe, Inactivo,PRO4253
+CA4254,Cuenca, Inactivo,PRO4254
+CA4255,Cuenca,Activo,PRO4255
+CA4256,Cuenca, Inactivo,PRO4256
+CA4257,Chinchipe,Activo,PRO4257
+CA4258,Guayaquil,Activo,PRO4258
+CA4259,Chinchipe,Activo,PRO4259
+CA4260,Guayaquil,Activo,PRO4260
+CA4261,Cuenca,Activo,PRO4261
+CA4262,Chinchipe,Activo,PRO4262
+CA4263,Cuenca,Activo,PRO4263
+CA4264,Esmeraldas, Inactivo,PRO4264
+CA4265,Cuenca,Activo,PRO4265
+CA4266,Guayaquil,Activo,PRO4266
+CA4267,Guayaquil,Activo,PRO4267
+CA4268,Guayaquil,Activo,PRO4268
+CA4269,Esmeraldas, Inactivo,PRO4269
+CA4270,Guayaquil,Activo,PRO4270
+CA4271,Loja, Inactivo,PRO4271
+CA4272,Esmeraldas,Activo,PRO4272
+CA4273,Loja, Inactivo,PRO4273
+CA4274,Loja, Inactivo,PRO4274
+CA4275,Guayaquil,Activo,PRO4275
+CA4276,Cuenca,Activo,PRO4276
+CA4277,Guayaquil, Inactivo,PRO4277
+CA4278,Esmeraldas,Activo,PRO4278
+CA4279,Guayaquil, Inactivo,PRO4279
+CA4280,Chinchipe, Inactivo,PRO4280
+CA4281,Guayaquil, Inactivo,PRO4281
+CA4282,Chinchipe, Inactivo,PRO4282
+CA4283,Chinchipe,Activo,PRO4283
+CA4284,Quito, Inactivo,PRO4284
+CA4285,Loja, Inactivo,PRO4285
+CA4286,Quito, Inactivo,PRO4286
+CA4287,Guayaquil,Activo,PRO4287
+CA4288,Loja, Inactivo,PRO4288
+CA4289,Guayaquil,Activo,PRO4289
+CA4290,Esmeraldas,Activo,PRO4290
+CA4291,Guayaquil,Activo,PRO4291
+CA4292,Guayaquil, Inactivo,PRO4292
+CA4293,Chinchipe, Inactivo,PRO4293
+CA4294,Esmeraldas,Activo,PRO4294
+CA4295,Quito,Activo,PRO4295
+CA4296,Loja, Inactivo,PRO4296
+CA4297,Cuenca,Activo,PRO4297
+CA4298,Cuenca, Inactivo,PRO4298
+CA4299,Esmeraldas, Inactivo,PRO4299
+CA4300,Quito,Activo,PRO4300
+CA4301,Quito, Inactivo,PRO4301
+CA4302,Chinchipe,Activo,PRO4302
+CA4303,Loja, Inactivo,PRO4303
+CA4304,Cuenca,Activo,PRO4304
+CA4305,Guayaquil, Inactivo,PRO4305
+CA4306,Loja,Activo,PRO4306
+CA4307,Loja, Inactivo,PRO4307
+CA4308,Quito, Inactivo,PRO4308
+CA4309,Cuenca, Inactivo,PRO4309
+CA4310,Cuenca, Inactivo,PRO4310
+CA4311,Quito, Inactivo,PRO4311
+CA4312,Guayaquil,Activo,PRO4312
+CA4313,Guayaquil, Inactivo,PRO4313
+CA4314,Quito,Activo,PRO4314
+CA4315,Loja, Inactivo,PRO4315
+CA4316,Esmeraldas, Inactivo,PRO4316
+CA4317,Loja, Inactivo,PRO4317
+CA4318,Quito, Inactivo,PRO4318
+CA4319,Cuenca, Inactivo,PRO4319
+CA4320,Loja, Inactivo,PRO4320
+CA4321,Quito, Inactivo,PRO4321
+CA4322,Chinchipe, Inactivo,PRO4322
+CA4323,Quito,Activo,PRO4323
+CA4324,Guayaquil,Activo,PRO4324
+CA4325,Loja,Activo,PRO4325
+CA4326,Loja,Activo,PRO4326
+CA4327,Loja,Activo,PRO4327
+CA4328,Quito,Activo,PRO4328
+CA4329,Cuenca, Inactivo,PRO4329
+CA4330,Quito, Inactivo,PRO4330
+CA4331,Quito,Activo,PRO4331
+CA4332,Quito,Activo,PRO4332
+CA4333,Chinchipe,Activo,PRO4333
+CA4334,Chinchipe,Activo,PRO4334
+CA4335,Chinchipe, Inactivo,PRO4335
+CA4336,Quito, Inactivo,PRO4336
+CA4337,Chinchipe,Activo,PRO4337
+CA4338,Cuenca, Inactivo,PRO4338
+CA4339,Quito, Inactivo,PRO4339
+CA4340,Cuenca, Inactivo,PRO4340
+CA4341,Guayaquil, Inactivo,PRO4341
+CA4342,Cuenca, Inactivo,PRO4342
+CA4343,Cuenca, Inactivo,PRO4343
+CA4344,Quito, Inactivo,PRO4344
+CA4345,Quito,Activo,PRO4345
+CA4346,Esmeraldas,Activo,PRO4346
+CA4347,Quito,Activo,PRO4347
+CA4348,Cuenca,Activo,PRO4348
+CA4349,Esmeraldas,Activo,PRO4349
+CA4350,Quito, Inactivo,PRO4350
+CA4351,Loja,Activo,PRO4351
+CA4352,Guayaquil,Activo,PRO4352
+CA4353,Quito,Activo,PRO4353
+CA4354,Chinchipe, Inactivo,PRO4354
+CA4355,Cuenca, Inactivo,PRO4355
+CA4356,Quito,Activo,PRO4356
+CA4357,Chinchipe,Activo,PRO4357
+CA4358,Cuenca,Activo,PRO4358
+CA4359,Cuenca, Inactivo,PRO4359
+CA4360,Guayaquil, Inactivo,PRO4360
+CA4361,Guayaquil, Inactivo,PRO4361
+CA4362,Cuenca,Activo,PRO4362
+CA4363,Loja, Inactivo,PRO4363
+CA4364,Quito, Inactivo,PRO4364
+CA4365,Guayaquil, Inactivo,PRO4365
+CA4366,Esmeraldas,Activo,PRO4366
+CA4367,Cuenca,Activo,PRO4367
+CA4368,Chinchipe, Inactivo,PRO4368
+CA4369,Quito,Activo,PRO4369
+CA4370,Chinchipe, Inactivo,PRO4370
+CA4371,Chinchipe, Inactivo,PRO4371
+CA4372,Esmeraldas,Activo,PRO4372
+CA4373,Esmeraldas,Activo,PRO4373
+CA4374,Guayaquil,Activo,PRO4374
+CA4375,Guayaquil,Activo,PRO4375
+CA4376,Cuenca, Inactivo,PRO4376
+CA4377,Loja, Inactivo,PRO4377
+CA4378,Cuenca,Activo,PRO4378
+CA4379,Chinchipe,Activo,PRO4379
+CA4380,Quito, Inactivo,PRO4380
+CA4381,Guayaquil, Inactivo,PRO4381
+CA4382,Guayaquil,Activo,PRO4382
+CA4383,Chinchipe,Activo,PRO4383
+CA4384,Esmeraldas, Inactivo,PRO4384
+CA4385,Guayaquil, Inactivo,PRO4385
+CA4386,Cuenca,Activo,PRO4386
+CA4387,Quito, Inactivo,PRO4387
+CA4388,Quito,Activo,PRO4388
+CA4389,Loja,Activo,PRO4389
+CA4390,Loja, Inactivo,PRO4390
+CA4391,Quito,Activo,PRO4391
+CA4392,Chinchipe, Inactivo,PRO4392
+CA4393,Esmeraldas, Inactivo,PRO4393
+CA4394,Cuenca,Activo,PRO4394
+CA4395,Cuenca,Activo,PRO4395
+CA4396,Esmeraldas,Activo,PRO4396
+CA4397,Cuenca, Inactivo,PRO4397
+CA4398,Esmeraldas,Activo,PRO4398
+CA4399,Quito, Inactivo,PRO4399
+CA4400,Chinchipe, Inactivo,PRO4400
+CA4401,Guayaquil,Activo,PRO4401
+CA4402,Cuenca, Inactivo,PRO4402
+CA4403,Cuenca, Inactivo,PRO4403
+CA4404,Quito,Activo,PRO4404
+CA4405,Cuenca,Activo,PRO4405
+CA4406,Esmeraldas, Inactivo,PRO4406
+CA4407,Cuenca,Activo,PRO4407
+CA4408,Loja,Activo,PRO4408
+CA4409,Quito,Activo,PRO4409
+CA4410,Loja, Inactivo,PRO4410
+CA4411,Cuenca, Inactivo,PRO4411
+CA4412,Esmeraldas,Activo,PRO4412
+CA4413,Cuenca, Inactivo,PRO4413
+CA4414,Loja, Inactivo,PRO4414
+CA4415,Cuenca,Activo,PRO4415
+CA4416,Esmeraldas, Inactivo,PRO4416
+CA4417,Loja,Activo,PRO4417
+CA4418,Chinchipe, Inactivo,PRO4418
+CA4419,Guayaquil, Inactivo,PRO4419
+CA4420,Guayaquil, Inactivo,PRO4420
+CA4421,Cuenca, Inactivo,PRO4421
+CA4422,Guayaquil,Activo,PRO4422
+CA4423,Cuenca, Inactivo,PRO4423
+CA4424,Quito, Inactivo,PRO4424
+CA4425,Guayaquil, Inactivo,PRO4425
+CA4426,Loja, Inactivo,PRO4426
+CA4427,Loja,Activo,PRO4427
+CA4428,Guayaquil,Activo,PRO4428
+CA4429,Quito,Activo,PRO4429
+CA4430,Loja,Activo,PRO4430
+CA4431,Quito,Activo,PRO4431
+CA4432,Guayaquil,Activo,PRO4432
+CA4433,Chinchipe,Activo,PRO4433
+CA4434,Quito,Activo,PRO4434
+CA4435,Quito,Activo,PRO4435
+CA4436,Guayaquil, Inactivo,PRO4436
+CA4437,Quito, Inactivo,PRO4437
+CA4438,Chinchipe,Activo,PRO4438
+CA4439,Chinchipe, Inactivo,PRO4439
+CA4440,Guayaquil, Inactivo,PRO4440
+CA4441,Chinchipe,Activo,PRO4441
+CA4442,Cuenca, Inactivo,PRO4442
+CA4443,Esmeraldas, Inactivo,PRO4443
+CA4444,Guayaquil,Activo,PRO4444
+CA4445,Loja,Activo,PRO4445
+CA4446,Cuenca, Inactivo,PRO4446
+CA4447,Cuenca,Activo,PRO4447
+CA4448,Quito, Inactivo,PRO4448
+CA4449,Guayaquil, Inactivo,PRO4449
+CA4450,Esmeraldas,Activo,PRO4450
+CA4451,Esmeraldas, Inactivo,PRO4451
+CA4452,Loja,Activo,PRO4452
+CA4453,Chinchipe, Inactivo,PRO4453
+CA4454,Esmeraldas, Inactivo,PRO4454
+CA4455,Cuenca,Activo,PRO4455
+CA4456,Cuenca, Inactivo,PRO4456
+CA4457,Chinchipe,Activo,PRO4457
+CA4458,Loja,Activo,PRO4458
+CA4459,Loja, Inactivo,PRO4459
+CA4460,Esmeraldas,Activo,PRO4460
+CA4461,Cuenca,Activo,PRO4461
+CA4462,Quito,Activo,PRO4462
+CA4463,Cuenca,Activo,PRO4463
+CA4464,Chinchipe, Inactivo,PRO4464
+CA4465,Guayaquil,Activo,PRO4465
+CA4466,Quito,Activo,PRO4466
+CA4467,Chinchipe, Inactivo,PRO4467
+CA4468,Quito, Inactivo,PRO4468
+CA4469,Guayaquil,Activo,PRO4469
+CA4470,Guayaquil, Inactivo,PRO4470
+CA4471,Loja, Inactivo,PRO4471
+CA4472,Loja, Inactivo,PRO4472
+CA4473,Cuenca,Activo,PRO4473
+CA4474,Esmeraldas, Inactivo,PRO4474
+CA4475,Quito,Activo,PRO4475
+CA4476,Cuenca,Activo,PRO4476
+CA4477,Chinchipe, Inactivo,PRO4477
+CA4478,Guayaquil,Activo,PRO4478
+CA4479,Chinchipe,Activo,PRO4479
+CA4480,Esmeraldas, Inactivo,PRO4480
+CA4481,Chinchipe,Activo,PRO4481
+CA4482,Quito,Activo,PRO4482
+CA4483,Guayaquil,Activo,PRO4483
+CA4484,Guayaquil, Inactivo,PRO4484
+CA4485,Cuenca, Inactivo,PRO4485
+CA4486,Quito, Inactivo,PRO4486
+CA4487,Guayaquil, Inactivo,PRO4487
+CA4488,Cuenca, Inactivo,PRO4488
+CA4489,Chinchipe,Activo,PRO4489
+CA4490,Quito, Inactivo,PRO4490
+CA4491,Loja, Inactivo,PRO4491
+CA4492,Guayaquil,Activo,PRO4492
+CA4493,Loja, Inactivo,PRO4493
+CA4494,Guayaquil,Activo,PRO4494
+CA4495,Quito, Inactivo,PRO4495
+CA4496,Cuenca, Inactivo,PRO4496
+CA4497,Cuenca,Activo,PRO4497
+CA4498,Chinchipe, Inactivo,PRO4498
+CA4499,Quito, Inactivo,PRO4499
+CA4500,Chinchipe, Inactivo,PRO4500
+CA4501,Cuenca,Activo,PRO4501
+CA4502,Cuenca,Activo,PRO4502
+CA4503,Chinchipe,Activo,PRO4503
+CA4504,Esmeraldas,Activo,PRO4504
+CA4505,Chinchipe, Inactivo,PRO4505
+CA4506,Chinchipe, Inactivo,PRO4506
+CA4507,Quito,Activo,PRO4507
+CA4508,Cuenca,Activo,PRO4508
+CA4509,Guayaquil,Activo,PRO4509
+CA4510,Cuenca,Activo,PRO4510
+CA4511,Chinchipe, Inactivo,PRO4511
+CA4512,Chinchipe, Inactivo,PRO4512
+CA4513,Cuenca,Activo,PRO4513
+CA4514,Quito, Inactivo,PRO4514
+CA4515,Loja, Inactivo,PRO4515
+CA4516,Esmeraldas, Inactivo,PRO4516
+CA4517,Loja, Inactivo,PRO4517
+CA4518,Quito,Activo,PRO4518
+CA4519,Quito,Activo,PRO4519
+CA4520,Guayaquil, Inactivo,PRO4520
+CA4521,Cuenca, Inactivo,PRO4521
+CA4522,Esmeraldas,Activo,PRO4522
+CA4523,Loja, Inactivo,PRO4523
+CA4524,Cuenca,Activo,PRO4524
+CA4525,Quito, Inactivo,PRO4525
+CA4526,Chinchipe,Activo,PRO4526
+CA4527,Chinchipe,Activo,PRO4527
+CA4528,Guayaquil, Inactivo,PRO4528
+CA4529,Cuenca, Inactivo,PRO4529
+CA4530,Loja,Activo,PRO4530
+CA4531,Chinchipe,Activo,PRO4531
+CA4532,Guayaquil, Inactivo,PRO4532
+CA4533,Chinchipe, Inactivo,PRO4533
+CA4534,Cuenca,Activo,PRO4534
+CA4535,Chinchipe, Inactivo,PRO4535
+CA4536,Esmeraldas,Activo,PRO4536
+CA4537,Esmeraldas, Inactivo,PRO4537
+CA4538,Guayaquil,Activo,PRO4538
+CA4539,Guayaquil,Activo,PRO4539
+CA4540,Cuenca,Activo,PRO4540
+CA4541,Chinchipe,Activo,PRO4541
+CA4542,Guayaquil,Activo,PRO4542
+CA4543,Guayaquil, Inactivo,PRO4543
+CA4544,Loja, Inactivo,PRO4544
+CA4545,Quito,Activo,PRO4545
+CA4546,Esmeraldas,Activo,PRO4546
+CA4547,Cuenca,Activo,PRO4547
+CA4548,Guayaquil, Inactivo,PRO4548
+CA4549,Guayaquil, Inactivo,PRO4549
+CA4550,Cuenca,Activo,PRO4550
+CA4551,Chinchipe,Activo,PRO4551
+CA4552,Loja,Activo,PRO4552
+CA4553,Cuenca,Activo,PRO4553
+CA4554,Loja,Activo,PRO4554
+CA4555,Quito,Activo,PRO4555
+CA4556,Guayaquil, Inactivo,PRO4556
+CA4557,Loja,Activo,PRO4557
+CA4558,Guayaquil, Inactivo,PRO4558
+CA4559,Esmeraldas, Inactivo,PRO4559
+CA4560,Chinchipe, Inactivo,PRO4560
+CA4561,Loja, Inactivo,PRO4561
+CA4562,Quito, Inactivo,PRO4562
+CA4563,Chinchipe, Inactivo,PRO4563
+CA4564,Chinchipe,Activo,PRO4564
+CA4565,Guayaquil, Inactivo,PRO4565
+CA4566,Cuenca,Activo,PRO4566
+CA4567,Quito, Inactivo,PRO4567
+CA4568,Loja,Activo,PRO4568
+CA4569,Cuenca,Activo,PRO4569
+CA4570,Quito,Activo,PRO4570
+CA4571,Guayaquil,Activo,PRO4571
+CA4572,Quito, Inactivo,PRO4572
+CA4573,Quito, Inactivo,PRO4573
+CA4574,Cuenca, Inactivo,PRO4574
+CA4575,Loja, Inactivo,PRO4575
+CA4576,Guayaquil, Inactivo,PRO4576
+CA4577,Loja,Activo,PRO4577
+CA4578,Quito, Inactivo,PRO4578
+CA4579,Loja,Activo,PRO4579
+CA4580,Guayaquil,Activo,PRO4580
+CA4581,Quito, Inactivo,PRO4581
+CA4582,Cuenca, Inactivo,PRO4582
+CA4583,Guayaquil, Inactivo,PRO4583
+CA4584,Cuenca, Inactivo,PRO4584
+CA4585,Quito, Inactivo,PRO4585
+CA4586,Quito,Activo,PRO4586
+CA4587,Quito, Inactivo,PRO4587
+CA4588,Cuenca, Inactivo,PRO4588
+CA4589,Esmeraldas, Inactivo,PRO4589
+CA4590,Quito,Activo,PRO4590
+CA4591,Quito,Activo,PRO4591
+CA4592,Cuenca,Activo,PRO4592
+CA4593,Chinchipe, Inactivo,PRO4593
+CA4594,Cuenca, Inactivo,PRO4594
+CA4595,Esmeraldas,Activo,PRO4595
+CA4596,Quito, Inactivo,PRO4596
+CA4597,Loja, Inactivo,PRO4597
+CA4598,Chinchipe,Activo,PRO4598
+CA4599,Guayaquil, Inactivo,PRO4599
+CA4600,Cuenca,Activo,PRO4600
+CA4601,Quito, Inactivo,PRO4601
+CA4602,Chinchipe, Inactivo,PRO4602
+CA4603,Chinchipe, Inactivo,PRO4603
+CA4604,Cuenca, Inactivo,PRO4604
+CA4605,Esmeraldas,Activo,PRO4605
+CA4606,Chinchipe,Activo,PRO4606
+CA4607,Chinchipe,Activo,PRO4607
+CA4608,Loja,Activo,PRO4608
+CA4609,Cuenca, Inactivo,PRO4609
+CA4610,Chinchipe,Activo,PRO4610
+CA4611,Chinchipe, Inactivo,PRO4611
+CA4612,Quito, Inactivo,PRO4612
+CA4613,Loja, Inactivo,PRO4613
+CA4614,Cuenca,Activo,PRO4614
+CA4615,Guayaquil,Activo,PRO4615
+CA4616,Quito, Inactivo,PRO4616
+CA4617,Guayaquil,Activo,PRO4617
+CA4618,Cuenca,Activo,PRO4618
+CA4619,Chinchipe, Inactivo,PRO4619
+CA4620,Quito,Activo,PRO4620
+CA4621,Guayaquil,Activo,PRO4621
+CA4622,Quito, Inactivo,PRO4622
+CA4623,Cuenca, Inactivo,PRO4623
+CA4624,Quito, Inactivo,PRO4624
+CA4625,Cuenca,Activo,PRO4625
+CA4626,Quito,Activo,PRO4626
+CA4627,Chinchipe,Activo,PRO4627
+CA4628,Cuenca,Activo,PRO4628
+CA4629,Guayaquil, Inactivo,PRO4629
+CA4630,Quito, Inactivo,PRO4630
+CA4631,Cuenca,Activo,PRO4631
+CA4632,Chinchipe, Inactivo,PRO4632
+CA4633,Chinchipe,Activo,PRO4633
+CA4634,Cuenca,Activo,PRO4634
+CA4635,Chinchipe, Inactivo,PRO4635
+CA4636,Quito, Inactivo,PRO4636
+CA4637,Quito, Inactivo,PRO4637
+CA4638,Cuenca,Activo,PRO4638
+CA4639,Cuenca,Activo,PRO4639
+CA4640,Quito, Inactivo,PRO4640
+CA4641,Guayaquil, Inactivo,PRO4641
+CA4642,Esmeraldas,Activo,PRO4642
+CA4643,Quito, Inactivo,PRO4643
+CA4644,Loja, Inactivo,PRO4644
+CA4645,Quito,Activo,PRO4645
+CA4646,Cuenca,Activo,PRO4646
+CA4647,Esmeraldas,Activo,PRO4647
+CA4648,Loja, Inactivo,PRO4648
+CA4649,Esmeraldas, Inactivo,PRO4649
+CA4650,Guayaquil, Inactivo,PRO4650
+CA4651,Guayaquil, Inactivo,PRO4651
+CA4652,Cuenca, Inactivo,PRO4652
+CA4653,Chinchipe, Inactivo,PRO4653
+CA4654,Chinchipe, Inactivo,PRO4654
+CA4655,Chinchipe, Inactivo,PRO4655
+CA4656,Loja,Activo,PRO4656
+CA4657,Quito,Activo,PRO4657
+CA4658,Cuenca, Inactivo,PRO4658
+CA4659,Guayaquil, Inactivo,PRO4659
+CA4660,Quito, Inactivo,PRO4660
+CA4661,Quito, Inactivo,PRO4661
+CA4662,Loja,Activo,PRO4662
+CA4663,Cuenca,Activo,PRO4663
+CA4664,Guayaquil, Inactivo,PRO4664
+CA4665,Cuenca,Activo,PRO4665
+CA4666,Chinchipe,Activo,PRO4666
+CA4667,Cuenca,Activo,PRO4667
+CA4668,Guayaquil,Activo,PRO4668
+CA4669,Cuenca,Activo,PRO4669
+CA4670,Guayaquil, Inactivo,PRO4670
+CA4671,Guayaquil, Inactivo,PRO4671
+CA4672,Chinchipe, Inactivo,PRO4672
+CA4673,Chinchipe, Inactivo,PRO4673
+CA4674,Esmeraldas,Activo,PRO4674
+CA4675,Chinchipe, Inactivo,PRO4675
+CA4676,Guayaquil,Activo,PRO4676
+CA4677,Loja, Inactivo,PRO4677
+CA4678,Chinchipe,Activo,PRO4678
+CA4679,Chinchipe,Activo,PRO4679
+CA4680,Quito,Activo,PRO4680
+CA4681,Chinchipe,Activo,PRO4681
+CA4682,Guayaquil, Inactivo,PRO4682
+CA4683,Cuenca,Activo,PRO4683
+CA4684,Guayaquil,Activo,PRO4684
+CA4685,Chinchipe, Inactivo,PRO4685
+CA4686,Loja, Inactivo,PRO4686
+CA4687,Cuenca, Inactivo,PRO4687
+CA4688,Guayaquil, Inactivo,PRO4688
+CA4689,Cuenca,Activo,PRO4689
+CA4690,Esmeraldas, Inactivo,PRO4690
+CA4691,Loja, Inactivo,PRO4691
+CA4692,Chinchipe,Activo,PRO4692
+CA4693,Cuenca, Inactivo,PRO4693
+CA4694,Quito,Activo,PRO4694
+CA4695,Loja,Activo,PRO4695
+CA4696,Esmeraldas, Inactivo,PRO4696
+CA4697,Guayaquil,Activo,PRO4697
+CA4698,Chinchipe,Activo,PRO4698
+CA4699,Chinchipe, Inactivo,PRO4699
+CA4700,Quito,Activo,PRO4700
+CA4701,Chinchipe, Inactivo,PRO4701
+CA4702,Loja, Inactivo,PRO4702
+CA4703,Chinchipe, Inactivo,PRO4703
+CA4704,Guayaquil,Activo,PRO4704
+CA4705,Cuenca,Activo,PRO4705
+CA4706,Quito, Inactivo,PRO4706
+CA4707,Esmeraldas, Inactivo,PRO4707
+CA4708,Loja,Activo,PRO4708
+CA4709,Cuenca, Inactivo,PRO4709
+CA4710,Quito, Inactivo,PRO4710
+CA4711,Loja,Activo,PRO4711
+CA4712,Guayaquil,Activo,PRO4712
+CA4713,Esmeraldas,Activo,PRO4713
+CA4714,Quito,Activo,PRO4714
+CA4715,Chinchipe, Inactivo,PRO4715
+CA4716,Cuenca,Activo,PRO4716
+CA4717,Loja, Inactivo,PRO4717
+CA4718,Loja,Activo,PRO4718
+CA4719,Cuenca,Activo,PRO4719
+CA4720,Guayaquil, Inactivo,PRO4720
+CA4721,Chinchipe, Inactivo,PRO4721
+CA4722,Chinchipe, Inactivo,PRO4722
+CA4723,Chinchipe, Inactivo,PRO4723
+CA4724,Quito,Activo,PRO4724
+CA4725,Loja,Activo,PRO4725
+CA4726,Guayaquil, Inactivo,PRO4726
+CA4727,Guayaquil, Inactivo,PRO4727
+CA4728,Guayaquil,Activo,PRO4728
+CA4729,Cuenca,Activo,PRO4729
+CA4730,Quito, Inactivo,PRO4730
+CA4731,Cuenca,Activo,PRO4731
+CA4732,Guayaquil,Activo,PRO4732
+CA4733,Quito,Activo,PRO4733
+CA4734,Chinchipe,Activo,PRO4734
+CA4735,Cuenca, Inactivo,PRO4735
+CA4736,Quito, Inactivo,PRO4736
+CA4737,Guayaquil, Inactivo,PRO4737
+CA4738,Loja,Activo,PRO4738
+CA4739,Guayaquil,Activo,PRO4739
+CA4740,Chinchipe,Activo,PRO4740
+CA4741,Chinchipe,Activo,PRO4741
+CA4742,Cuenca,Activo,PRO4742
+CA4743,Cuenca, Inactivo,PRO4743
+CA4744,Cuenca, Inactivo,PRO4744
+CA4745,Cuenca, Inactivo,PRO4745
+CA4746,Chinchipe, Inactivo,PRO4746
+CA4747,Chinchipe,Activo,PRO4747
+CA4748,Guayaquil,Activo,PRO4748
+CA4749,Cuenca, Inactivo,PRO4749
+CA4750,Chinchipe, Inactivo,PRO4750
+CA4751,Cuenca,Activo,PRO4751
+CA4752,Quito,Activo,PRO4752
+CA4753,Chinchipe,Activo,PRO4753
+CA4754,Loja,Activo,PRO4754
+CA4755,Cuenca, Inactivo,PRO4755
+CA4756,Chinchipe, Inactivo,PRO4756
+CA4757,Guayaquil, Inactivo,PRO4757
+CA4758,Esmeraldas, Inactivo,PRO4758
+CA4759,Quito, Inactivo,PRO4759
+CA4760,Quito, Inactivo,PRO4760
+CA4761,Chinchipe, Inactivo,PRO4761
+CA4762,Guayaquil, Inactivo,PRO4762
+CA4763,Esmeraldas, Inactivo,PRO4763
+CA4764,Cuenca,Activo,PRO4764
+CA4765,Loja,Activo,PRO4765
+CA4766,Guayaquil, Inactivo,PRO4766
+CA4767,Cuenca, Inactivo,PRO4767
+CA4768,Cuenca, Inactivo,PRO4768
+CA4769,Chinchipe, Inactivo,PRO4769
+CA4770,Cuenca, Inactivo,PRO4770
+CA4771,Quito,Activo,PRO4771
+CA4772,Quito, Inactivo,PRO4772
+CA4773,Guayaquil,Activo,PRO4773
+CA4774,Quito, Inactivo,PRO4774
+CA4775,Chinchipe,Activo,PRO4775
+CA4776,Cuenca,Activo,PRO4776
+CA4777,Cuenca,Activo,PRO4777
+CA4778,Cuenca, Inactivo,PRO4778
+CA4779,Cuenca, Inactivo,PRO4779
+CA4780,Esmeraldas,Activo,PRO4780
+CA4781,Quito, Inactivo,PRO4781
+CA4782,Quito,Activo,PRO4782
+CA4783,Guayaquil,Activo,PRO4783
+CA4784,Loja,Activo,PRO4784
+CA4785,Quito,Activo,PRO4785
+CA4786,Loja,Activo,PRO4786
+CA4787,Loja, Inactivo,PRO4787
+CA4788,Quito,Activo,PRO4788
+CA4789,Chinchipe,Activo,PRO4789
+CA4790,Cuenca,Activo,PRO4790
+CA4791,Esmeraldas, Inactivo,PRO4791
+CA4792,Quito, Inactivo,PRO4792
+CA4793,Chinchipe, Inactivo,PRO4793
+CA4794,Chinchipe,Activo,PRO4794
+CA4795,Esmeraldas, Inactivo,PRO4795
+CA4796,Cuenca, Inactivo,PRO4796
+CA4797,Guayaquil, Inactivo,PRO4797
+CA4798,Chinchipe, Inactivo,PRO4798
+CA4799,Cuenca,Activo,PRO4799
+CA4800,Esmeraldas, Inactivo,PRO4800
+CA4801,Loja, Inactivo,PRO4801
+CA4802,Loja, Inactivo,PRO4802
+CA4803,Cuenca, Inactivo,PRO4803
+CA4804,Cuenca, Inactivo,PRO4804
+CA4805,Chinchipe, Inactivo,PRO4805
+CA4806,Chinchipe,Activo,PRO4806
+CA4807,Guayaquil, Inactivo,PRO4807
+CA4808,Cuenca, Inactivo,PRO4808
+CA4809,Chinchipe,Activo,PRO4809
+CA4810,Cuenca, Inactivo,PRO4810
+CA4811,Cuenca,Activo,PRO4811
+CA4812,Cuenca, Inactivo,PRO4812
+CA4813,Guayaquil, Inactivo,PRO4813
+CA4814,Esmeraldas, Inactivo,PRO4814
+CA4815,Quito,Activo,PRO4815
+CA4816,Quito, Inactivo,PRO4816
+CA4817,Cuenca,Activo,PRO4817
+CA4818,Guayaquil,Activo,PRO4818
+CA4819,Cuenca, Inactivo,PRO4819
+CA4820,Guayaquil,Activo,PRO4820
+CA4821,Quito,Activo,PRO4821
+CA4822,Quito,Activo,PRO4822
+CA4823,Quito, Inactivo,PRO4823
+CA4824,Chinchipe,Activo,PRO4824
+CA4825,Guayaquil, Inactivo,PRO4825
+CA4826,Cuenca, Inactivo,PRO4826
+CA4827,Quito, Inactivo,PRO4827
+CA4828,Guayaquil, Inactivo,PRO4828
+CA4829,Chinchipe, Inactivo,PRO4829
+CA4830,Guayaquil, Inactivo,PRO4830
+CA4831,Cuenca,Activo,PRO4831
+CA4832,Chinchipe,Activo,PRO4832
+CA4833,Guayaquil,Activo,PRO4833
+CA4834,Cuenca, Inactivo,PRO4834
+CA4835,Quito, Inactivo,PRO4835
+CA4836,Cuenca, Inactivo,PRO4836
+CA4837,Quito, Inactivo,PRO4837
+CA4838,Cuenca, Inactivo,PRO4838
+CA4839,Guayaquil,Activo,PRO4839
+CA4840,Guayaquil, Inactivo,PRO4840
+CA4841,Chinchipe,Activo,PRO4841
+CA4842,Loja,Activo,PRO4842
+CA4843,Quito,Activo,PRO4843
+CA4844,Chinchipe,Activo,PRO4844
+CA4845,Chinchipe, Inactivo,PRO4845
+CA4846,Chinchipe,Activo,PRO4846
+CA4847,Cuenca, Inactivo,PRO4847
+CA4848,Chinchipe,Activo,PRO4848
+CA4849,Guayaquil, Inactivo,PRO4849
+CA4850,Chinchipe,Activo,PRO4850
+CA4851,Quito,Activo,PRO4851
+CA4852,Cuenca,Activo,PRO4852
+CA4853,Guayaquil, Inactivo,PRO4853
+CA4854,Cuenca,Activo,PRO4854
+CA4855,Chinchipe,Activo,PRO4855
+CA4856,Quito, Inactivo,PRO4856
+CA4857,Cuenca, Inactivo,PRO4857
+CA4858,Guayaquil, Inactivo,PRO4858
+CA4859,Quito, Inactivo,PRO4859
+CA4860,Cuenca,Activo,PRO4860
+CA4861,Esmeraldas,Activo,PRO4861
+CA4862,Quito,Activo,PRO4862
+CA4863,Loja, Inactivo,PRO4863
+CA4864,Loja, Inactivo,PRO4864
+CA4865,Quito,Activo,PRO4865
+CA4866,Guayaquil, Inactivo,PRO4866
+CA4867,Chinchipe, Inactivo,PRO4867
+CA4868,Cuenca, Inactivo,PRO4868
+CA4869,Quito, Inactivo,PRO4869
+CA4870,Guayaquil, Inactivo,PRO4870
+CA4871,Cuenca, Inactivo,PRO4871
+CA4872,Cuenca, Inactivo,PRO4872
+CA4873,Chinchipe, Inactivo,PRO4873
+CA4874,Quito,Activo,PRO4874
+CA4875,Guayaquil, Inactivo,PRO4875
+CA4876,Esmeraldas, Inactivo,PRO4876
+CA4877,Cuenca,Activo,PRO4877
+CA4878,Chinchipe, Inactivo,PRO4878
+CA4879,Loja,Activo,PRO4879
+CA4880,Guayaquil, Inactivo,PRO4880
+CA4881,Quito, Inactivo,PRO4881
+CA4882,Quito,Activo,PRO4882
+CA4883,Loja,Activo,PRO4883
+CA4884,Cuenca,Activo,PRO4884
+CA4885,Chinchipe, Inactivo,PRO4885
+CA4886,Cuenca, Inactivo,PRO4886
+CA4887,Cuenca, Inactivo,PRO4887
+CA4888,Quito, Inactivo,PRO4888
+CA4889,Loja,Activo,PRO4889
+CA4890,Chinchipe,Activo,PRO4890
+CA4891,Chinchipe, Inactivo,PRO4891
+CA4892,Quito, Inactivo,PRO4892
+CA4893,Esmeraldas, Inactivo,PRO4893
+CA4894,Chinchipe, Inactivo,PRO4894
+CA4895,Guayaquil,Activo,PRO4895
+CA4896,Cuenca,Activo,PRO4896
+CA4897,Guayaquil,Activo,PRO4897
+CA4898,Chinchipe,Activo,PRO4898
+CA4899,Quito, Inactivo,PRO4899
+CA4900,Chinchipe, Inactivo,PRO4900
+CA4901,Guayaquil, Inactivo,PRO4901
+CA4902,Cuenca, Inactivo,PRO4902
+CA4903,Cuenca, Inactivo,PRO4903
+CA4904,Chinchipe, Inactivo,PRO4904
+CA4905,Guayaquil, Inactivo,PRO4905
+CA4906,Cuenca, Inactivo,PRO4906
+CA4907,Guayaquil,Activo,PRO4907
+CA4908,Cuenca,Activo,PRO4908
+CA4909,Chinchipe, Inactivo,PRO4909
+CA4910,Loja,Activo,PRO4910
+CA4911,Chinchipe,Activo,PRO4911
+CA4912,Guayaquil, Inactivo,PRO4912
+CA4913,Chinchipe,Activo,PRO4913
+CA4914,Quito, Inactivo,PRO4914
+CA4915,Quito,Activo,PRO4915
+CA4916,Chinchipe, Inactivo,PRO4916
+CA4917,Chinchipe,Activo,PRO4917
+CA4918,Esmeraldas,Activo,PRO4918
+CA4919,Guayaquil,Activo,PRO4919
+CA4920,Quito, Inactivo,PRO4920
+CA4921,Chinchipe,Activo,PRO4921
+CA4922,Quito,Activo,PRO4922
+CA4923,Quito, Inactivo,PRO4923
+CA4924,Chinchipe,Activo,PRO4924
+CA4925,Guayaquil, Inactivo,PRO4925
+CA4926,Loja, Inactivo,PRO4926
+CA4927,Guayaquil, Inactivo,PRO4927
+CA4928,Cuenca, Inactivo,PRO4928
+CA4929,Loja, Inactivo,PRO4929
+CA4930,Chinchipe,Activo,PRO4930
+CA4931,Cuenca,Activo,PRO4931
+CA4932,Chinchipe,Activo,PRO4932
+CA4933,Cuenca, Inactivo,PRO4933
+CA4934,Cuenca, Inactivo,PRO4934
+CA4935,Cuenca,Activo,PRO4935
+CA4936,Cuenca,Activo,PRO4936
+CA4937,Quito,Activo,PRO4937
+CA4938,Chinchipe, Inactivo,PRO4938
+CA4939,Cuenca,Activo,PRO4939
+CA4940,Quito,Activo,PRO4940
+CA4941,Cuenca, Inactivo,PRO4941
+CA4942,Quito,Activo,PRO4942
+CA4943,Chinchipe, Inactivo,PRO4943
+CA4944,Quito, Inactivo,PRO4944
+CA4945,Guayaquil,Activo,PRO4945
+CA4946,Chinchipe, Inactivo,PRO4946
+CA4947,Cuenca,Activo,PRO4947
+CA4948,Quito,Activo,PRO4948
+CA4949,Quito,Activo,PRO4949
+CA4950,Quito,Activo,PRO4950
+CA4951,Cuenca,Activo,PRO4951
+CA4952,Chinchipe,Activo,PRO4952
+CA4953,Guayaquil,Activo,PRO4953
+CA4954,Guayaquil,Activo,PRO4954
+CA4955,Quito, Inactivo,PRO4955
+CA4956,Chinchipe,Activo,PRO4956
+CA4957,Chinchipe, Inactivo,PRO4957
+CA4958,Cuenca,Activo,PRO4958
+CA4959,Esmeraldas, Inactivo,PRO4959
+CA4960,Esmeraldas,Activo,PRO4960
+CA4961,Chinchipe, Inactivo,PRO4961
+CA4962,Cuenca, Inactivo,PRO4962
+CA4963,Loja, Inactivo,PRO4963
+CA4964,Quito,Activo,PRO4964
+CA4965,Cuenca, Inactivo,PRO4965
+CA4966,Loja, Inactivo,PRO4966
+CA4967,Cuenca,Activo,PRO4967
+CA4968,Esmeraldas, Inactivo,PRO4968
+CA4969,Guayaquil,Activo,PRO4969
+CA4970,Cuenca, Inactivo,PRO4970
+CA4971,Loja, Inactivo,PRO4971
+CA4972,Loja, Inactivo,PRO4972
+CA4973,Loja,Activo,PRO4973
+CA4974,Guayaquil,Activo,PRO4974
+CA4975,Loja, Inactivo,PRO4975
+CA4976,Chinchipe, Inactivo,PRO4976
+CA4977,Guayaquil, Inactivo,PRO4977
+CA4978,Esmeraldas, Inactivo,PRO4978
+CA4979,Guayaquil,Activo,PRO4979
+CA4980,Chinchipe, Inactivo,PRO4980
+CA4981,Chinchipe,Activo,PRO4981
+CA4982,Loja,Activo,PRO4982
+CA4983,Cuenca,Activo,PRO4983
+CA4984,Guayaquil, Inactivo,PRO4984
+CA4985,Chinchipe, Inactivo,PRO4985
+CA4986,Chinchipe, Inactivo,PRO4986
+CA4987,Guayaquil, Inactivo,PRO4987
+CA4988,Chinchipe, Inactivo,PRO4988
+CA4989,Quito,Activo,PRO4989
+CA4990,Cuenca, Inactivo,PRO4990
+CA4991,Chinchipe,Activo,PRO4991
+CA4992,Guayaquil,Activo,PRO4992
+CA4993,Loja, Inactivo,PRO4993
+CA4994,Loja, Inactivo,PRO4994
+CA4995,Cuenca,Activo,PRO4995
+CA4996,Loja,Activo,PRO4996
+CA4997,Guayaquil,Activo,PRO4997
+CA4998,Cuenca, Inactivo,PRO4998
+CA4999,Cuenca, Inactivo,PRO4999
+CA5000,Quito, Inactivo,PRO5000
