@@ -15,7 +15,7 @@ Select count(TbProyecto.CharProyectoNombre) as NumProyectos, TbProyecto.CharProy
 from TbBeneficiario
 inner join TbProyecto on TbBeneficiario.CharProyectoId=TbProyecto.CharProyectoId
 inner join TbProvincia on TbProvincia.CharProvinciaId=TbBeneficiario.CharProvinciaId
-group by TbProyecto.CharProyectoStatus, TbProyecto.CharProyectoTipo, TbProvincia.CharProvinciaNombre
+group by TbProyecto.CharProyectoStatus, TbProyecto.CharProyectoTipo, TbProvincia.CharProvinciaNombre+
 having TbProvincia.CharProvinciaNombre = 'Pichincha' and TbProyecto.CharProyectoTipo ='Emprendimiento' and TbProyecto.CharProyectoStatus = 'Pendiente' ;
 
 
@@ -36,24 +36,23 @@ order by count(TbRol.CharRolNombre) desc;
 
 
 
-4.-Vamos a visualizar la cantidad de agencias que existen por provincia 
+4.-Vamos a visualizar la cantidad de agencias que existen por provincia(Sacar en porcentaje) 
 
 
-Select TbProvincia.CHarProvinciaNombre, count(TbAgencia.CharAgenciaNombre)
+Select TbProvincia.CHarProvinciaNombre, avg(count(TbAgencia.CharAgenciaNombre))
 from TbAgencia
 inner join TbProvincia on TbAgencia.CharProvinciaId=TbProvincia.CharProvinciaId
 group by TbProvincia.CharProvinciaNombre
 order by count(TbAgencia.CharAgenciaNombre) desc ;
 
 
-5.-Se van a identificar las agencias que  cuenten con más de 1 asesor de crédito en la provincia de Azuay.
+5.-Se van a identificar las agencias que  cuenten con más de 1 asesor de crédito en todas las provincias
 
-
-Select TbAgencia.CharAgenciaNombre, TbProvincia.CHarProvinciaNombre, count(TbAgencia.CharAgenciaNombre)
+Select  TbProvincia.CHarProvinciaNombre, count(TbAgencia.CharAgenciaNombre)
 from TbAgencia
 inner join TbProvincia on TbAgencia.CharProvinciaId=TbProvincia.CharProvinciaId
 group by TbAgencia.CharAgenciaNombre, TbProvincia.CHarProvinciaNombre
-having count(TbAgencia.CharAgenciaNombre) >1 and TbProvincia.CharProvinciaNombre = 'Azuay'
+having count(TbAgencia.CharAgenciaNombre) >1 
 order by count(TbAgencia.CharAgenciaNombre) desc ;
 
 
@@ -73,14 +72,14 @@ order by count(TbBeneficiario.CharBeneficiarioNombre) desc;
 
 7.-Mostrar los beneficiarios, el tipo de proyecto al que pertenecen que hayan sido aprobados y ya hayan recibido la transaccion con la respectiva fecha de esta en orden descendente de acuerdo al tipo de proyecto
 
-Select TbBeneficiario.CharBeneficiarioNombre as NombreBeneficiario, TbProyecto.CharProyectoNombre as NombreProyecto,  TbProyecto.CharProyectoStatus as Estado, TbAmortizacion.DateAmortizacionFechaTransaccion as FechaAmortizacion
+Select TbBeneficiario.CharBeneficiarioNombre as NombreBeneficiario, TbProyecto.CharProyectoNombre as NombreProyecto,  TbProyecto.CharProyectoStatus as Estado, TbAmortizacion.DateAmortizacionFechaTransaccion as FechaAmortizacion, TBPROYECTO.CHARPROYECTOTIPO.
 from TbProyecto
 inner join TbBeneficiario on TbProyecto.CharProyectoId=TbBeneficiario.CharProyectoId
 inner join TbRecibe on TbBeneficiario.CharBeneficiarioId=TbRecibe.CharBeneficiarioId
 inner join TbAmortizacion on TbRecibe.CharAmortizacionId=TbAmortizacion.CharAmortizacionId
 where TbProyecto.CharProyectoStatus = 'Aceptado'
 order by TbProyecto.CharProyectoNombre desc;
-
+GROUP BY TBPROYECTO.CHARPROYECTOTIPO
 8.- Cual es el capital total que se ofrece para realizar cada uno creditos de desarrollo humano enfocado a los proyectos de tipo social. Dicha informacion se desea conocer para  personas mayores de 18 años y menores de 50.
 
 Select TbProyecto.CharProyectoTipo as TipoProyecto, TbProyecto.CharProyectoNombre as ProyectoNoombre, sum(TbAmortizacion.NumberAmortizacionCapital)as CapitalTotal, TbBeneficiario.NumberBeneficiarioEdad as Edad
@@ -89,8 +88,13 @@ inner join TbBeneficiario on TbProyecto.CharProyectoId=TbBeneficiario.CharProyec
 inner join TbRecibe on TbBeneficiario.CharBeneficiarioId=TbRecibe.CharBeneficiarioId
 inner join TbAmortizacion on TbRecibe.CharAmortizacionId=TbAmortizacion.CharAmortizacionId
 group by  TbProyecto.CharProyectoNombre, TbProyecto.CharProyectoTipo, TbProyecto.CharProyectoNombre, TbBeneficiario.NumberBeneficiarioEdad
-having (TbBeneficiario.NumberBeneficiarioEdad between '18' and '50') and TbProyecto.CharProyectoTipo = 'Social'
+having (TbBeneficiario.NumberBeneficiarioEdad between '18' and '50') and TbProyecto.CharProyectoTipo = 'Emprendimiento'
 order by TbBeneficiario.NumberBeneficiarioEdad desc;
+
+
+eel diagrama de pastel con numeros y porcentajes 
+BE16 cualquiera de nuestros nombres
+drop de roles
 
 
 
