@@ -507,7 +507,7 @@ end;
 /
 
 --insertamos un registro para  probar el trigger
-insert into TbEmpleado values ('E5001','1480915001','Jessica Andrango','Femenino','Speak kind old own this mother.','13/07/1994',25,'Inactivo');
+insert into TbEmpleado values ('E5002','1480915001','Jessica Andrango','Femenino','Speak kind old own this mother.','13/07/1994',25,'Inactivo');
 
 --observamos la tabla auditoria
 select * from TbAuditoria;
@@ -593,3 +593,80 @@ END;
 
 update TbEmpleado set charempleadostatus='Despedido' where CharEmpleadoIxId='E1824';
 select * from TbEmpleado where CharEmpleadoDescripcion='Ex Trabajador';
+
+----------------------------------------------VISTAS-------------------------------------------------------------------
+--Primera Vista
+Identificar la cantidad de beneficiarios por provincia para conocer cuál es la provincia con más personas de bajos recursos 
+
+CREATE OR REPLACE VIEW VW_BeneficiariosProvincia 
+AS
+Select count(TbBeneficiario.CharBeneficiarioId) as totalbeneficiarios, TbProvincia.CharProvinciaNombre as Beneficiario
+from TbBeneficiario 
+inner join TbProvincia on TbBeneficiario.CharProvinciaId=TbProvincia.CharProvinciaId
+group by TbProvincia.CharProvinciaNombre
+order by count(TbBeneficiario.CharBeneficiarioId) desc;
+
+select * from VW_BeneficiariosProvincia;
+
+--segunda vista
+Cuál es la cantidad de proyectos de cada tipo, mostrando el estado en el que se encuentran  de los beneficiarios de la provincia de Pichincha.  
+
+CREATE OR REPLACE VIEW VW_ProyectoPichinchaDescendente as
+Select count(TbProyecto.CharProyectoNombre) as totalProyecto, TbProyecto.CharProyectoStatus as StatusProyecto, TbProyecto.CharProyectoTipo as TipoProyecto, TbProvincia.CharProvinciaNombre
+from TbBeneficiario
+inner join TbProyecto on TbBeneficiario.CharProyectoId=TbProyecto.CharProyectoId
+inner join TbProvincia on TbProvincia.CharProvinciaId=TbBeneficiario.CharProvinciaId
+group by  TbProyecto.CharProyectoTipo, TbProyecto.CharProyectoStatus,  TbProvincia.CharProvinciaNombre
+having TbProvincia.CharProvinciaNombre = 'Pichincha'
+order by count(TbProyecto.CharProyectoNombre) desc;
+
+select * from VW_ProyectoPichinchaDescendente;
+
+--tercera vista
+
+Vamos a visualizar la cantidad de agencias que existen por provincia 
+
+CREATE OR REPLACE VIEW VW_AgenciasProvincias as
+Select TbProvincia.CHarProvinciaNombre as Provincia, count(TbAgencia.CharAgenciaNombre) as TotalAgencias
+from TbAgencia
+inner join TbProvincia on TbAgencia.CharProvinciaId=TbProvincia.CharProvinciaId
+group by TbProvincia.CharProvinciaNombre
+order by count(TbAgencia.CharAgenciaNombre) desc ;
+
+select * from VW_AgenciasProvincias;
+
+
+
+--Cuarta Vista
+
+Se desea conocer la cantidad de asesores que existen por cada provincia ya que son ellos los que aprueban los créditos de desarrollo humano
+
+CREATE OR REPLACE VIEW VW_AsesoresProvincias as
+Select TbProvincia.CharProvinciaNombre as Provincia, count(TbRol.CharRolNombre) as TotalRoles, TbRol.CharRolNombre as RolNombre
+from TbRol
+inner join TbEmpleadoRolPermiso on TbRol.CharRolId=TbEmpleadoRolPermiso.CharRolId
+inner join TbAgencia on TbAgencia.CharAgenciaId=TbEmpleadoRolPermiso.CharAgenciaId
+inner join TbProvincia on TbAgencia.CharProvinciaId=TbProvincia.CharProvinciaId
+where TbRol.CharRolNombre = 'Asesor'
+group by TbProvincia.CharProvinciaNombre, TbRol.CharRolNombre
+order by count(TbRol.CharRolNombre) desc;
+
+select * from VW_AsesoresProvincias;
+
+
+--Quinta Vista
+
+Cuál es el capital total que se ofrece para realizar cada uno  de los créditos de desarrollo humano enfocado a 
+los diferentes proyectos pero que sean de tipo Emprendimiento. Dicha informacion se desea conocer para  personas mayores de 18 años y menores de 50.
+
+CREATE OR REPLACE VIEW VW_CapitalTotal as
+Select TbProyecto.CharProyectoTipo as TipoProyecto, TbProyecto.CharProyectoNombre as ProyectoNombre, sum(TbAmortizacion.NumberAmortizacionCapital) as SumaCapital, TbBeneficiario.NumberBeneficiarioEdad as EdadBeneficiario
+from TbProyecto
+inner join TbBeneficiario on TbProyecto.CharProyectoId=TbBeneficiario.CharProyectoId
+inner join TbBeneficio on TbBeneficiario.CharBeneficiarioIxId=TbBeneficio.CharBeneficiarioIxId
+inner join TbAmortizacion on TbBeneficio.CharAmortizacionId=TbAmortizacion.CharAmortizacionId
+group by  TbProyecto.CharProyectoNombre, TbProyecto.CharProyectoTipo, TbProyecto.CharProyectoNombre, TbBeneficiario.NumberBeneficiarioEdad
+having (TbBeneficiario.NumberBeneficiarioEdad between '18' and '50') and TbProyecto.CharProyectoTipo = 'Social'
+order by TbBeneficiario.NumberBeneficiarioEdad desc;
+
+Select * from VW_CapitalTotal;
