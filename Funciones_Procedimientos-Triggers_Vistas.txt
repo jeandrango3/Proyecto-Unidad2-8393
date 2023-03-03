@@ -573,3 +573,23 @@ END;
 
 update TbProyecto set CharProyectoStatus='Denegado' where CharProyectoId='PY54';
 select * from TbProyecto where CharProyectoTipo='Sin acceso al proyecto';
+
+
+
+
+--Quinto trigger
+
+Create or replace trigger tg_status_empleado
+	after Update of CharEmpleadoStatus on TbEmpleado
+ENABLE
+BEGIN
+	IF UPDATING THEN
+		UPDATE TbEmpleado SET CharEmpleadoDescripcion='Ex Trabajador' where CharEmpleadoStatus='Despedido';
+	END IF;
+END;
+/
+
+
+
+update TbEmpleado set charempleadostatus='Despedido' where CharEmpleadoIxId='E1824';
+select * from TbEmpleado where CharEmpleadoDescripcion='Ex Trabajador';
