@@ -1,0 +1,355 @@
+Creación de tablas  
+
+TbPosee = TbEmpleadoRol 
+
+TbDeriva = TbCalidad 
+
+TbRecibe = TbBeneficio 
+
+ 
+
+create table TbProvincia ( 
+
+CharProvinciaId char(10) , 
+
+CharProvinciaNombre char(15) , 
+
+CharProvinciaStatus char(10) , 
+
+PRIMARY KEY (CharProvinciaId) 
+
+); 
+
+  
+
+create table TbCanton ( 
+
+CharCantonId char(10)  , 
+
+CharCantonNombre char(20) , 
+
+CharCantonStatus char(15) , 
+
+CharProvinciaId char(10) , 
+
+PRIMARY KEY (CharCantonId), 
+
+FOREIGN KEY (CharProvinciaId) REFERENCES TbProvincia(CharProvinciaId) 
+
+); 
+
+  
+
+CREATE TABLE TbParroquia ( 
+
+CharParroquiaId char(20) , 
+
+CharParroquiaNombre char(20)  , 
+
+CharParroquiaStatus char(20)  , 
+
+CharProvinciaId char(10)  , 
+
+CharCantonId char(10) , 
+
+CONSTRAINT pk_TbParroquia PRIMARY KEY (CharParroquiaId), 
+
+FOREIGN KEY (CharProvinciaId) REFERENCES TbProvincia(CharProvinciaId), 
+
+FOREIGN KEY (CharCantonId) REFERENCES TbCanton(CharCantonId) 
+
+); 
+
+  
+
+create table TbAgencia ( 
+
+CharAgenciaId char(10) , 
+
+CharAgenciaNombre char(15) , 
+
+CharAgenciaEstado char(10)  , 
+
+NumberAgenciaTelefono number, 
+
+CharAgenciaCorreo char(30) , 
+
+CharProvinciaId char(10), 
+
+CharCantonId char(10)  , 
+
+CharParroquiaId char(10) , 
+
+CONSTRAINT pk_Tbgencia PRIMARY KEY (CharAgenciaId), 
+
+FOREIGN KEY (CharProvinciaId) REFERENCES TbProvincia(CharProvinciaId), 
+
+FOREIGN KEY (CharCantonId) REFERENCES TbCanton(CharCantonId), 
+
+FOREIGN KEY (CharParroquiaId) REFERENCES TbParroquia(CharParroquiaId) 
+
+); 
+
+  
+
+create table TbEmpleado( 
+
+CharEmpleadoIxId    char(10), 
+
+varcharempleadoid varchar2(11), 
+
+CharempleadoNombre char(40), 
+
+charempleadogenero char(10), 
+
+charempleadodescripcion char(70), 
+
+Dateempleadofechanacimiento date, 
+
+Numberempleadoedad number, 
+
+charempleadostatus char(10), 
+
+CONSTRAINT pk_Tbempleado PRIMARY KEY (CharempleadoIxId) 
+
+); 
+
+  
+
+create table TbRol( 
+
+CharRolId char(10) , 
+
+CharRolNombre char(20)  , 
+
+CharRolDescripcion char(70)  , 
+
+CONSTRAINT pk_TbRol PRIMARY KEY (CharRolId) 
+
+); 
+
+  
+
+create table TbEmpleadoRol ( 
+
+CharEmpleadoIxId char(10) , 
+
+CharRolId char(10), 
+
+CONSTRAINT pk_TbEmpleadoRol PRIMARY KEY (CharEmpleadoIxId, CharRolId), 
+
+FOREIGN KEY (CharEmpleadoIxId) REFERENCES TbEmpleado(CharEmpleadoIxId), 
+
+FOREIGN KEY (CharRolId) REFERENCES TbRol(CharRolId) 
+
+); 
+
+  
+
+create table TbPermiso ( 
+
+CharPermisoId char(10) , 
+
+CharPermisoNombre char(15) , 
+
+CharPermisoDescripcion char(75) , 
+
+CharRolId char(10), 
+
+CONSTRAINT pk_TbPermiso PRIMARY KEY (CharPermisoId), 
+
+FOREIGN KEY (CharRolId) references TbRol( CharRolId) 
+
+); 
+
+  
+
+create table TbEmpleadoRolPermiso ( 
+
+CharEmpleadoIxId char(10), 
+
+CharRolId char(10), 
+
+CharPermisoId char(10), 
+
+CharAgenciaId char(10), 
+
+CONSTRAINT pk_TbEmpleadoRolPermiso PRIMARY KEY (CharEmpleadoIxId, CharRolId, CharPermisoId, CharAgenciaId), 
+
+FOREIGN KEY (CharEmpleadoIxId, CharRolId) REFERENCES TbEmpleadoRol(CharEmpleadoIxId, CharRolId), 
+
+FOREIGN KEY (CharPermisoId) REFERENCES TbPermiso(CharPermisoId), 
+
+FOREIGN KEY (CharAgenciaId) REFERENCES TbAgencia(CharAgenciaId) 
+
+); 
+
+  
+
+create table TbServicio ( 
+
+CharServicioId char(10), 
+
+CharServicioNombre char(15) , 
+
+CharServicioDescripcion char(30) , 
+
+CharServicioEstado char(10) , 
+
+CharServicioTipo char(10), 
+
+NumberServicioMonto number , 
+
+DateServicioTiempo DATE , 
+
+CharEmpleadoIxId char(10) , 
+
+CharAgenciaId char(10), 
+
+CharPermisoId char(10), 
+
+CharRolId char(10), 
+
+CONSTRAINT pk_TbServicio PRIMARY KEY (CharServicioId), 
+
+FOREIGN KEY (CharEmpleadoIxId, CharPermisoId, CharRolId, CharAgenciaId) REFERENCES TbEmpleadoRolPermiso(CharEmpleadoIxId, CharPermisoId, CharRolId, CharAgenciaId) 
+
+); 
+
+  
+
+create table TbParametro ( 
+
+CharParametroId char(10), 
+
+CharParametroNombre char(25) , 
+
+CharParametroDescripcion char(70), 
+
+CharParametroBaseLegal char(20), 
+
+CharParametroStatus char(10) , 
+
+DateParametroFechaDeclaracion DATE , 
+
+DateParametroFechaDerogacion DATE, 
+
+CONSTRAINT pk_TbParametro PRIMARY KEY(CharParametroId) 
+
+); 
+
+  
+
+create table TbCalidad ( 
+
+CharServicioId char(10) , 
+
+CharParametroId char(10), 
+
+NumberDerivaMonto NUMBER, 
+
+CONSTRAINT pk_TbCalidad PRIMARY KEY(CharServicioId, CharParametroId), 
+
+FOREIGN KEY (CharServicioId) REFERENCES TbServicio(CharServicioId), 
+
+FOREIGN KEY (CharParametroId) REFERENCES TbParametro(CharParametroId) 
+
+); 
+
+  
+
+create table TbProyecto( 
+
+CharProyectoId char(10) , 
+
+CharProyectoNombre char(10) , 
+
+CharProyectoTipo char(10), 
+
+CharProyectoStatus char(10), 
+
+CONSTRAINT pk_TbProyecto PRIMARY KEY (CharProyectoId) 
+
+); 
+
+  
+
+  
+
+create table TbBeneficiario ( 
+
+CharBeneficiarioIxId char(10), 
+
+VarcharBeneficiarioId varchar2(11) , 
+
+CharBeneficiarioGenero char(10),  
+
+CharBeneficiarioNombre char(10) , 
+
+DateBeneficiarioFechaNacimiento DATE , 
+
+NumberBeneficiarioEdad number , 
+
+CharProvinciaId char(10) , 
+
+CharCantonId char(10) , 
+
+CharParroquiaId char(10) , 
+
+CharProyectoId char(10) , 
+
+CONSTRAINT pk_TbBeneficiario PRIMARY KEY (CharBeneficiarioIxId), 
+
+FOREIGN KEY (CharProvinciaId) REFERENCES TbProvincia(CharProvinciaId), 
+
+FOREIGN KEY (CharCantonId) REFERENCES TbCanton(CharCantonId), 
+
+FOREIGN KEY (CharParroquiaId) REFERENCES TbParroquia(CharParroquiaId), 
+
+FOREIGN KEY (CharProyectoId) REFERENCES TbProyecto(CharProyectoId) 
+
+); 
+
+_ 
+
+  
+
+create table TbAmortizacion ( 
+
+CharAmortizacionId char(10) , 
+
+DateAmortizacionFechaTransaccion Date , 
+
+NumberAmortizacionPagoPeriodico NUMBER , 
+
+NumberAmortizacionCapital NUMBER , 
+
+NumberAmortizacionTipoInteresPeriodico NUMBER , 
+
+NumberAmortizacionNumeroTotalPagos NUMBER , 
+
+CONSTRAINT pk_TbAmortizacion PRIMARY KEY (CharAmortizacionId) 
+
+); 
+
+create table TbBeneficio( 
+
+CharBeneficiarioIxId char(10), 
+
+CharParametroId char(10), 
+
+CharServicioId char(10), 
+
+CharAmortizacionId char(10), 
+
+CONSTRAINT pk_TbBeneficio PRIMARY KEY (CharBeneficiarioIxId, CharParametroId, CharServicioId, CharAmortizacionId), 
+
+FOREIGN KEY ( CharServicioId) REFERENCES TbServicio(CharServicioId), 
+
+FOREIGN KEY (CharBeneficiarioIxId) REFERENCES TbBeneficiario(CharBeneficiarioIxId), 
+
+FOREIGN KEY (CharAmortizacionId) REFERENCES TbAmortizacion(CharAmortizacionId) 
+
+); 
+
+ 
