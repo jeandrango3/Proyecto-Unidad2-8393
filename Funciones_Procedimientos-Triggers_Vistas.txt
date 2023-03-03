@@ -1,0 +1,575 @@
+-----------------------Tabla Provincia ------------------------
+/////// INSERT ////////
+
+create or replace procedure sp_provincia_insert(
+Charprovinciaid in char ,
+charprovincianombre in char ,
+charprovinciastatus in char)
+as 
+Begin 
+   insert into tbprovincia VALUES (Charprovinciaid ,
+ charprovincianombre , charprovinciastatus );
+
+End sp_provincia_insert;
+/
+
+excute  sp_provincia_insert('','','')
+
+/////// UPDATE ////////
+
+create or replace procedure sp_provincia_update(charproid in char , charnombre in char)
+is
+begin
+update tbprovincia
+set   charprovincianombre =charnombre where charproid  = charprovinciaid;
+
+commit;
+end;
+/
+
+BEGIN		
+   sp_provincia_update('PRO02','NuevaPro');
+END;
+
+-----------------------Tabla Canton ------------------------
+/////// INSERT ////////
+
+create or replace procedure sp_canton_insert(charcantonid in char , charcantonnombre in char , charcantonstatus in char, charprovinciaid in char)
+as 
+Begin 
+   insert into tbcanton VALUES (Charcantonid , charcantonnombre , charcantonstatus ,  charprovinciaid);
+
+End sp_canton_insert;
+/
+
+excute  sp_canton_insert('','','','')
+
+/////// UPDATE ////////
+
+create or replace procedure sp_canton_update(charcanid in char , charnombre in char)
+is
+begin
+update tbcanton
+set   charcantonnombre =charnombre where charcanid  = charcantonid;
+
+commit;
+end;
+/
+
+BEGIN		
+   sp_canton_update('CA02','NuevoCa');
+END;
+
+-----------------------Tabla Parroquia ------------------------
+/////// INSERT ////////
+
+create or replace procedure sp_Parroquia_insert
+(charParroquiaid in char , charParroquianombre in char , charParroquiastatus in char, charprovinciaid in char, charcantonid in char)
+as 
+Begin 
+   insert into tbParroquia VALUES (CharParroquiaid , charParroquianombre , charParroquiastatus ,  charprovinciaid,charcantonid);
+
+End sp_Parroquia_insert;
+/
+
+excute  sp_Parroquia_insert('','','','','')
+
+/////// UPDATE ////////
+
+create or replace procedure sp_parroquia_update(charpaid in char , charnombre in char)
+is
+begin
+update tbparroquia
+set   charparroquianombre =charnombre where charpaid  = charparroquiaid;
+
+commit;
+end;
+/
+
+BEGIN		
+   sp_parroquia_update('PA02','NuevaPa');
+END;
+
+
+
+
+-----------------------Tabla Empleado ------------------------
+/////// INSERT ////////
+
+create or replace procedure sp_empleado_insert(
+CharEmpleadoIxId   in char ,
+varcharempleadoid in varchar2 ,
+CharempleadoNombre in char,
+charempleadogenero in char,
+charempleadodescripcion in char,
+Dateempleadofechanacimiento in date,
+Numberempleadoedad in number, 
+charempleadostatus in char)
+as 
+Begin 
+   insert into tbempleado VALUES (CharEmpleadoIxId, varcharempleadoid ,CharempleadoNombre,charempleadogenero, 
+charempleadodescripcion,Dateempleadofechanacimiento,
+ Numberempleadoedad, charempleadostatus);
+
+End sp_empleado_insert ;
+/
+
+excute  sp_empleado_insert()
+
+/////// UPDATE ////////
+
+create or replace procedure sp_empleado_update(p_empleadoix in char , p_empleadostatus in char)
+is
+begin
+update tbempleado 
+set   charempleadostatus =p_empleadostatus where charempleadoixid  = p_empleadoix ;
+
+commit;
+end;
+/
+
+BEGIN		
+   sp_empleado_update('E02','Activo');
+END;
+
+/////////SELECT/////////////
+CREATE or replace procedure sp_datosempleado(charempleadoix in char)
+as 
+C1 SYS_REFCURSOR;
+Begin 
+OPEN C1 FOR
+    Select tbempleado.charempleadoixid ,tbempleado.charempleadonombre, tbagencia.charagenciaid
+    from tbempleado
+	inner join tbempleadorol on tbempleado.charempleadoixid = tbempleadorol.charempleadoixid
+	inner join tbrol on tbempleadorol.charrolid = tbrol.charrolid
+	inner join tbpermiso on tbpermiso.charrolid = tbrol.charrolid
+	inner join tbempleadorolpermiso on tbempleadorolpermiso.charpermisoid = tbpermiso.charpermisoid
+inner join tbagencia on tbempleadorolpermiso.charagenciaid = tbagencia.charagenciaid
+    where tbempleado.charempleadoixid like charempleadoix ;
+ 
+dbms_SQL.return_result(c1);
+End;
+/
+set serveroutput on 
+Exec sp_datosempleado('E02');
+
+-----------------------Tabla Rol ------------------------
+/////// INSERT ////////
+
+create or replace procedure sp_Rol_insert
+(charRolid in char , charRolnombre in char , charRoldescripcion in char)
+as 
+Begin 
+   insert into tbrol VALUES (charRolid , charRolnombre, charRoldescripcion);
+
+End sp_Rol_insert;
+/
+
+excute  sp_Rol_insert('','','')
+
+/////// UPDATE ////////
+
+create or replace procedure sp_rol_update(
+charid in char ,
+charnombre in char,
+chardescripcion in char )
+is
+begin
+update tbrol
+set   charrolnombre =charnombre,charroldescripcion=chardescripcion  where charid  = charrolid ;
+
+commit;
+end;
+/
+
+BEGIN		
+   sp_rol_update('ROL02','NuevoRol');
+END;
+
+
+
+-----------------------Tabla Permiso ------------------------
+/////// INSERT ////////
+
+create or replace procedure sp_Permiso_insert(
+charPermisoid in char ,
+charPermisonombre in char , 
+charPermisodescripcion in char,
+charrolid in char )
+as 
+Begin 
+   insert into tbpermiso VALUES (charPermisoid , charPermisonombre, charPermisodescripcion, charrolid);
+
+End sp_Permiso_insert;
+/
+
+excute  sp_Permiso_insert('','','','')
+
+/////// UPDATE ////////
+
+create or replace procedure sp_permiso_update(
+charid in char ,
+charnombre in char,
+chardescripcion in char,
+charrol in char  )
+is
+begin
+update tbpermiso
+set   charpermisonombre =charnombre,charpermisodescripcion=chardescripcion , charrolid=charrol 
+where charid  = charpermisoid ;
+
+commit;
+end;
+/
+
+BEGIN		
+   sp_rol_update('ROL02','NuevoRol');
+END;
+
+
+-----------------------Tabla Agencia ------------------------
+/////// INSERT ////////
+
+create or replace procedure sp_Agencia_insert(
+charAgenciaid in char ,
+charAgencianombre in char , 
+charPermisodescripcion in char,
+charrolid in char )
+as 
+Begin 
+   insert into tbpermiso VALUES (charPermisoid , charPermisonombre, charPermisodescripcion, charrolid);
+
+End sp_Permiso_insert;
+/
+
+excute  sp_Permiso_insert('','','','')
+
+/////// UPDATE ////////
+
+create or replace procedure sp_permiso_update(
+charid in char ,
+charnombre in char,
+chardescripcion in char,
+charrol in char  )
+is
+begin
+update tbpermiso
+set   charpermisonombre =charnombre,charpermisodescripcion=chardescripcion , charrolid=charrol 
+where charid  = charpermisoid ;
+
+commit;
+end;
+/
+
+BEGIN		
+   sp_rol_update('ROL02','NuevoRol');
+END;
+
+
+-------------------FUNCIONES----------------------------
+
+
+
+
+Vamos a realizar una funcion para visualizar la cantidad de agencias, comprobaremos cuantas existen en la provincia de pichincha
+
+Select  count(TbAgencia.CharAgenciaNombre)
+from TbAgencia
+inner join TbProvincia on TbAgencia.CharProvinciaId=TbProvincia.CharProvinciaId
+where CharProvinciaNombre= 'Pichincha';
+
+
+
+CREATE OR REPLACE FUNCTION fn_get_agencias_total(
+    in_provincianame VARCHAR2
+) 
+RETURN NUMBER
+IS
+   total_agencias NUMBER := 0;
+BEGIN
+    -- get total agencias
+
+   Select  count(TbAgencia.CharAgenciaNombre)
+INTO total_agencias
+from TbAgencia
+inner join TbProvincia on TbAgencia.CharProvinciaId=TbProvincia.CharProvinciaId
+where CharProvinciaNombre= (in_provincianame);
+
+    -- return total agencias
+    RETURN total_agencias;
+END;
+/
+
+
+
+Select fn_get_agencias_total('Pichincha')
+from dual;
+
+
+
+
+Se desea realizar una funcion para conocer la cantidad de personas que ejecutan ese rol, que existen por cada provincia ya que son ellos los que aprueban los créditos de desarrollo humano y lo comprobaremos con el rol 'Asesor'
+
+Select  count(TbRol.CharRolNombre)
+from TbRol
+inner join TbEmpleadoRolPermiso on TbRol.CharRolId=TbEmpleadoRolPermiso.CharRolId
+inner join TbAgencia on TbAgencia.CharAgenciaId=TbEmpleadoRolPermiso.CharAgenciaId
+inner join TbProvincia on TbAgencia.CharProvinciaId=TbProvincia.CharProvinciaId
+where TbRol.CharRolNombre = 'Asesor';
+
+
+
+CREATE OR REPLACE FUNCTION fn_get_total_Rol(
+    in_rolname VARCHAR2
+) 
+RETURN NUMBER
+IS
+   rol_total NUMBER := 0;
+BEGIN
+    -- get total rol
+   Select  count(TbRol.CharRolNombre)
+INTO rol_total 
+from TbRol
+inner join TbEmpleadoRolPermiso on TbRol.CharRolId=TbEmpleadoRolPermiso.CharRolId
+inner join TbAgencia on TbAgencia.CharAgenciaId=TbEmpleadoRolPermiso.CharAgenciaId
+inner join TbProvincia on TbAgencia.CharProvinciaId=TbProvincia.CharProvinciaId
+where TbRol.CharRolNombre = 'Asesor';
+
+    -- return the total rol
+    RETURN  rol_total;
+END;
+/
+
+
+Select fn_get_total_Rol('Asesor')
+from dual;
+
+
+
+
+
+
+Vamos a mostrar una funcion para saber la cantidad de beneficiarios por provincia para conocer cuál es la provincia con más personas de bajos recursos, en este caso probaremos con 'Esmeraldas'.
+
+Select count(TbBeneficiario.CharBeneficiarioId)
+from TbBeneficiario 
+inner join TbProvincia on TbBeneficiario.CharProvinciaId=TbProvincia.CharProvinciaId
+where TbProvincia.CharProvinciaNombre = 'Esmeraldas';
+
+
+
+CREATE OR REPLACE FUNCTION fn_get_beneficiarios_total_Provincia(
+    in_provincianame VARCHAR2
+) 
+RETURN NUMBER
+IS
+   beneficiarios_total_provincia NUMBER := 0;
+BEGIN
+    -- get total beneficiaries
+   Select count(TbBeneficiario.CharBeneficiarioId)
+INTO beneficiarios_total_provincia
+from TbBeneficiario 
+inner join TbProvincia on TbBeneficiario.CharProvinciaId=TbProvincia.CharProvinciaId
+where TbProvincia.CharProvinciaNombre = (in_provincianame);
+
+    -- return the total beneficiaries
+    RETURN beneficiarios_total_provincia;
+END;
+/
+
+
+
+Select fn_get_beneficiarios_total_Provincia('Esmeraldas')
+from dual;
+
+
+
+
+
+Queremos una funcion para visualizar la cantidad de proyectos que hay por provincia, en este caso visualizaremos de Guayas que tiene una gran población.
+
+Select count(TbProyecto.CharProyectoNombre)
+from TbBeneficiario
+inner join TbProyecto on TbBeneficiario.CharProyectoId=TbProyecto.CharProyectoId
+inner join TbProvincia on TbProvincia.CharProvinciaId=TbBeneficiario.CharProvinciaId
+where TbProvincia.CharProvinciaNombre = 'Guayas';
+
+
+
+
+CREATE OR REPLACE FUNCTION fn_get_total_proyectos(
+    in_provinciaproyectos VARCHAR2
+) 
+RETURN NUMBER
+IS
+	proyectos_total_provincia    NUMBER := 0;
+BEGIN
+    -- get total proyectos
+	Select count(TbProyecto.CharProyectoNombre)
+INTO proyectos_total_provincia   
+from TbBeneficiario
+inner join TbProyecto on TbBeneficiario.CharProyectoId=TbProyecto.CharProyectoId
+inner join TbProvincia on TbProvincia.CharProvinciaId=TbBeneficiario.CharProvinciaId
+where TbProvincia.CharProvinciaNombre = (in_provinciaproyectos);
+
+    -- return the total proyects
+    RETURN proyectos_total_provincia;
+END;
+/
+
+
+
+Select fn_get_total_proyectos('Guayas')
+from dual;
+
+
+
+
+
+Queremos saber por medio de una función cuál es el capital total que se ofrece para realizar cada uno  de los créditos de desarrollo humano enfocado a 
+los diferentes proyectos en este caso observaremos con el tipo 'Social'. Dicha informacion se desea conocer para  personas mayores de 18 años y menores de 50.
+
+Select  sum(TbAmortizacion.NumberAmortizacionCapital)
+from TbProyecto
+inner join TbBeneficiario on TbProyecto.CharProyectoId=TbBeneficiario.CharProyectoId
+inner join TbBeneficio on TbBeneficiario.CharBeneficiarioIxId=TbBeneficio.CharBeneficiarioIxId
+inner join TbAmortizacion on TbBeneficio.CharAmortizacionId=TbAmortizacion.CharAmortizacionId
+where (TbBeneficiario.NumberBeneficiarioEdad between '18' and '50') and TbProyecto.CharProyectoTipo = 'Social';
+
+
+
+CREATE OR REPLACE FUNCTION fn_get_monto_total_proyectos(
+    in_proyecto_tipo VARCHAR2
+) 
+RETURN NUMBER
+IS
+   Monto_Total_Proyectos NUMBER := 0;
+BEGIN
+    -- get total monto for proyects 
+
+   Select  sum(TbAmortizacion.NumberAmortizacionCapital)
+INTO Monto_Total_Proyectos
+from TbProyecto
+inner join TbBeneficiario on TbProyecto.CharProyectoId=TbBeneficiario.CharProyectoId
+inner join TbBeneficio on TbBeneficiario.CharBeneficiarioIxId=TbBeneficio.CharBeneficiarioIxId
+inner join TbAmortizacion on TbBeneficio.CharAmortizacionId=TbAmortizacion.CharAmortizacionId
+where (TbBeneficiario.NumberBeneficiarioEdad between '18' and '50') and TbProyecto.CharProyectoTipo = (in_proyecto_tipo);
+
+    -- return monto total for proyects
+    RETURN Monto_Total_Proyectos;
+END;
+/
+
+
+
+Select fn_get_monto_total_proyectos('Social')
+from dual;´
+
+---------------------------------------------------------------TRRIGGERS --------------------------------------------------------------------------------
+
+--Ordenar Columnas
+column idauditoria format 9999999999
+column txtnombreusuario format a16
+column txtnombreusuarioant format a19
+column datefechaingreso format a16
+column txtoperacion format a13
+
+--Trigger Auditoría
+
+Create table TbAuditoria(
+ IdAuditoria INTEGER GENERATED ALWAYS AS IDENTITY (START WITH 1 INCREMENT BY 1),
+ TxtNombreUsuario varchar2 (100),
+ TxtNombreUsuarioAnt varchar2 (100),
+ DateFechaIngreso Date,
+ TxtOperacion varchar2(50)
+ );
+
+
+
+
+Create or replace trigger TgTbEmpleadoAuditable
+Before Insert or Delete or Update on TbEmpleado
+for each row
+enable
+Declare
+	TxtUser varchar2(100);
+	DateFechaIng date;
+Begin
+	Select user, sysdate into TxtUser, DateFechaIng from dual;
+	if inserting then 
+		insert into TbAuditoria(TxtNombreUsuario, TxtNombreUsuarioAnt, DateFechaIngreso, TxtOperacion) values(TxtUser,'', DateFechaIng, 'Insert');
+	elsif deleting then 
+		insert into TbAuditoria(TxtNombreUsuario, TxtNombreUsuarioAnt, DateFechaIngreso, TxtOperacion) values(TxtUser,'', DateFechaIng, 'Delete');
+	elsif updating then 
+		insert into TbAuditoria(TxtNombreUsuario, TxtNombreUsuarioAnt, DateFechaIngreso, TxtOperacion) values(TxtUser,'', DateFechaIng, 'Update');
+	end if;
+end;
+/
+
+--insertamos un registro para  probar el trigger
+insert into TbEmpleado values ('E5001','1480915001','Jessica Andrango','Femenino','Speak kind old own this mother.','13/07/1994',25,'Inactivo');
+
+--observamos la tabla auditoria
+select * from TbAuditoria;
+
+
+
+
+--segundo trigger
+Create or replace trigger trg_ingreso_fecha_parametro
+	after update of CharParametroStatus or insert on TbParametro
+ENABLE
+declare 
+	fecha DATE;
+BEGIN
+	fecha := SYSDATE; 
+	IF UPDATING then
+		UPDATE TbParametro SET DateParametroFechaDeclaracion=fecha where DateParametroFechaDeclaracion IS NULL;
+	ELSIF INSERTING then
+		UPDATE TbParametro SET DateParametroFechaDeclaracion=fecha where DateParametroFechaDeclaracion IS NULL;
+	END IF;
+END;
+/
+
+Insert into TbParametro values('PM5004','Bono de desarrollo humano','Necessary majority eas','MIES.','No vigente',NULL,'15/03/2022');	
+
+select DateParametroFechaDeclaracion from TbParametro where CharParametroId='PM5004';
+
+
+--Tercer trigger
+Create or replace trigger trg_ingreso_fecha_derogacion
+	after update of CharParametroStatus or insert on TbParametro
+ENABLE
+declare 
+	fecha DATE;
+BEGIN
+	fecha := SYSDATE; 
+	IF UPDATING then
+		UPDATE TbParametro SET DateParametroFechaDerogacion=fecha where DateParametroFechaDerogacion IS NULL;
+	ELSIF INSERTING then
+		UPDATE TbParametro SET DateParametroFechaDerogacion=fecha where DateParametroFechaDerogacion IS NULL;
+	END IF;
+END;
+/
+
+Insert into TbParametro values('PM5005','Bono de desarrollo humano','Necessary majority eas','MIES.','No vigente','15/03/2022',NULL);	
+
+select DateParametroFechaDerogacion from TbParametro where CharParametroId='PM5005';
+
+
+--Cuarto trigger
+
+Create or replace trigger tg_status_proyecto_rechazado
+	after Update of CharProyectoStatus on TbProyecto
+ENABLE
+BEGIN
+	IF UPDATING THEN
+		UPDATE TbProyecto SET CharProyectoTipo='Sin acceso al proyecto' where CharProyectoStatus='Denegado';
+	END IF;
+END;
+/
+
+
+
+update TbProyecto set CharProyectoStatus='Denegado' where CharProyectoId='PY54';
+select * from TbProyecto where CharProyectoTipo='Sin acceso al proyecto';
